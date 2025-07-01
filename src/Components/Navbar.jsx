@@ -6,7 +6,7 @@ function Navbar() {
 
     return (
         <>
-            <nav className='text-orange-500 px-6 py-4 flex items-center w-full shadow-md'>
+            <nav className='text-orange-500 px-6 py-4 flex justify-between items-center w-full shadow-md'>
                 <h2 className='text-2xl font-bold tracking-tight'>MANDIRMANZIL</h2>
                 <ul className='hidden md:flex flex-1 justify-center space-x-4 text-lg font-medium items-center'>
                     <li className='hover:text-red-500 hover:underline transition-colors duration-200'><a href=''>Home</a></li>
