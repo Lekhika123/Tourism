@@ -85,7 +85,7 @@ mandirmanzil/
 
 ## 🧑‍💻 Author
 
-This project is built with ❤️ as a personal and cultural initiative to help users experience the spiritual depth of India through technology.
+This project is built with love as a personal and cultural initiative to help users experience the spiritual depth of India through technology.
 
 ---
 
