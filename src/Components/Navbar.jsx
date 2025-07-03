@@ -38,13 +38,13 @@ function Navbar() {
         //     </nav>
         // </>
         <header className='sticky top-0 z-50 bg-white shadow-lg'>
-            <nav className='mx-auto max-w-7xl px-4 sm:px-6'>
-                <div className='flex h-16 items-center justify-between'>
-                    <div className='flex items-center'>
+            <nav className='mx-auto max-w-7xl px-4 sm:px-6 lg:px-8'>
+                <div className='flex justify-between h-16 items-center '>
+                    <div className='flex-1/12 items-center'>
                         <span className='text-xl font-bold text-orange-600 tracking-tight'>MANDIRMANZIL</span>
                     </div>
-                    <div className='hidden md:block'>
-                        <div className='m-10 flex items-baseline'>
+                    <div className='hidden md:block flex-11/12'>
+                        <div className='ml-10 flex items-baseline space-x-4 justify-center'>
                             <a href="" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Home</a>
                             <a href="" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Worship Places</a>
                             <a href="" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Pilgrimages</a>
