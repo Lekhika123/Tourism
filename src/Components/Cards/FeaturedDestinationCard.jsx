@@ -16,7 +16,7 @@ const FeaturedDestinationCard = ({ id, title, description, imageUrl, tags, dista
         <p className="text-yellow-500 text-sm mb-4">Rating: {rating}/5</p>
         <Link
           to={""}
-          className="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition"
+          className="inline-block bg-gradient-to-r from-[#f70000] to-[#ffc400] text-white px-4 py-2 rounded hover:bg-blue-700 transition"
         >
           More Details
         </Link>
