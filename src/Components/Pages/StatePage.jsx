@@ -142,12 +142,13 @@
 
 import React, { useEffect, useState } from 'react';
 import FeaturedDestinationCard from '../Cards/FeaturedDestinationCard';
+import templeData from '../../data/ReligiousPlaces.json'
 
 function StatePage() {
 
-  const apiKey = import.meta.env.VITE_API_KEY;
-  const apiHost = import.meta.env.VITE_API_HOST;
-  const apiURL = import.meta.env.VITE_API_URL;
+  // const apiKey = import.meta.env.VITE_API_KEY;
+  // const apiHost = import.meta.env.VITE_API_HOST;
+  // const apiURL = import.meta.env.VITE_API_URL;
 
 
   const states = [
@@ -157,30 +158,59 @@ function StatePage() {
     "Nagaland", "Odisha", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu",
     "Telangana", "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal"];
 
-  const [stateData, setStateData] = useState([]);
-  const [isLoading, setLoading] = useState(true);
+  // const [stateData, setStateData] = useState([]);
+  const [isLoading, setLoading] = useState(false);
+  const [displayedData, setDisplayedData] = useState([]);
+  const [itemsToShow, setItemsToShow] = useState(6); // Initial number of items
 
   useEffect(() => {
-    fetch(apiURL, {
-      method: 'GET',
-      headers: {
-        'X-RapidAPI-Key': apiKey,
-        'X-RapidAPI-Host': apiHost
-      }
-    })
-      .then(response => response.json())
-      .then(data => {
-        console.log(data);
-        
-        setStateData(data);
-        setLoading(false);
-      })
-      .catch(error => {
-        console.log('Error fetching data', error);
-        setLoading(false);
+    setLoading(true); // Start loading
+    const timeout = setTimeout(() => {
+      setDisplayedData(templeData.religious_places.slice(0, itemsToShow));
+      setLoading(false); // Stop loading after data is set
+    }, 500); // Optional: simulate delay
 
-      })
-  }, [])
+    return () => clearTimeout(timeout);
+  }, [itemsToShow])
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (
+        window.innerHeight + document.documentElement.scrollTop
+        >= document.documentElement.offsetHeight - 100
+      ) {
+        // Load more when reaching near bottom
+        setItemsToShow(prev => prev + 6);
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+
+
+  // useEffect(() => {
+  //   fetch(apiURL, {
+  //     method: 'GET',
+  //     headers: {
+  //       'X-RapidAPI-Key': apiKey,
+  //       'X-RapidAPI-Host': apiHost
+  //     }
+  //   })
+  //     .then(response => response.json())
+  //     .then(data => {
+  //       console.log(data);
+
+  //       setStateData(data);
+  //       setLoading(false);
+  //     })
+  //     .catch(error => {
+  //       console.log('Error fetching data', error);
+  //       setLoading(false);
+
+  //     })
+  // }, [])
 
   return (<>
     <section className='bg-white py-16'>
@@ -188,7 +218,7 @@ function StatePage() {
         <div className='text-center'>
           <h2 className='text-4xl font-bold bg-gradient-to-t from-[#f70000] to-[#ffc400] text-transparent bg-clip-text mb-4'>Search By State</h2>
           <p text-xl text-gray-900 max-w-2xl mx-aut>Reach your dream destination by making precise search</p>
-          <select className='bg-white border-2 border-black rounded-full p-4 w-full max-w-3xl mx-auto shadow-2xl'>
+          <select className='bg-white border-2 border-black rounded-full p-3 m-3 w-full max-w-3xl mx-auto shadow-2xl'>
             {states.map((state) => (
               <option value="state">{state}</option>
             ))}
@@ -197,16 +227,16 @@ function StatePage() {
             <h2>Loading...</h2>
           ) : (
             <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 py-12'>
-              {stateData.data.map((state) => (
+              {displayedData.map((state) => (
                 <FeaturedDestinationCard
-                  key={state.temple_name}
-                  id={state.temple_name}
-                  title={state.temple_name}
-                  description={state.temple_description}
-                  imageUrl={state.temple_image}
-                  tags={[state.district,state.country]}
-                  distance={state.address}
-                  rating={state.temple_location}
+                  key={state.name}
+                  id={state.name}
+                  title={state.name}
+                  description={state.description}
+                  imageUrl={state.image}
+                  tags={[state.state, state.country]}
+                  distance={state.distance_from_airport}
+                  rating={state.rating}
                 />
               ))}
 
