@@ -113,7 +113,7 @@
     {
       "name": "Jama Masjid",
       "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1011",
-      "image": "https://example.com/images/jama_masjid_burhanpur.jpg",
+      "image": "https://www.trawell.in/admin/images/upload/259815519Mandu_Jami_Masjid.jpg",
       "state": "Madhya Pradesh",
       "country": "India",
       "location": "Burhanpur",
@@ -124,7 +124,7 @@
     {
       "name": "Ahilyeshwar Temple",
       "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1012",
-      "image": "https://example.com/images/ahilyeshwar_temple.jpg",
+      "image": "https://preview.redd.it/3des1jp64qe91.jpg?width=640&crop=smart&auto=webp&s=a975c25f54602dd19b45a47093def9c2f594698c",
       "state": "Madhya Pradesh",
       "country": "India",
       "location": "Maheshwar",
@@ -135,7 +135,7 @@
     {
       "name": "Bhojeshwar Temple",
       "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1013",
-      "image": "https://example.com/images/bhojeshwar_temple.jpg",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6a/de/67/bhojpur-temple.jpg?w=1200&h=-1&s=1",
       "state": "Madhya Pradesh",
       "country": "India",
       "location": "Bhojpur",
@@ -146,7 +146,7 @@
     {
       "name": "Ram Ghat Temples",
       "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1014",
-      "image": "https://example.com/images/ram_ghat_temples.jpg",
+      "image": "https://www.trawell.in/admin/images/upload/891041978Ram_Ghat.jpg",
       "state": "Madhya Pradesh",
       "country": "India",
       "location": "Chitrakoot",
@@ -157,7 +157,7 @@
     {
       "name": "St. Joseph’s Church",
       "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1015",
-      "image": "https://example.com/images/st_josephs_church_jabalpur.jpg",
+      "image": "https://thumbs.dreamstime.com/b/beautifully-decorated-st-joseph-worker-parish-church-pacdal-baguio-city-philippines-beautifully-decorated-st-joseph-worker-164067718.jpg",
       "state": "Madhya Pradesh",
       "country": "India",
       "location": "Jabalpur",
@@ -168,7 +168,7 @@
     {
       "name": "Mata Vaishno Devi Temple",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890001",
-      "image": "https://example.com/images/vaishno_devi_temple.jpg",
+      "image": "https://www.indiapilgrimtours.com/articles/wp-content/uploads/2019/04/Darshani-Darwaza.jpg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Katra",
@@ -179,7 +179,7 @@
     {
       "name": "Amarnath Cave Temple",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890002",
-      "image": "https://example.com/images/amarnath_cave_temple.jpg",
+      "image": "https://files.prokerala.com/news/photos/imgs/1024/amarnath-cave-temple-1224546.jpg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Anantnag",
@@ -190,7 +190,7 @@
     {
       "name": "Hazratbal Masjid",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890003",
-      "image": "https://example.com/images/hazratbal_masjid.jpg",
+      "image": "https://www.tourmyindia.com/socialimg/hazaratbal-shrine-kashmir.jpg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Srinagar",
@@ -201,7 +201,7 @@
     {
       "name": "Raghunath Mandir",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890004",
-      "image": "https://example.com/images/raghunath_mandir.jpg",
+      "image": "https://www.astroved.com/astropedia/assets/images/temples/ragunath.jpg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Jammu",
@@ -212,7 +212,7 @@
     {
       "name": "Shankaracharya Temple",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890005",
-      "image": "https://example.com/images/shankaracharya_temple.jpg",
+      "image": "https://media.tripinvites.com/places/srinagar/shankaracharya-temple/beautiful-view-of-shankaracharya-temple-featured.jpg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Srinagar",
@@ -223,7 +223,7 @@
     {
       "name": "Kheer Bhawani Temple",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890006",
-      "image": "https://example.com/images/kheer_bhawani_temple.jpg",
+      "image": "https://i0.wp.com/www.manjulikapramod.com/wp-content/uploads/2023/03/The-spring-that-changes-colours.jpg?ssl=1",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Tulmulla, Ganderbal",
@@ -234,7 +234,7 @@
     {
       "name": "Jamia Masjid",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890007",
-      "image": "https://example.com/images/jamia_masjid_srinagar.jpg",
+      "image": "https://www.trawell.in/admin/images/upload/309708718jama-masjid-kashmir.jpg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Srinagar",
@@ -245,7 +245,7 @@
     {
       "name": "Gurudwara Chhevin Patshahi",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890008",
-      "image": "https://example.com/images/gurudwara_chhevin_patshahi.jpg",
+      "image": "https://cmsjksikhscom-live-98782734a0b2440a8f30-4d40d1e.divio-media.net/filer_public_thumbnails/filer_public/e9/36/e936d991-9a8a-4271-8e5b-536efc2e662c/kalampora_3.jpeg__1024.0x768.0_q90_crop-10_subsampling-2_upscale.jpg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Srinagar",
@@ -267,7 +267,7 @@
     {
       "name": "Charar-e-Sharief",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890010",
-      "image": "https://example.com/images/charar_e_sharief.jpg",
+      "image": "https://www.sanskritimagazine.com/wp-content/uploads/2018/03/2740-martand-sun-temple-in-jammu-and-kashmir.jpg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Budgam",
@@ -278,7 +278,7 @@
     {
       "name": "Peer Kho Cave Temple",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890011",
-      "image": "https://example.com/images/peer_kho_temple.jpg",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/59/da/58/beautiful.jpg?w=300&h=300&s=1",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Jammu",
@@ -289,7 +289,7 @@
     {
       "name": "Lamayuru Monastery",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890012",
-      "image": "https://example.com/images/lamayuru_monastery.jpg",
+      "image": "https://www.ladakh-tourism.net/wp-content/uploads/2022/01/Lamayuru-monastery--1024x538.jpeg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Lamayuru, Leh",
@@ -300,7 +300,7 @@
     {
       "name": "Ranbireshwar Temple",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890013",
-      "image": "https://example.com/images/ranbireshwar_temple.jpg",
+      "image": "https://www.trawell.in/admin/images/upload/206750503Ranbireshwar_Temple_Main.jpg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Jammu",
@@ -311,7 +311,7 @@
     {
       "name": "Holy Family Catholic Church",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890014",
-      "image": "https://example.com/images/holy_family_church.jpg",
+      "image": "https://www.holyfamilyparish.cc/wp-content/uploads/2020/04/rectangle-church--scaled.jpg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Srinagar",
@@ -322,7 +322,7 @@
     {
       "name": "Dastgeer Sahib",
       "id": "8a9d3b4c-f7e6-4290-bcd1-234567890015",
-      "image": "https://example.com/images/dastgeer_sahib.jpg",
+      "image": "https://www.trawell.in/admin/images/upload/509714952Dastgeer_Sahib_Main.jpgg",
       "state": "Jammu and Kashmir",
       "country": "India",
       "location": "Srinagar",
@@ -344,7 +344,7 @@
     {
       "name": "Kedarnath Temple",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901002",
-      "image": "https://example.com/images/kedarnath_temple.jpg",
+      "image": "https://www.holidify.com/images/cmsuploads/compressed/EntranceofthebeautifulBadrinathTemple1_20191224124938_20191224125002.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Kedarnath",
@@ -366,7 +366,7 @@
     {
       "name": "Yamunotri Temple",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901004",
-      "image": "https://example.com/images/yamunotri_temple.jpg",
+      "image": "https://www.bontravelindia.com/wp-content/uploads/2022/03/Gangotri-Temple.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Yamunotri",
@@ -377,7 +377,7 @@
     {
       "name": "Hemkund Sahib",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901005",
-      "image": "https://example.com/images/hemkund_sahib.jpg",
+      "image": "https://skyjamtours.com/wp-content/uploads/2021/04/Hemkund-Banner.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Chamoli",
@@ -388,7 +388,7 @@
     {
       "name": "Jama Masjid Dehradun",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901006",
-      "image": "https://example.com/images/jama_masjid_dehradun.jpg",
+      "image": "https://i.pinimg.com/originals/9f/12/fe/9f12feba91fff5e5bc1f0c6839d0bde2.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Dehradun",
@@ -399,7 +399,7 @@
     {
       "name": "Neelkanth Mahadev Temple",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901007",
-      "image": "https://example.com/images/neelkanth_mahadev_temple.jpg",
+      "image": "https://www.bontravelindia.com/wp-content/uploads/2022/09/Neelkanth-Mahadev-Temple-Rishikesh-1024x615.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Rishikesh",
