@@ -824,6 +824,171 @@
       "description": "A prominent Christian church in the capital, serving the Christian community, which forms a significant portion of Arunachal Pradesh’s population.",
       "rating": 4.4,
       "distance_from_airport": "72 km"
+    },
+    {
+      "name": "Kamakhya Temple",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012001",
+      "image": "https://example.com/images/kamakhya_temple.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Guwahati",
+      "description": "A major Hindu Shakti Peeth dedicated to Goddess Kamakhya, located on Nilachal Hill, known for its tantric worship and the annual Ambubachi Mela.",
+      "rating": 4.9,
+      "distance_from_airport": "20 km"
+    },
+    {
+      "name": "Umananda Temple",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012002",
+      "image": "https://example.com/images/umananda_temple.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Guwahati",
+      "description": "A Hindu temple dedicated to Lord Shiva, situated on Peacock Island in the Brahmaputra River, accessible by ferry, known for its scenic beauty.",
+      "rating": 4.7,
+      "distance_from_airport": "22 km"
+    },
+    {
+      "name": "Hajo Powa Mecca",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012003",
+      "image": "https://example.com/images/hajo_powa_mecca.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Hajo",
+      "description": "A historic mosque believed to have a quarter of the sanctity of Mecca, attracting Muslim pilgrims and revered for its spiritual significance.",
+      "rating": 4.6,
+      "distance_from_airport": "35 km"
+    },
+    {
+      "name": "Gurudwara Sri Guru Tegh Bahadur Sahib",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012004",
+      "image": "https://example.com/images/gurudwara_dhubri.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Dhubri",
+      "description": "A historic Sikh gurdwara built to commemorate Guru Tegh Bahadur’s visit, one of the oldest gurdwaras in Assam, located on the Brahmaputra’s banks.",
+      "rating": 4.6,
+      "distance_from_airport": "15 km"
+    },
+    {
+      "name": "Christ Church",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012005",
+      "image": "https://example.com/images/christ_church_guwahati.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Guwahati",
+      "description": "One of the oldest churches in Northeast India, established in 1844, known for its colonial architecture and serene environment for Christian worship.",
+      "rating": 4.5,
+      "distance_from_airport": "18 km"
+    },
+    {
+      "name": "Hayagriva Madhava Temple",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012006",
+      "image": "https://example.com/images/hayagriva_madhava_temple.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Hajo",
+      "description": "A Hindu temple dedicated to Lord Vishnu, also revered by Buddhists, known for its ancient architecture and multi-religious significance.",
+      "rating": 4.6,
+      "distance_from_airport": "35 km"
+    },
+    {
+      "name": "Navagraha Temple",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012007",
+      "image": "https://example.com/images/navagraha_temple.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Guwahati",
+      "description": "A Hindu temple dedicated to the nine planetary deities, located on Chitrachal Hill, known for its astrological significance and panoramic views.",
+      "rating": 4.5,
+      "distance_from_airport": "20 km"
+    },
+    {
+      "name": "Basistha Temple",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012008",
+      "image": "https://example.com/images/basistha_temple.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Guwahati",
+      "description": "A Hindu temple dedicated to Lord Shiva, founded by sage Basistha, located amidst lush greenery near a stream, popular for its serene setting.",
+      "rating": 4.5,
+      "distance_from_airport": "15 km"
+    },
+    {
+      "name": "Sukreswar Temple",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012009",
+      "image": "https://example.com/images/sukreswar_temple.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Guwahati",
+      "description": "A Hindu temple dedicated to Lord Shiva, located on the Brahmaputra River’s banks, known for housing one of the largest Shiva lingams in India.",
+      "rating": 4.6,
+      "distance_from_airport": "23 km"
+    },
+    {
+      "name": "Dirgheshwari Temple",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012010",
+      "image": "https://example.com/images/dirgheshwari_temple.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Guwahati",
+      "description": "A Hindu temple dedicated to Goddess Durga, considered a Shakti Peeth, located on the northern bank of the Brahmaputra, revered for tantric worship.",
+      "rating": 4.5,
+      "distance_from_airport": "25 km"
+    },
+    {
+      "name": "Jama Masjid Nagaon",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012011",
+      "image": "https://example.com/images/jama_masjid_nagaon.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Nagaon",
+      "description": "A prominent mosque serving the Muslim community in Nagaon, known for its serene ambiance and role as a center for religious gatherings.",
+      "rating": 4.4,
+      "distance_from_airport": "120 km"
+    },
+    {
+      "name": "Srimanta Sankardev Namghar",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012012",
+      "image": "https://example.com/images/sankardev_namghar.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Majuli",
+      "description": "A Vaishnavite prayer hall in the Satra tradition, founded by Srimanta Sankardev, central to Assamese culture and spirituality on Majuli island.",
+      "rating": 4.7,
+      "distance_from_airport": "170 km"
+    },
+    {
+      "name": "Shiva Dol",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012013",
+      "image": "https://example.com/images/shiva_dol.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Sivasagar",
+      "description": "A historic Hindu temple dedicated to Lord Shiva, built by the Ahom queen Ambika in 1734, part of a complex with Vishnu and Devi temples.",
+      "rating": 4.6,
+      "distance_from_airport": "60 km"
+    },
+    {
+      "name": "Tilinga Mandir",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012014",
+      "image": "https://example.com/images/tilinga_mandir.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Bordubi, Tinsukia",
+      "description": "A unique Hindu temple dedicated to Lord Shiva, known for thousands of bells tied by devotees as offerings for wish fulfillment.",
+      "rating": 4.5,
+      "distance_from_airport": "40 km"
+    },
+    {
+      "name": "Jorhat Baptist Church",
+      "id": "1c9f5d6e-h9g8-6492-def3-456789012015",
+      "image": "https://example.com/images/jorhat_baptist_church.jpg",
+      "state": "Assam",
+      "country": "India",
+      "location": "Jorhat",
+      "description": "A prominent Christian church in Jorhat, serving the local Christian community with its serene environment and historical significance.",
+      "rating": 4.4,
+      "distance_from_airport": "7 km"
     }
   ]
 }
