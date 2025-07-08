@@ -410,7 +410,7 @@
     {
       "name": "Tungnath Temple",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901008",
-      "image": "https://example.com/images/tungnath_temple.jpg",
+      "image":"https://www.bontravelindia.com/wp-content/uploads/2022/03/Shri-Tungnath-Temple-1.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Chamoli",
@@ -421,7 +421,7 @@
     {
       "name": "Mindrolling Monastery",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901009",
-      "image": "https://example.com/images/mindrolling_monastery.jpg",
+      "image": "https://hblimg.mmtcdn.com/content/hubble/img/dehradun/mmt/activities/m_Mindrolling%20Monastery-1_l_385_582.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Dehradun",
@@ -432,7 +432,7 @@
     {
       "name": "Jwalamukhi Temple",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901010",
-      "image": "https://example.com/images/jwalamukhi_temple.jpg",
+      "image": "http://www.journeytoexplore.com/wp-content/uploads/2019/05/images-1.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Pauri Garhwal",
@@ -443,7 +443,7 @@
     {
       "name": "Gurudwara Nanakmatta Sahib",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901011",
-      "image": "https://example.com/images/gurudwara_nanakmatta_sahib.jpg",
+      "image": "https://www.hemkunt.in/beautiful-pictures/india/uttarakhand/udham-singh-nagar/gurudwara-shri-nanakmatta-sahib-nanakmatta,-uttarakhand.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Nanakmatta",
@@ -454,7 +454,7 @@
     {
       "name": "St. Francis Church",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901012",
-      "image": "https://example.com/images/st_francis_church_dehradun.jpg",
+      "image": "https://as2.ftcdn.net/v2/jpg/05/00/77/13/1000_F_500771334_arqW2XG3xF6cv5no8OkxsWEO0wJMuBDO.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Dehradun",
@@ -465,7 +465,7 @@
     {
       "name": "Kartik Swami Temple",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901013",
-      "image": "https://example.com/images/kartik_swami_temple.jpg",
+      "image": "https://hellovisit.in/uploads/0000/1/2022/10/19/200-year-old-kartik-swami-temple-to-be-developed-as-an-attraction-tourisme-by-uttarkhand.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Rudraprayag",
@@ -476,7 +476,7 @@
     {
       "name": "Piran Kaliyar Sharif",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901014",
-      "image": "https://example.com/images/piran_kaliyar_sharif.jpg",
+      "image": "https://gouttrakhand.com/wp-content/uploads/2022/12/2022-01-21-1.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Roorkee",
@@ -487,7 +487,7 @@
     {
       "name": "Laxman Jhula Temple",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901015",
-      "image": "https://example.com/images/laxman_jhula_temple.jpg",
+      "image": "https://www.wallpaperuse.com/wallp/36-367305_laxman-name-wallpaper.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Rishikesh",
@@ -498,7 +498,7 @@
     {
       "name": "Tirumala Venkateswara Temple",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012001",
-      "image": "https://example.com/images/tirumala_venkateswara_temple.jpg",
+      "image": "https://img.jagranjosh.com/images/2021/October/22102021/titumala%20tirupati%20devasthanam.png",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Tirupati",
@@ -509,7 +509,7 @@
     {
       "name": "Sri Varaha Lakshmi Narasimha Temple",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012002",
-      "image": "https://example.com/images/varaha_lakshmi_narasimha_temple.jpg",
+      "image": "https://hindupost.in/wp-content/uploads/2021/08/simhachalam-1-696x391.png",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Simhachalam",
@@ -520,7 +520,7 @@
     {
       "name": "Kanaka Durga Temple",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012003",
-      "image": "https://example.com/images/kanaka_durga_temple.jpg",
+      "image": "https://www.go2india.in/ap/images/vijayawada-kanaka-durga-temple.JPG",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Vijayawada",
@@ -531,7 +531,7 @@
     {
       "name": "Sri Venkateswara Swamy Temple",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012004",
-      "image": "https://example.com/images/venkateswara_swamy_temple_cary.jpg",
+      "image": "https://sanatanyatri.com/wp-content/uploads/2022/07/shutterstock_1116249470-scaled.jpg",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Amaravati",
@@ -542,7 +542,7 @@
     {
       "name": "Jama Masjid Guntur",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012005",
-      "image": "https://example.com/images/jama_masjid_guntur.jpg",
+      "image": "https://wallpaperaccess.com/full/9219998.jpg",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Guntur",
@@ -553,7 +553,7 @@
     {
       "name": "St. Mary’s Church",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012006",
-      "image": "https://example.com/images/st_marys_church_vizag.jpg",
+      "image": "https://www.lifeberrys.com/img/article/medak-church,-1707041362-lb.jpg",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Visakhapatnam",
@@ -564,7 +564,7 @@
     {
       "name": "Sri Guru Nanak Dev Ji Gurudwara",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012007",
-      "image": "https://example.com/images/gurudwara_vijayawada.jpg",
+      "image": "http://www.discoversikhism.com/images/gurdwara/gurdwara_sri_nanaksar_sahib_thakkarwal/gurdwara_sri_nanaksar_sahib_thakkarwal1.jpg",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Vijayawada",
@@ -575,7 +575,7 @@
     {
       "name": "Srikalahasti Temple",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012008",
-      "image": "https://example.com/images/srikalahasti_temple.jpg",
+      "image": "https://cdn.abhibus.com/2024/08/Srikalahasti-Temple.jpg",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Srikalahasti",
@@ -586,7 +586,7 @@
     {
       "name": "Annavaram Satyanarayana Swamy Temple",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012009",
-      "image": "https://example.com/images/annavaram_temple.jpg",
+      "image": "https://famoustemplesofindia.com/wp-content/uploads/2024/01/Annavaram-Temple-4.jpg",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Annavaram",
@@ -597,7 +597,7 @@
     {
       "name": "Bhadrachalam Sri Rama Temple",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012010",
-      "image": "https://example.com/images/bhadrachalam_temple.jpg",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRy0CjyLn0uBzobc_O-Ta_G6Va9mC75RLV9m8sqaa-xwUChIL5V8UubzpQVIy8176sCaAZQlOaYnZATWHXLG5gGHAC3mQpTmQsLnppEwUqm7M8C3ODO0zPcHPC3CvrqaMIpYK_Sqk45lCp/w1200-h630-p-k-no-nu/Bhadrachalam-Sri-Rama-Temple.jpg",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Bhadrachalam",
@@ -608,7 +608,7 @@
     {
       "name": "Jain Temple, Kolanupaka",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012011",
-      "image": "https://example.com/images/jain_temple_kolanupaka.jpg",
+      "image": "https://i.pinimg.com/originals/f8/2d/48/f82d4824c79f0a0c6dad4dcc827241a5.jpg",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Kolanupaka",
@@ -619,7 +619,7 @@
     {
       "name": "Masjid-e-Mohammadi",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012012",
-      "image": "https://example.com/images/masjid_e_mohammadi_vizag.jpg",
+      "image": "https://thumbs.dreamstime.com/b/la-m%C3%A9dina-arabie-saoudite-mai-proph%C3%A8te-mohammed-mosqu%C3%A9e-al-masjid-un-nabawi-une-l-166340149.jpg",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Visakhapatnam",
@@ -630,7 +630,7 @@
     {
       "name": "Sri Raghavendra Swamy Temple",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012013",
-      "image": "https://example.com/images/raghavendra_swamy_temple.jpg",
+      "image": "https://i.ytimg.com/vi/mIl_vtgpifY/maxresdefault.jpg",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Mantralayam",
@@ -641,7 +641,7 @@
     {
       "name": "St. Paul’s Church",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012014",
-      "image": "https://example.com/images/st_pauls_church_vijayawada.jpg",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.oSHSZQZSj8oW0EVue3QQSwHaE8?pid=Api&P=0&h=180",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Vijayawada",
@@ -652,7 +652,7 @@
     {
       "name": "Draksharamam Bhimeswara Swamy Temple",
       "id": "1c9f5d6e-h9g8-6492-def3-456789012015",
-      "image": "https://example.com/images/draksharamam_temple.jpg",
+      "image": "https://www.connectingtraveller.com/images/localtip/1631170156draksharama-temple-outside.jpg",
       "state": "Andhra Pradesh",
       "country": "India",
       "location": "Draksharamam",
@@ -663,7 +663,7 @@
     {
       "name": "Tawang Monastery",
       "id": "ac9f5d6e-h9g8-6492-def3-456789012001",
-      "image": "https://example.com/images/tawang_monastery.jpg",
+      "image": "https://travelogyindia.b-cdn.net/storage/app/upload/tawang-monastery-1.jpg",
       "state": "Arunachal Pradesh",
       "country": "India",
       "location": "Tawang",
@@ -674,7 +674,7 @@
     {
       "name": "Parshuram Kund",
       "id": "ac9f5d6e-h9g8-6492-def3-456789012002",
-      "image": "https://example.com/images/parshuram_kund.jpg",
+      "image": "https://www.aartigyan.com/Images/TampleImages/1538720440namsai.jpg",
       "state": "Arunachal Pradesh",
       "country": "India",
       "location": "Lohit",
@@ -685,7 +685,7 @@
     {
       "name": "Malinithan Temple",
       "id": "ac9f5d6e-h9g8-6492-def3-456789012003",
-      "image": "https://example.com/images/malinithan_temple.jpg",
+      "image": "https://i0.wp.com/arunachal24.in/wp-content/uploads/2020/11/Malinithan-temple-4.jpg?resize=708%2C354&ssl=1",
       "state": "Arunachal Pradesh",
       "country": "India",
       "location": "Likabali",
@@ -696,7 +696,7 @@
     {
       "name": "Akashiganga Temple",
       "id": "ac9f5d6e-h9g8-6492-def3-456789012004",
-      "image": "https://example.com/images/akashiganga_temple.jpg",
+      "image": "https://www.exploreourindia.com/backend/web/images/post/big/5209_basistha%20temple.webp",
       "state": "Arunachal Pradesh",
       "country": "India",
       "location": "West Siang",
@@ -707,7 +707,7 @@
     {
       "name": "Bomdila Monastery",
       "id": "ac9f5d6e-h9g8-6492-def3-456789012005",
-      "image": "https://example.com/images/bomdila_monastery.jpg",
+      "image": "https://indiano.travel/wp-content/uploads/2022/03/Beautiful-front-view-of-Bomdila-Monastery.jpg",
       "state": "Arunachal Pradesh",
       "country": "India",
       "location": "Bomdila",
@@ -718,7 +718,7 @@
     {
       "name": "Golden Pagoda (Kongmu Kham)",
       "id": "ac9f5d6e-h9g8-6492-def3-456789012006",
-      "image": "https://example.com/images/golden_pagoda.jpg",
+      "image": "https://live.staticflickr.com/7217/7202028034_7181e97764_b.jpg",
       "state": "Arunachal Pradesh",
       "country": "India",
       "location": "Namsai",
@@ -729,7 +729,7 @@
     {
       "name": "Donyi Polo Temple",
       "id": "ac9f5d6e-h9g8-6492-def3-456789012007",
-      "image": "https://example.com/images/donyi_polo_temple.jpg",
+      "image": "https://krishnandusarkar.com/wp-content/uploads/2020/02/donyi-polo-temple-ziro-1024x684.webp",
       "state": "Arunachal Pradesh",
       "country": "India",
       "location": "Aalo",
