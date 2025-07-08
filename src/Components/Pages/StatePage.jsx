@@ -43,7 +43,7 @@ function StatePage() {
   }, [itemsToShow, selectedState]);
 
 
-
+  // Alternate to use lazy loading as page scrolls
 
   // useEffect(() => {
   //   const handleScroll = () => {
@@ -60,7 +60,7 @@ function StatePage() {
   //   return () => window.removeEventListener('scroll', handleScroll);
   // }, []);
 
-
+  // Alternate : fetch data from api
 
   // useEffect(() => {
   //   fetch(apiURL, {

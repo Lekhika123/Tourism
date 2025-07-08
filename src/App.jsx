@@ -1,18 +1,19 @@
 import './App.css'
+import { Router,Route } from 'react-router-dom'
 import Navbar from './Components/Navbar'
 import Footer from './Components/Footer'
 import Banner from './Components/Cards/Banner'
-import Home from './Components/Home'
-import StatePage from './Components/Pages/StatePage'
+import { Outlet } from 'react-router-dom'
 
 function App() {
+  
   
   return (
     <>
       <Navbar/>
-      {/* <Banner/>
-      <Home/> */}
-      <StatePage/>
+      <main>
+        <Outlet/>
+      </main>
       <Footer/>
     </>
   )
