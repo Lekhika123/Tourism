@@ -7,6 +7,7 @@ import './index.css'
 import App from './App.jsx'
 import Home from './Components/Home.jsx';
 import StatePage from './Components/Pages/StatePage.jsx';
+import Destination from './Components/Pages/Destination.jsx';
 
 const router = createBrowserRouter([
   {
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
         {
             path: "/states",
             element: <StatePage/>,
+        },
+        {
+            path: "/worship-place/:id",
+            element: <Destination/>,
         }  
       
     ],

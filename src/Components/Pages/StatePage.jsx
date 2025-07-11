@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import FeaturedDestinationCard from '../Cards/FeaturedDestinationCard';
 import templeData from '../../data/ReligiousPlaces.json'
+import { Link } from 'react-router-dom';
 
 function StatePage() {
 
@@ -108,7 +109,12 @@ function StatePage() {
             <>
               <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 py-12'>
                 {displayedData.map((place) => (
-                  <FeaturedDestinationCard
+                  <Link
+                  key={place.id}
+                    to={`/worship-place/${place.id}`}
+                    className="block"
+                   >
+                   <FeaturedDestinationCard
                     key={place.id}
                     id={place.id}
                     title={place.name}
@@ -118,6 +124,7 @@ function StatePage() {
                     distance={place.distance_from_airport}
                     rating={place.rating}
                   />
+                  </Link>
                 ))}
               </div>
               {displayedData.length < filteredData.length && (

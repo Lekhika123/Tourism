@@ -3,13 +3,43 @@
     {
       "name": "Mahakaleshwar Jyotirlinga Temple",
       "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1001",
-      "image": "https://images.unsplash.com/photo-1658730458768-8b8cc0c00955?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFoYWthbGVzaHdhciUyMGp5b3RpcmxpbmdhJTIwdGVtcGxlfGVufDB8fDB8fHww",
+      "image": "https://images.unsplash.com/photo-1658730458768-8b8cc0c00955?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFoYWthbGVzaHdhciUyMGp5b3RpcmxpbmdhJTIwdGVtcGxlfGVufDB8fDB8fHww",
       "state": "Madhya Pradesh",
       "country": "India",
       "location": "Ujjain",
       "description": "One of the twelve Jyotirlingas, this ancient Hindu temple is dedicated to Lord Shiva. Located on the banks of the Shipra River, it is a major pilgrimage site, especially during the Kumbh Mela.",
+      "details": "The Mahakaleshwar Jyotirlinga Temple, situated in the ancient city of Ujjain, is one of the most revered shrines dedicated to Lord Shiva. As one of the twelve Jyotirlingas, it holds immense spiritual significance for Hindus worldwide. The temple's unique feature is its self-manifested lingam, believed to be Swayambhu, deriving its power from within. The Bhasma Aarti, a pre-dawn ritual where the lingam is anointed with sacred ash, attracts thousands of devotees. The temple complex, adorned with intricate carvings, stands on the banks of the holy Shipra River, which enhances its spiritual ambiance. The temple is a focal point during the Simhastha Kumbh Mela, held every 12 years, drawing millions of pilgrims. Visitors can also explore the temple's historical significance, as it has been patronized by various dynasties, including the Marathas.",
       "rating": 4.9,
-      "distance_from_airport": "55 km"
+      "distance_from_airport": "55 km",
+      "nearby_places": [
+        {
+          "name": "Shipra River Ghats",
+          "distance": "1 km",
+          "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "Sacred ghats along the Shipra River, ideal for spiritual baths and rituals, especially during festivals."
+        },
+        {
+          "name": "Kaliadeh Palace",
+          "distance": "8 km",
+          "image": "https://images.unsplash.com/photo-1566541563986-0b80b50744b3?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A historic palace on an island in the Shipra River, known for its Persian architecture and scenic beauty."
+        },
+        {
+          "name": "Harsiddhi Temple",
+          "distance": "1.5 km",
+          "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A revered Shakti temple dedicated to Goddess Annapurna, located near Mahakaleshwar."
+        },
+        {
+          "name": "Ram Ghat",
+          "distance": "2 km",
+          "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A prominent ghat for evening aarti and spiritual activities, offering a serene view of the Shipra River."
+        }
+      ],
+      "history": "The Mahakaleshwar Temple dates back to ancient times, with references in the Puranas and texts like the Mahabharata. It was rebuilt and expanded by the Maratha rulers in the 18th century, particularly under Rani Ahilyabai Holkar. The temple has withstood invasions and remains a symbol of spiritual resilience.",
+      "best_time_to_visit": "October to March, with peak spiritual significance during Mahashivratri and Kumbh Mela.",
+      "entry_fees": "Free entry; special darshan and Bhasma Aarti may require tickets (approx. ₹200-₹500)."
     },
     {
       "name": "Omkareshwar Jyotirlinga Temple",
@@ -20,7 +50,8 @@
       "location": "Omkareshwar",
       "description": "Another of the twelve Jyotirlingas, this temple is situated on an island in the Narmada River, revered for its spiritual significance and scenic beauty.",
       "rating": 4.8,
-      "distance_from_airport": "80 km"
+      "distance_from_airport": "80 km",
+      "nearby_places": []
     },
     {
       "name": "Sanchi Stupa",
@@ -31,7 +62,8 @@
       "location": "Sanchi",
       "description": "A UNESCO World Heritage Site, this Buddhist stupa was built by Emperor Ashoka. It is a major pilgrimage site known for its historical and architectural significance.",
       "rating": 4.7,
-      "distance_from_airport": "50 km"
+      "distance_from_airport": "50 km",
+      "nearby_places": []
     },
     {
       "name": "Taj-ul-Masajid",
@@ -42,7 +74,8 @@
       "location": "Bhopal",
       "description": "One of the largest mosques in Asia, built during the Mughal era. Its stunning architecture and vast courtyard make it a significant Islamic worship site.",
       "rating": 4.6,
-      "distance_from_airport": "12 km"
+      "distance_from_airport": "12 km",
+      "nearby_places": []
     },
     {
       "name": "Pashupatinath Temple",
@@ -410,7 +443,7 @@
     {
       "name": "Tungnath Temple",
       "id": "9b8e4c5d-g8f7-5391-cde2-345678901008",
-      "image":"https://www.bontravelindia.com/wp-content/uploads/2022/03/Shri-Tungnath-Temple-1.jpg",
+      "image": "https://www.bontravelindia.com/wp-content/uploads/2022/03/Shri-Tungnath-Temple-1.jpg",
       "state": "Uttarakhand",
       "country": "India",
       "location": "Chamoli",
