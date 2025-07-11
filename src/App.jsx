@@ -4,6 +4,7 @@ import Navbar from './Components/Navbar'
 import Footer from './Components/Footer'
 import Banner from './Components/Cards/Banner'
 import { Outlet } from 'react-router-dom'
+import WelcomeAnimation from './Components/Pages/Animation'
 
 function App() {
   
@@ -11,6 +12,7 @@ function App() {
   return (
     <>
       <Navbar/>
+      <WelcomeAnimation/>
       <main>
         <Outlet/>
       </main>

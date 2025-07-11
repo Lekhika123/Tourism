@@ -1,1 +1,12 @@
 @import "tailwindcss";
+/* Add to your existing index.css or tailwind.css */
+@keyframes fadeInOut {
+  0% { opacity: 0; transform: scale(0.8); }
+  10% { opacity: 1; transform: scale(1); }
+  90% { opacity: 1; transform: scale(1); }
+  100% { opacity: 0; transform: scale(0.8); }
+}
+
+.animate-fadeInOut {
+  animation: fadeInOut 5s ease-in-out forwards;
+}
