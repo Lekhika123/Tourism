@@ -1,6 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import templeData from '../../data/ReligiousPlaces.json';
+import { useState } from 'react';
 
 function Destination() {
   const { id } = useParams();
@@ -18,7 +19,40 @@ function Destination() {
     nearby_places: [],
     history: '',
     best_time_to_visit: '',
-    entry_fees: ''
+    entry_fees: '',
+    lat: 0,
+    lng: 0,
+  };
+
+  const [isMapOpen, setIsMapOpen] = useState(false);
+
+  // Function to initialize and display the map in the modal
+  const initMap = () => {
+    const mapElement = document.getElementById('map');
+    if (!mapElement || !window.google) return;
+
+    const map = new window.google.maps.Map(mapElement, {
+      zoom: 15,
+      center: { lat: worshipPlace.lat, lng: worshipPlace.lng },
+    });
+
+    new window.google.maps.Marker({
+      position: { lat: worshipPlace.lat, lng: worshipPlace.lng },
+      map: map,
+      title: worshipPlace.name,
+    });
+  };
+
+  // Open modal and load map
+  const handleOpenMap = () => {
+    setIsMapOpen(true);
+    // Delay map initialization to ensure modal DOM is rendered
+    setTimeout(initMap, 0);
+  };
+
+  // Close modal
+  const handleCloseMap = () => {
+    setIsMapOpen(false);
   };
 
   return (
@@ -32,7 +66,18 @@ function Destination() {
             className="w-full h-96 object-cover"
           />
           <div className="p-6">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">{worshipPlace.name}</h2>
+            <div className="flex items-center justify-between">
+              <h2 className="text-3xl font-bold text-gray-900 mb-4">{worshipPlace.name}</h2>
+              {/* <button
+                onClick={handleOpenMap}
+                className="text-blue-600 hover:text-blue-800 focus:outline-none bg-amber-300"
+                title="View Location on Map"
+              > */}
+                <svg onClick={handleOpenMap} 
+                className='h-7 w-7 ml=3'
+                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path fill="#c91d1d" d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"/></svg>
+              {/* </button> */}
+            </div>
             <p className="text-gray-600 mb-4">{worshipPlace.description}</p>
             <p className="text-gray-700 mb-4">{worshipPlace.details}</p>
             <div className="mt-4 space-y-2">
