@@ -39,7 +39,9 @@
       ],
       "history": "The Mahakaleshwar Temple dates back to ancient times, with references in the Puranas and texts like the Mahabharata. It was rebuilt and expanded by the Maratha rulers in the 18th century, particularly under Rani Ahilyabai Holkar. The temple has withstood invasions and remains a symbol of spiritual resilience.",
       "best_time_to_visit": "October to March, with peak spiritual significance during Mahashivratri and Kumbh Mela.",
-      "entry_fees": "Free entry; special darshan and Bhasma Aarti may require tickets (approx. ₹200-₹500)."
+      "entry_fees": "Free entry; special darshan and Bhasma Aarti may require tickets (approx. ₹200-₹500).",
+      "lat": 23.1827,
+      "lng": 75.7682
     },
     {
       "name": "Omkareshwar Jyotirlinga Temple",
@@ -51,7 +53,19 @@
       "description": "Another of the twelve Jyotirlingas, this temple is situated on an island in the Narmada River, revered for its spiritual significance and scenic beauty.",
       "rating": 4.8,
       "distance_from_airport": "80 km",
-      "nearby_places": []
+      "nearby_places": [
+        {
+          "name": "Mamleshwar Temple",
+          "distance": "1 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A complementary Jyotirlinga temple across the Narmada River, part of the Omkareshwar pilgrimage."
+        }
+      ],
+      "history": "The temple is mentioned in ancient Hindu texts and is believed to be centuries old, with its island location shaped like the 'Om' symbol.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "lat": 22.2456,
+      "lng": 76.1510
     },
     {
       "name": "Sanchi Stupa",
@@ -63,7 +77,19 @@
       "description": "A UNESCO World Heritage Site, this Buddhist stupa was built by Emperor Ashoka. It is a major pilgrimage site known for its historical and architectural significance.",
       "rating": 4.7,
       "distance_from_airport": "50 km",
-      "nearby_places": []
+      "nearby_places": [
+        {
+          "name": "Sanchi Archaeological Museum",
+          "distance": "1 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A museum showcasing artifacts from the Sanchi site and nearby Buddhist monuments."
+        }
+      ],
+      "history": "Commissioned by Emperor Ashoka in the 3rd century BCE, the stupa is renowned for its carved gateways depicting Buddhist stories.",
+      "best_time_to_visit": "November to February",
+      "entry_fees": "₹40 for Indians, ₹600 for foreigners",
+      "lat": 23.4793,
+      "lng": 77.7397
     },
     {
       "name": "Taj-ul-Masajid",
@@ -75,7 +101,19 @@
       "description": "One of the largest mosques in Asia, built during the Mughal era. Its stunning architecture and vast courtyard make it a significant Islamic worship site.",
       "rating": 4.6,
       "distance_from_airport": "12 km",
-      "nearby_places": []
+      "nearby_places": [
+        {
+          "name": "Upper Lake",
+          "distance": "3 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A scenic lake offering boating and views, ideal for relaxation near Bhopal."
+        }
+      ],
+      "history": "Construction began in the 19th century under Nawab Shah Jahan Begum and was completed in the 20th century.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "lat": 23.2630,
+      "lng": 77.3931
     },
     {
       "name": "Pashupatinath Temple",
@@ -86,7 +124,20 @@
       "location": "Mandsaur",
       "description": "A prominent Hindu temple dedicated to Lord Shiva, known for its unique eight-faced lingam, similar to the Pashupatinath Temple in Nepal.",
       "rating": 4.5,
-      "distance_from_airport": "35 km"
+      "distance_from_airport": "35 km",
+      "nearby_places": [
+        {
+          "name": "Gandhi Sagar Dam",
+          "distance": "50 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A major dam on the Chambal River, offering scenic views and a peaceful environment."
+        }
+      ],
+      "history": "The temple is believed to date back to ancient times, with its unique lingam attracting devotees from across India.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "lat": 24.0538,
+      "lng": 75.0691
     },
     {
       "name": "Sonagiri Jain Temples",
@@ -97,7 +148,20 @@
       "location": "Sonagiri",
       "description": "A cluster of Digambar Jain temples known for their serene ambiance and spiritual importance, attracting Jain pilgrims seeking salvation.",
       "rating": 4.6,
-      "distance_from_airport": "70 km"
+      "distance_from_airport": "70 km",
+      "nearby_places": [
+        {
+          "name": "Datia Palace",
+          "distance": "15 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A historic palace known for its Mughal-Rajput architecture, located in Datia."
+        }
+      ],
+      "history": "The temples were established over centuries, with the main temple dedicated to Lord Chandraprabhu, dating back to the 9th century.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "lat": 25.7140,
+      "lng": 78.3743
     },
     {
       "name": "Khajuraho Group of Monuments",
@@ -108,7 +172,20 @@
       "location": "Khajuraho",
       "description": "A UNESCO World Heritage Site featuring Hindu and Jain temples built by the Chandela dynasty, renowned for their intricate erotic carvings.",
       "rating": 4.8,
-      "distance_from_airport": "5 km"
+      "distance_from_airport": "5 km",
+      "nearby_places": [
+        {
+          "name": "Archaeological Museum Khajuraho",
+          "distance": "1 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A museum displaying sculptures and artifacts from the Khajuraho temples."
+        }
+      ],
+      "history": "Built between the 9th and 11th centuries by the Chandela dynasty, these temples are famous for their nagara-style architecture.",
+      "best_time_to_visit": "October to February",
+      "entry_fees": "₹40 for Indians, ₹600 for foreigners",
+      "lat": 24.8520,
+      "lng": 79.9218
     },
     {
       "name": "Chausath Yogini Temple",
@@ -119,7 +196,20 @@
       "location": "Jabalpur",
       "description": "An 11th-century Hindu temple dedicated to 64 Yoginis, located near Bhedaghat, known for its unique circular architecture and spiritual significance.",
       "rating": 4.5,
-      "distance_from_airport": "25 km"
+      "distance_from_airport": "25 km",
+      "nearby_places": [
+        {
+          "name": "Dhuandhar Falls",
+          "distance": "3 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A stunning waterfall on the Narmada River, known for its misty spray and scenic beauty."
+        }
+      ],
+      "history": "Built in the 11th century by the Kalachuri dynasty, this temple is one of the few surviving Yogini temples in India.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "lat": 23.1355,
+      "lng": 79.8024
     },
     {
       "name": "Gurudwara Shri Data Bandi Chhod",
@@ -130,7 +220,20 @@
       "location": "Gwalior",
       "description": "A significant Sikh gurdwara commemorating Guru Hargobind’s release from Gwalior Fort, attracting devotees for its historical and spiritual importance.",
       "rating": 4.6,
-      "distance_from_airport": "10 km"
+      "distance_from_airport": "10 km",
+      "nearby_places": [
+        {
+          "name": "Gwalior Fort",
+          "distance": "1 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A historic hill fort known for its architecture and panoramic views of Gwalior."
+        }
+      ],
+      "history": "Built to commemorate Guru Hargobind’s release from imprisonment in 1612, the gurdwara is a significant Sikh pilgrimage site.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "lat": 26.2236,
+      "lng": 78.1680
     },
     {
       "name": "Birla Mandir",
@@ -141,7 +244,20 @@
       "location": "Bhopal",
       "description": "A Hindu temple dedicated to Lord Vishnu and Goddess Lakshmi, built by the Birla family, known for its serene environment and modern architecture.",
       "rating": 4.5,
-      "distance_from_airport": "15 km"
+      "distance_from_airport": "15 km",
+      "nearby_places": [
+        {
+          "name": "Van Vihar National Park",
+          "distance": "4 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A national park and zoo near Upper Lake, ideal for wildlife enthusiasts."
+        }
+      ],
+      "history": "Constructed in the 20th century by the Birla family, known for building temples across India.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "lat": 23.2389,
+      "lng": 77.3928
     },
     {
       "name": "Jama Masjid",
@@ -152,7 +268,20 @@
       "location": "Burhanpur",
       "description": "A historic mosque built by the Farukhi dynasty, showcasing Mughal architecture and serving as a central place of worship for Muslims in the region.",
       "rating": 4.4,
-      "distance_from_airport": "210 km"
+      "distance_from_airport": "210 km",
+      "nearby_places": [
+        {
+          "name": "Asirgarh Fort",
+          "distance": "20 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A historic fort overlooking the Tapti River, known for its strategic importance."
+        }
+      ],
+      "history": "Built in the 16th century by the Farukhi dynasty, this mosque is a fine example of Mughal architecture.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "lat": 21.3074,
+      "lng": 76.2287
     },
     {
       "name": "Ahilyeshwar Temple",

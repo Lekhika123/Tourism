@@ -3,6 +3,7 @@ import FeaturedDestinationCard from './Cards/FeaturedDestinationCard';
 import featuredDestinations from '../data/FeaturedDestination.json'
 import { Link } from 'react-router-dom';
 import Banner from './Cards/Banner';
+import WelcomeAnimation from './Pages/Animation';
 
 function Home() {
     const quickLinks = [
@@ -31,6 +32,7 @@ function Home() {
     ]
     return (
         <>
+            <WelcomeAnimation/>
             <Banner/>
             <section className='bg-white py-16'>
                 <div className='mx-auto max-w-7xl px-4 sm:px-6 lg:px-8'>
