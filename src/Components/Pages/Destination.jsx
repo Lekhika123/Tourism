@@ -2,6 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import templeData from '../../data/ReligiousPlaces.json';
 import { useState } from 'react';
+import useHotels from '../../Hooks/useHotels';
 
 function Destination() {
   const { id } = useParams();
@@ -54,6 +55,7 @@ function Destination() {
   const handleCloseMap = () => {
     setIsMapOpen(false);
   };
+  const { hotels, loading, error } = useHotels(worshipPlace.lat, worshipPlace.lng);
 
   return (
     <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
@@ -63,7 +65,7 @@ function Destination() {
           <img
             src={worshipPlace.image}
             alt={worshipPlace.name}
-            className="w-full h-96 object-cover"
+            className="w-220 h-auto object-cover mx-auto rounded-2xl"
           />
           <div className="p-6">
             <div className="flex items-center justify-between">
@@ -123,6 +125,37 @@ function Destination() {
               ))
             ) : (
               <p className="text-gray-500 text-sm">No nearby places available.</p>
+            )}
+          </div>
+        </div>
+        <div className="bg-white rounded-lg shadow-md p-6 mb-6">
+          <h3 className="text-xl font-semibold text-gray-900 mb-4">Nearby Hotels</h3>
+          <div className="space-y-4">
+            {loading ? (
+              <p className="text-gray-500 text-sm">Loading hotels...</p>
+            ) : error ? (
+              <p className="text-red-500 text-sm">{error}</p>
+            ) : hotels.length > 0 ? (
+              hotels.map((hotel, index) => (
+                <div key={index} className="flex items-center space-x-4">
+                  <div>
+                    <p className="text-gray-900 font-medium">{hotel.name}</p>
+                    <p className="text-gray-500 text-sm">Distance: {hotel.distance}</p>
+                    <p className="text-gray-500 text-sm">Price: {hotel.price_per_night}</p>
+                    <p className="text-gray-500 text-sm">Rating: {hotel.rating}/5</p>
+                    <a
+                      href={hotel.booking_url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-blue-600 hover:underline text-sm"
+                    >
+                      Book Now
+                    </a>
+                  </div>
+                </div>
+              ))
+            ) : (
+              <p className="text-gray-500 text-sm">No hotels available.</p>
             )}
           </div>
         </div>

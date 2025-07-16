@@ -1,0 +1,576 @@
+{
+  "religious_places": [
+    {
+      "name": "Mahakaleshwar Jyotirlinga Temple",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1001",
+      "image": "https://images.unsplash.com/photo-1658730458768-8b8cc0c00955?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFoYWthbGVzaHdhciUyMGp5b3RpcmxpbmdhJTIwdGVtcGxlfGVufDB8fDB8fHww",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Ujjain",
+      "description": "One of the twelve Jyotirlingas, this ancient Hindu temple is dedicated to Lord Shiva. Located on the banks of the Shipra River, it is a major pilgrimage site, especially during the Kumbh Mela.",
+      "details": "The Mahakaleshwar Jyotirlinga Temple, situated in the ancient city of Ujjain, is one of the most revered shrines dedicated to Lord Shiva. As one of the twelve Jyotirlingas, it holds immense spiritual significance for Hindus worldwide. The temple's unique feature is its self-manifested lingam, believed to be Swayambhu, deriving its power from within. The Bhasma Aarti, a pre-dawn ritual where the lingam is anointed with sacred ash, attracts thousands of devotees. The temple complex, adorned with intricate carvings, stands on the banks of the holy Shipra River, which enhances its spiritual ambiance. The temple is a focal point during the Simhastha Kumbh Mela, held every 12 years, drawing millions of pilgrims. Visitors can also explore the temple's historical significance, as it has been patronized by various dynasties, including the Marathas.",
+      "rating": 4.9,
+      "distance_from_airport": "55 km",
+      "nearby_places": [
+        {
+          "name": "Shipra River Ghats",
+          "distance": "1 km",
+          "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "Sacred ghats along the Shipra River, ideal for spiritual baths and rituals, especially during festivals."
+        },
+        {
+          "name": "Kaliadeh Palace",
+          "distance": "8 km",
+          "image": "https://images.unsplash.com/photo-1566541563986-0b80b50744b3?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A historic palace on an island in the Shipra River, known for its Persian architecture and scenic beauty."
+        },
+        {
+          "name": "Harsiddhi Temple",
+          "distance": "1.5 km",
+          "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A revered Shakti temple dedicated to Goddess Annapurna, located near Mahakaleshwar."
+        },
+        {
+          "name": "Ram Ghat",
+          "distance": "2 km",
+          "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A prominent ghat for evening aarti and spiritual activities, offering a serene view of the Shipra River."
+        }
+      ],
+      "history": "The Mahakaleshwar Temple dates back to ancient times, with references in the Puranas and texts like the Mahabharata. It was rebuilt and expanded by the Maratha rulers in the 18th century, particularly under Rani Ahilyabai Holkar. The temple has withstood invasions and remains a symbol of spiritual resilience.",
+      "best_time_to_visit": "October to March, with peak spiritual significance during Mahashivratri and Kumbh Mela.",
+      "entry_fees": "Free entry; special darshan and Bhasma Aarti may require tickets (approx. ₹200-₹500).",
+      "lat": 23.1827,
+      "lng": 75.7682,
+      "hotels": [
+        {
+          "id": "h1",
+          "name": "Anjushree Hotel",
+          "distance": "2 km",
+          "price_per_night": "₹4500",
+          "rating": 4.5,
+          "booking_url": "https://www.anjushreehotel.com",
+          "coordinates": { "lat": 23.1850, "lng": 75.7900 },
+          "address": "72, Goyala Khurd, Nanakheda, Ujjain, Madhya Pradesh 456010",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+        },
+        {
+          "id": "h2",
+          "name": "Hotel Mittal Avenue",
+          "distance": "1.5 km",
+          "price_per_night": "₹3500",
+          "rating": 4.2,
+          "booking_url": "https://www.mittalavenue.com",
+          "coordinates": { "lat": 23.1800, "lng": 75.7800 },
+          "address": "Nanakheda, Ring Rd, Ujjain, Madhya Pradesh 456010",
+          "amenities": ["Free Wi-Fi", "Breakfast", "Parking", "Concierge"]
+        },
+        {
+          "id": "h3",
+          "name": "Rudraksh Club & Resorts",
+          "distance": "3 km",
+          "price_per_night": "₹6000",
+          "rating": 4.7,
+          "booking_url": "https://www.rudrakshclubresorts.com",
+          "coordinates": { "lat": 23.1900, "lng": 75.7650 },
+          "address": "Indore Rd, Near Mahakaleshwar Temple, Ujjain, Madhya Pradesh 456006",
+          "amenities": ["Free Wi-Fi", "Pool", "Spa", "Restaurant"]
+        }
+      ]
+    },
+    {
+      "name": "Omkareshwar Jyotirlinga Temple",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1002",
+      "image": "https://img.naidunia.com/naidunia/ndnimg/25072022/25_07_2022-omkareshwar_jyotirlinga_darshan_sawan_somwar_2022725_9349.jpg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Omkareshwar",
+      "description": "Another of the twelve Jyotirlingas, this temple is situated on an island in the Narmada River, revered for its spiritual significance and scenic beauty.",
+      "rating": 4.8,
+      "distance_from_airport": "80 km",
+      "nearby_places": [
+        {
+          "name": "Mamleshwar Temple",
+          "distance": "1 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A complementary Jyotirlinga temple across the Narmada River, part of the Omkareshwar pilgrimage."
+        }
+      ],
+      "history": "The temple is mentioned in ancient Hindu texts and is believed to be centuries old, with its island location shaped like the 'Om' symbol.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "lat": 22.2456,
+      "lng": 76.1510,
+      "hotels": [
+        {
+          "id": "h4",
+          "name": "Narmada Resort",
+          "distance": "2 km",
+          "price_per_night": "₹4000",
+          "rating": 4.3,
+          "booking_url": "https://www.mpstdc.com/properties/narmada-resort",
+          "coordinates": { "lat": 22.2470, "lng": 76.1490 },
+          "address": "Mortakka, Omkareshwar, Madhya Pradesh 450554",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "River View"]
+        },
+        {
+          "id": "h5",
+          "name": "Hotel Omkareshwar Palace",
+          "distance": "1.5 km",
+          "price_per_night": "₹3200",
+          "rating": 4.1,
+          "booking_url": "https://www.example.com/omkareshwar-palace",
+          "coordinates": { "lat": 22.2430, "lng": 76.1530 },
+          "address": "Khandwa Rd, Omkareshwar, Madhya Pradesh 450554",
+          "amenities": ["Free Wi-Fi", "Breakfast", "Parking", "24/7 Front Desk"]
+        }
+      ]
+    },
+    {
+      "name": "Sanchi Stupa",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1003",
+      "image": "https://i.pinimg.com/originals/f4/8b/35/f48b358413f5bd56371885aebbd6acf7.jpg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Sanchi",
+      "description": "A UNESCO World Heritage Site, this Buddhist stupa was built by Emperor Ashoka. It is a major pilgrimage site known for its historical and architectural significance.",
+      "rating": 4.7,
+      "distance_from_airport": "50 km",
+      "nearby_places": [
+        {
+          "name": "Sanchi Archaeological Museum",
+          "distance": "1 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A museum showcasing artifacts from the Sanchi site and nearby Buddhist monuments."
+        }
+      ],
+      "history": "Commissioned by Emperor Ashoka in the 3rd century BCE, the stupa is renowned for its carved gateways depicting Buddhist stories.",
+      "best_time_to_visit": "November to February",
+      "entry_fees": "₹40 for Indians, ₹600 for foreigners",
+      "lat": 23.4793,
+      "lng": 77.7397,
+      "hotels": [
+        {
+          "id": "h6",
+          "name": "Gateway Retreat",
+          "distance": "1 km",
+          "price_per_night": "₹3800",
+          "rating": 4.4,
+          "booking_url": "https://www.mpstdc.com/properties/gateway-retreat",
+          "coordinates": { "lat": 23.4800, "lng": 77.7380 },
+          "address": "Sanchi, Raisen District, Madhya Pradesh 464661",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Garden"]
+        },
+        {
+          "id": "h7",
+          "name": "Sanchi Resort",
+          "distance": "2 km",
+          "price_per_night": "₹4500",
+          "rating": 4.3,
+          "booking_url": "https://www.example.com/sanchi-resort",
+          "coordinates": { "lat": 23.4770, "lng": 77.7410 },
+          "address": "Bhopal-Vidisha Hwy, Sanchi, Madhya Pradesh 464661",
+          "amenities": ["Free Wi-Fi", "Breakfast", "Parking", "Conference Room"]
+        }
+      ]
+    },
+     {
+      "name": "Taj-ul-Masajid",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1004",
+      "image": "https://cdn.theculturetrip.com/wp-content/uploads/2016/04/tajul-masajid.jpeg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Bhopal",
+      "description": "One of the largest mosques in Asia, built during the Mughal era. Its stunning architecture and vast courtyard make it a significant Islamic worship site.",
+      "rating": 4.6,
+      "distance_from_airport": "12 km",
+      "nearby_places": [
+        {
+          "name": "Upper Lake",
+          "distance": "3 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A scenic lake offering boating and views, ideal for relaxation near Bhopal."
+        }
+      ],
+      "history": "Construction began in the 19th century under Nawab Shah Jahan Begum and was completed in the 20th century.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "coordinates": { "lat": 23.2630, "lng": 77.3931 },
+      "hotels": [
+        {
+          "id": "h1",
+          "name": "Jehan Numa Palace Hotel",
+          "distance": "2.5 km",
+          "price_per_night": "₹8000",
+          "rating": 4.7,
+          "booking_url": "https://www.jehannuma.com",
+          "coordinates": { "lat": 23.2500, "lng": 77.3900 },
+          "address": "157, Shamla Hills, Bhopal, Madhya Pradesh 462013",
+          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Spa", "Parking"]
+        },
+        {
+          "id": "h2",
+          "name": "Courtyard by Marriott Bhopal",
+          "distance": "3 km",
+          "price_per_night": "₹6500",
+          "rating": 4.5,
+          "booking_url": "https://www.marriott.com/hotels/travel/bhocy-courtyard-bhopal",
+          "coordinates": { "lat": 23.2600, "lng": 77.4000 },
+          "address": "DB City, Arera Hills, Bhopal, Madhya Pradesh 462011",
+          "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Bar", "Parking"]
+        },
+        {
+          "id": "h3",
+          "name": "Hotel Lake View Ashok",
+          "distance": "2 km",
+          "price_per_night": "₹5000",
+          "rating": 4.3,
+          "booking_url": "https://www.mpstdc.com/properties/lake-view-ashok",
+          "coordinates": { "lat": 23.2650, "lng": 77.3950 },
+          "address": "Shamla Hills, Bhopal, Madhya Pradesh 462013",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Lake View"]
+        }
+      ]
+    },
+    {
+      "name": "Pashupatinath Temple",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1005",
+      "image": "https://famoustemplesofindia.com/wp-content/uploads/2023/10/Pashupatinath-Temple-1-1024x731.jpg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Mandsaur",
+      "description": "A prominent Hindu temple dedicated to Lord Shiva, known for its unique eight-faced lingam, similar to the Pashupatinath Temple in Nepal.",
+      "rating": 4.5,
+      "distance_from_airport": "35 km",
+      "nearby_places": [
+        {
+          "name": "Gandhi Sagar Dam",
+          "distance": "50 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A major dam on the Chambal River, offering scenic views and a peaceful environment."
+        }
+      ],
+      "history": "The temple is believed to date back to ancient times, with its unique lingam attracting devotees from across India.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "coordinates": { "lat": 24.0538, "lng": 75.0691 },
+      "hotels": [
+        {
+          "id": "h4",
+          "name": "Hotel Shree Ram",
+          "distance": "2 km",
+          "price_per_night": "₹3000",
+          "rating": 4.0,
+          "booking_url": "https://www.example.com/shree-ram-mandsaur",
+          "coordinates": { "lat": 24.0550, "lng": 75.0700 },
+          "address": "Nai Abadi, Mandsaur, Madhya Pradesh 458001",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+        },
+        {
+          "id": "h5",
+          "name": "Hotel Krishna Palace",
+          "distance": "3 km",
+          "price_per_night": "₹3500",
+          "rating": 4.1,
+          "booking_url": "https://www.example.com/krishna-palace-mandsaur",
+          "coordinates": { "lat": 24.0500, "lng": 75.0650 },
+          "address": "Yash Nagar, Mandsaur, Madhya Pradesh 458001",
+          "amenities": ["Free Wi-Fi", "Breakfast", "Parking", "Conference Room"]
+        }
+      ]
+    },
+    {
+      "name": "Sonagiri Jain Temples",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1006",
+      "image": "https://img.freepik.com/premium-photo/jain-temples-sonagiri-madhya-pradesh-region-india_729113-982.jpg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Sonagiri",
+      "description": "A cluster of Digambar Jain temples known for their serene ambiance and spiritual importance, attracting Jain pilgrims seeking salvation.",
+      "rating": 4.6,
+      "distance_from_airport": "70 km",
+      "nearby_places": [
+        {
+          "name": "Datia Palace",
+          "distance": "15 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A historic palace known for its Mughal-Rajput architecture, located in Datia."
+        }
+      ],
+      "history": "The temples were established over centuries, with the main temple dedicated to Lord Chandraprabhu, dating back to the 9th century.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "coordinates": { "lat": 25.7140, "lng": 78.3743 },
+      "hotels": [
+        {
+          "id": "h6",
+          "name": "Hotel Sheela Shree",
+          "distance": "15 km",
+          "price_per_night": "₹3200",
+          "rating": 4.0,
+          "booking_url": "https://www.example.com/sheela-shree-datia",
+          "coordinates": { "lat": 25.6700, "lng": 78.4600 },
+          "address": "Civil Lines, Datia, Madhya Pradesh 475661",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+        },
+        {
+          "id": "h7",
+          "name": "MPSTDC Tourist Motel Datia",
+          "distance": "14 km",
+          "price_per_night": "₹2800",
+          "rating": 3.9,
+          "booking_url": "https://www.mpstdc.com/properties/tourist-motel-datia",
+          "coordinates": { "lat": 25.6750, "lng": 78.4650 },
+          "address": "Jhansi Rd, Datia, Madhya Pradesh 475661",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Garden"]
+        }
+      ]
+    },
+    {
+      "name": "Khajuraho Group of Monuments",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1007",
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/e9/1e/9a.jpg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Khajuraho",
+      "description": "A UNESCO World Heritage Site featuring Hindu and Jain temples built by the Chandela dynasty, renowned for their intricate erotic carvings.",
+      "rating": 4.8,
+      "distance_from_airport": "5 km",
+      "nearby_places": [
+        {
+          "name": "Archaeological Museum Khajuraho",
+          "distance": "1 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A museum displaying sculptures and artifacts from the Khajuraho temples."
+        }
+      ],
+      "history": "Built between the 9th and 11th centuries by the Chandela dynasty, these temples are famous for their nagara-style architecture.",
+      "best_time_to_visit": "October to February",
+      "entry_fees": "₹40 for Indians, ₹600 for foreigners",
+      "coordinates": { "lat": 24.8520, "lng": 79.9218 },
+      "hotels": [
+        {
+          "id": "h1",
+          "name": "Radisson Jass Hotel Khajuraho",
+          "distance": "2 km",
+          "price_per_night": "₹6000",
+          "rating": 4.6,
+          "booking_url": "https://www.radissonhotels.com/en-us/hotels/radisson-khajuraho",
+          "coordinates": { "lat": 24.8500, "lng": 79.9230 },
+          "address": "By Pass Road, Khajuraho, Madhya Pradesh 471606",
+          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Spa", "Parking"]
+        },
+        {
+          "id": "h2",
+          "name": "Ramada Khajuraho",
+          "distance": "1.5 km",
+          "price_per_night": "₹5500",
+          "rating": 4.4,
+          "booking_url": "https://www.wyndhamhotels.com/ramada/khajuraho-india/ramada-khajuraho",
+          "coordinates": { "lat": 24.8530, "lng": 79.9200 },
+          "address": "Airport Road, Khajuraho, Madhya Pradesh 471606",
+          "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Parking"]
+        },
+        {
+          "id": "h3",
+          "name": "Hotel Chandela",
+          "distance": "1 km",
+          "price_per_night": "₹5000",
+          "rating": 4.3,
+          "booking_url": "https://www.tajhotels.com/en-in/hotels/hotel-chandela-khajuraho",
+          "coordinates": { "lat": 24.8510, "lng": 79.9225 },
+          "address": "Airport Road, Khajuraho, Madhya Pradesh 471606",
+          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Bar"]
+        }
+      ]
+    },
+    {
+      "name": "Chausath Yogini Temple",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1008",
+      "image": "https://1.bp.blogspot.com/-59hD2rTQ3jo/XDmEgypTObI/AAAAAAAAfnA/Xrc7Eu-TYt8GU8OiuUQJxFzFyuhwPQNVACLcBGAs/s1600/13083986025_f3a9bc40fb_b.jpg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Jabalpur",
+      "description": "An 11th-century Hindu temple dedicated to 64 Yoginis, located near Bhedaghat, known for its unique circular architecture and spiritual significance.",
+      "rating": 4.5,
+      "distance_from_airport": "25 km",
+      "nearby_places": [
+        {
+          "name": "Dhuandhar Falls",
+          "distance": "3 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A stunning waterfall on the Narmada River, known for its misty spray and scenic beauty."
+        }
+      ],
+      "history": "Built in the 11th century by the Kalachuri dynasty, this temple is one of the few surviving Yogini temples in India.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "coordinates": { "lat": 23.1355, "lng": 79.8024 },
+      "hotels": [
+        {
+          "id": "h4",
+          "name": "Vijan Mahal Hotel",
+          "distance": "20 km",
+          "price_per_night": "₹4500",
+          "rating": 4.3,
+          "booking_url": "https://www.example.com/vijan-mahal-jabalpur",
+          "coordinates": { "lat": 23.1500, "lng": 79.8200 },
+          "address": "NH 7, Jabalpur, Madhya Pradesh 482002",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+        },
+        {
+          "id": "h5",
+          "name": "Narmada Jacksons Hotel",
+          "distance": "22 km",
+          "price_per_night": "₹5000",
+          "rating": 4.4,
+          "booking_url": "https://www.example.com/narmada-jacksons-jabalpur",
+          "coordinates": { "lat": 23.1450, "lng": 79.8100 },
+          "address": "Civic Centre, Marhatal, Jabalpur, Madhya Pradesh 482002",
+          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Bar"]
+        }
+      ]
+    },
+    {
+      "name": "Gurudwara Shri Data Bandi Chhod",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1009",
+      "image": "https://thumbs.dreamstime.com/b/gurudwara-data-bandi-chhod-sahib-gwalior-fort-gurudwara-data-bandi-chhod-sahib-gwalior-fort-situated-hill-top-254947393.jpg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Gwalior",
+      "description": "A significant Sikh gurdwara commemorating Guru Hargobind’s release from Gwalior Fort, attracting devotees for its historical and spiritual importance.",
+      "rating": 4.6,
+      "distance_from_airport": "10 km",
+      "nearby_places": [
+        {
+          "name": "Gwalior Fort",
+          "distance": "1 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A historic hill fort known for its architecture and panoramic views of Gwalior."
+        }
+      ],
+      "history": "Built to commemorate Guru Hargobind’s release from imprisonment in 1612, the gurdwara is a significant Sikh pilgrimage site.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "coordinates": { "lat": 26.2236, "lng": 78.1680 },
+      "hotels": [
+        {
+          "id": "h6",
+          "name": "Taj Usha Kiran Palace",
+          "distance": "2 km",
+          "price_per_night": "₹9000",
+          "rating": 4.8,
+          "booking_url": "https://www.tajhotels.com/en-in/hotels/usha-kiran-palace",
+          "coordinates": { "lat": 26.2250, "lng": 78.1700 },
+          "address": "Jayendraganj, Lashkar, Gwalior, Madhya Pradesh 474009",
+          "amenities": ["Free Wi-Fi", "Pool", "Spa", "Restaurant", "Parking"]
+        },
+        {
+          "id": "h7",
+          "name": "Radisson Gwalior",
+          "distance": "3 km",
+          "price_per_night": "₹6500",
+          "rating": 4.5,
+          "booking_url": "https://www.radissonhotels.com/en-us/hotels/radisson-gwalior",
+          "coordinates": { "lat": 26.2200, "lng": 78.1650 },
+          "address": "City Centre, Gwalior, Madhya Pradesh 474011",
+          "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Parking"]
+        }
+      ]
+    },
+    {
+      "name": "Birla Mandir",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1010",
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/v1461929817/Delhi-Birla_Mandir.jpg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Bhopal",
+      "description": "A Hindu temple dedicated to Lord Vishnu and Goddess Lakshmi, built by the Birla family, known for its serene environment and modern architecture.",
+      "rating": 4.5,
+      "distance_from_airport": "15 km",
+      "nearby_places": [
+        {
+          "name": "Van Vihar National Park",
+          "distance": "4 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A national park and zoo near Upper Lake, ideal for wildlife enthusiasts."
+        }
+      ],
+      "history": "Constructed in the 20th century by the Birla family, known for building temples across India.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "coordinates": { "lat": 23.2389, "lng": 77.3928 },
+      "hotels": [
+        {
+          "id": "h8",
+          "name": "Jehan Numa Palace Hotel",
+          "distance": "3 km",
+          "price_per_night": "₹8000",
+          "rating": 4.7,
+          "booking_url": "https://www.jehannuma.com",
+          "coordinates": { "lat": 23.2500, "lng": 77.3900 },
+          "address": "157, Shamla Hills, Bhopal, Madhya Pradesh 462013",
+          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Spa", "Parking"]
+        },
+        {
+          "id": "h9",
+          "name": "Courtyard by Marriott Bhopal",
+          "distance": "4 km",
+          "price_per_night": "₹6500",
+          "rating": 4.5,
+          "booking_url": "https://www.marriott.com/hotels/travel/bhocy-courtyard-bhopal",
+          "coordinates": { "lat": 23.2600, "lng": 77.4000 },
+          "address": "DB City, Arera Hills, Bhopal, Madhya Pradesh 462011",
+          "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Bar", "Parking"]
+        }
+      ]
+    },
+    {
+      "name": "Jama Masjid",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1011",
+      "image": "https://www.trawell.in/admin/images/upload/259815519Mandu_Jami_Masjid.jpg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Burhanpur",
+      "description": "A historic mosque built by the Farukhi dynasty, showcasing Mughal architecture and serving as a central place of worship for Muslims in the region.",
+      "rating": 4.4,
+      "distance_from_airport": "210 km",
+      "nearby_places": [
+        {
+          "name": "Asirgarh Fort",
+          "distance": "20 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A historic fort overlooking the Tapti River, known for its strategic importance."
+        }
+      ],
+      "history": "Built in the 16th century by the Farukhi dynasty, this mosque is a fine example of Mughal architecture.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "coordinates": { "lat": 21.3074, "lng": 76.2287 },
+      "hotels": [
+        {
+          "id": "h10",
+          "name": "Hotel Ambar",
+          "distance": "2 km",
+          "price_per_night": "₹3000",
+          "rating": 4.0,
+          "booking_url": "https://www.example.com/hotel-ambar-burhanpur",
+          "coordinates": { "lat": 21.3050, "lng": 76.2300 },
+          "address": "Station Road, Burhanpur, Madhya Pradesh 450331",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+        },
+        {
+          "id": "h11",
+          "name": "Hotel Grand",
+          "distance": "3 km",
+          "price_per_night": "₹3500",
+          "rating": 4.1,
+          "booking_url": "https://www.example.com/hotel-grand-burhanpur",
+          "coordinates": { "lat": 21.3100, "lng": 76.2250 },
+          "address": "Shanwara, Burhanpur, Madhya Pradesh 450331",
+          "amenities": ["Free Wi-Fi", "Breakfast", "Parking", "Conference Room"]
+        }
+      ]
+    }
+  ]
+}

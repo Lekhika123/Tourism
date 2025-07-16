@@ -1,12 +1,32 @@
 @import "tailwindcss";
 /* Add to your existing index.css or tailwind.css */
-@keyframes fadeInOut {
-  0% { opacity: 0; transform: scale(0.8); }
-  10% { opacity: 1; transform: scale(1); }
-  90% { opacity: 1; transform: scale(1); }
-  100% { opacity: 0; transform: scale(0.8); }
+/* Animation to move from top-right to center */
+@keyframes moveFromTopRight {
+  0% {
+    transform: translate(100vw, -100vh);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
 }
 
-.animate-fadeInOut {
-  animation: fadeInOut 5s ease-in-out forwards;
+/* Fade in and out animation */
+@keyframes fadeInOut {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+/* Ensure the animation container uses these animations */
+.animate-moveFromTopRight {
+  animation: moveFromTopRight 1s ease-out forwards;
 }
