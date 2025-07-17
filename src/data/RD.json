@@ -3,7 +3,7 @@
     {
       "name": "Mahakaleshwar Jyotirlinga Temple",
       "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1001",
-      "image": "https://images.unsplash.com/photo-1658730458768-8b8cc0c00955?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFoYWthbGVzaHdhciUyMGp5b3RpcmxpbmdhJTIwdGVtcGxlfGVufDB8fDB8fHww",
+      "image": "https://static.toiimg.com/photo/msid-94055833,width-96,height-65.cms",
       "state": "Madhya Pradesh",
       "country": "India",
       "location": "Ujjain",
@@ -569,6 +569,252 @@
           "coordinates": { "lat": 21.3100, "lng": 76.2250 },
           "address": "Shanwara, Burhanpur, Madhya Pradesh 450331",
           "amenities": ["Free Wi-Fi", "Breakfast", "Parking", "Conference Room"]
+        }
+      ]
+    },
+    {
+      "name": "Ahilyeshwar Temple",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1012",
+      "image": "https://preview.redd.it/3des1jp64qe91.jpg?width=640&crop=smart&auto=webp&s=a975c25f54602dd19b45a47093def9c2f594698c",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Maheshwar",
+      "description": "A Hindu temple dedicated to Lord Shiva, built by Ahilyabai Holkar, known for its riverside location along the Narmada and intricate architecture.",
+      "rating": 4.6,
+      "distance_from_airport": "95 km",
+      "nearby_places": [
+        {
+          "name": "Maheshwar Fort",
+          "distance": "1 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A historic fort built by Ahilyabai Holkar, offering views of the Narmada River."
+        }
+      ],
+      "history": "Constructed in the 18th century by Ahilyabai Holkar, this temple is part of the Maheshwar complex, reflecting Maratha architecture.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "coordinates": { "lat": 22.1771, "lng": 75.5857 },
+      "hotels": [
+        {
+          "id": "h1",
+          "name": "Ahilya Fort",
+          "distance": "1 km",
+          "price_per_night": "₹12000",
+          "rating": 4.8,
+          "booking_url": "https://www.ahilyafort.com",
+          "coordinates": { "lat": 22.1780, "lng": 75.5860 },
+          "address": "Maheshwar, Madhya Pradesh 451224",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Spa", "River View", "Parking"]
+        },
+        {
+          "id": "h2",
+          "name": "Narmada Retreat",
+          "distance": "2 km",
+          "price_per_night": "₹4000",
+          "rating": 4.3,
+          "booking_url": "https://www.mpstdc.com/properties/narmada-retreat",
+          "coordinates": { "lat": 22.1750, "lng": 75.5870 },
+          "address": "Narmada Road, Maheshwar, Madhya Pradesh 451224",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Garden"]
+        }
+      ]
+    },
+    {
+      "name": "Bhojeshwar Temple",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1013",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6a/de/67/bhojpur-temple.jpg?w=1200&h=-1&s=1",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Bhojpur",
+      "description": "An incomplete but grand Hindu temple dedicated to Lord Shiva, built by Raja Bhoj, famous for its massive lingam and architectural grandeur.",
+      "rating": 4.5,
+      "distance_from_airport": "28 km",
+      "nearby_places": [
+        {
+          "name": "Bhojpur Archaeological Site",
+          "distance": "1 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "Historical site with ancient ruins and inscriptions near the temple."
+        }
+      ],
+      "history": "Built in the 11th century by Raja Bhoj of the Paramara dynasty, the temple is known for its unfinished state and massive lingam.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "coordinates": { "lat": 23.1167, "lng": 77.5833 },
+      "hotels": [
+        {
+          "id": "h3",
+          "name": "Jehan Numa Retreat",
+          "distance": "25 km",
+          "price_per_night": "₹8500",
+          "rating": 4.7,
+          "booking_url": "https://www.jehannuma.com/retreat",
+          "coordinates": { "lat": 23.2000, "lng": 77.4500 },
+          "address": "Van Vihar Road, Bhopal, Madhya Pradesh 462002",
+          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Spa", "Parking"]
+        },
+        {
+          "id": "h4",
+          "name": "Hotel Palash Residency",
+          "distance": "27 km",
+          "price_per_night": "₹4500",
+          "rating": 4.2,
+          "booking_url": "https://www.mpstdc.com/properties/palash-residency",
+          "coordinates": { "lat": 23.2100, "lng": 77.4700 },
+          "address": "TT Nagar, Bhopal, Madhya Pradesh 462003",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Conference Room"]
+        }
+      ]
+    },
+    {
+      "name": "Ram Ghat Temples",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1014",
+      "image": "https://www.trawell.in/admin/images/upload/891041978Ram_Ghat.jpg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Chitrakoot",
+      "description": "A series of Hindu temples along the Mandakini River, associated with Lord Rama’s exile, revered for their spiritual ambiance and mythological significance.",
+      "rating": 4.6,
+      "distance_from_airport": "130 km",
+      "nearby_places": [
+        {
+          "name": "Kamtanath Temple",
+          "distance": "5 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A sacred temple dedicated to Lord Rama, a key pilgrimage site in Chitrakoot."
+        }
+      ],
+      "history": "Associated with Lord Rama’s exile as per the Ramayana, these temples have been a pilgrimage site for centuries.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "coordinates": { "lat": 25.1786, "lng": 80.8653 },
+      "hotels": [
+        {
+          "id": "h5",
+          "name": "MPT Kamadgiri",
+          "distance": "2 km",
+          "price_per_night": "₹3500",
+          "rating": 4.2,
+          "booking_url": "https://www.mpstdc.com/properties/kamadgiri-chitrakoot",
+          "coordinates": { "lat": 25.1800, "lng": 80.8670 },
+          "address": "Chitrakoot, Madhya Pradesh 485334",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Garden"]
+        },
+        {
+          "id": "h6",
+          "name": "Hotel Ramdev",
+          "distance": "3 km",
+          "price_per_night": "₹3000",
+          "rating": 4.0,
+          "booking_url": "https://www.example.com/hotel-ramdev-chitrakoot",
+          "coordinates": { "lat": 25.1750, "lng": 80.8630 },
+          "address": "Sitapur Road, Chitrakoot, Madhya Pradesh 485334",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+        }
+      ]
+    },
+    {
+      "name": "St. Joseph’s Church",
+      "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1015",
+      "image": "https://thumbs.dreamstime.com/b/beautifully-decorated-st-joseph-worker-parish-church-pacdal-baguio-city-philippines-beautifully-decorated-st-joseph-worker-164067718.jpg",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "location": "Jabalpur",
+      "description": "A prominent Christian church known for its serene environment and Gothic-style architecture, serving the local Christian community.",
+      "rating": 4.4,
+      "distance_from_airport": "20 km",
+      "nearby_places": [
+        {
+          "name": "Madan Mahal Fort",
+          "distance": "5 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A historic fort built by the Gond rulers, offering panoramic views of Jabalpur."
+        }
+      ],
+      "history": "Established in the 19th century, this church is a significant place of worship for Jabalpur’s Christian community.",
+      "best_time_to_visit": "October to March",
+      "entry_fees": "Free",
+      "coordinates": { "lat": 23.1609, "lng": 79.9497 },
+      "hotels": [
+        {
+          "id": "h7",
+          "name": "Vijan Mahal Hotel",
+          "distance": "5 km",
+          "price_per_night": "₹4500",
+          "rating": 4.3,
+          "booking_url": "https://www.example.com/vijan-mahal-jabalpur",
+          "coordinates": { "lat": 23.1650, "lng": 79.9450 },
+          "address": "NH 7, Jabalpur, Madhya Pradesh 482002",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+        },
+        {
+          "id": "h8",
+          "name": "Narmada Jacksons Hotel",
+          "distance": "6 km",
+          "price_per_night": "₹5000",
+          "rating": 4.4,
+          "booking_url": "https://www.example.com/narmada-jacksons-jabalpur",
+          "coordinates": { "lat": 23.1550, "lng": 79.9500 },
+          "address": "Civic Centre, Marhatal, Jabalpur, Madhya Pradesh 482002",
+          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Bar"]
+        }
+      ]
+    },
+    {
+      "name": "Mata Vaishno Devi Temple",
+      "id": "8a9d3b4c-f7e6-4290-bcd1-234567890001",
+      "image": "https://www.indiapilgrimtours.com/articles/wp-content/uploads/2019/04/Darshani-Darwaza.jpg",
+      "state": "Jammu and Kashmir",
+      "country": "India",
+      "location": "Katra",
+      "description": "A major Hindu pilgrimage site dedicated to Goddess Vaishno Devi, located in the Trikuta Hills. It attracts millions annually, accessible via a 14 km trek or helicopter from Katra.",
+      "rating": 4.9,
+      "distance_from_airport": "50 km",
+      "nearby_places": [
+        {
+          "name": "Bhairon Temple",
+          "distance": "2 km",
+          "image": "https://via.placeholder.com/150",
+          "description": "A temple near Vaishno Devi, visited as part of the pilgrimage."
+        }
+      ],
+      "history": "The temple is believed to be ancient, with its significance growing over centuries as a key Shakti Peeth.",
+      "best_time_to_visit": "March to June, September to November",
+      "entry_fees": "Free; registration required for darshan",
+      "coordinates": { "lat": 33.0299, "lng": 74.9320 },
+      "hotels": [
+        {
+          "id": "h9",
+          "name": "Hotel Asia Vaishno Devi",
+          "distance": "1 km",
+          "price_per_night": "₹4000",
+          "rating": 4.3,
+          "booking_url": "https://www.example.com/hotel-asia-vaishno-devi",
+          "coordinates": { "lat": 33.0300, "lng": 74.9300 },
+          "address": "Jammu Road, Katra, Jammu and Kashmir 182301",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+        },
+        {
+          "id": "h10",
+          "name": "The White Hotels Katra",
+          "distance": "1.5 km",
+          "price_per_night": "₹5500",
+          "rating": 4.5,
+          "booking_url": "https://www.example.com/white-hotels-katra",
+          "coordinates": { "lat": 33.0280, "lng": 74.9350 },
+          "address": "Katra, Jammu and Kashmir 182301",
+          "amenities": ["Free Wi-Fi", "Restaurant", "Spa", "Parking"]
+        },
+        {
+          "id": "h11",
+          "name": "Country Inn & Suites by Radisson",
+          "distance": "2 km",
+          "price_per_night": "₹6000",
+          "rating": 4.6,
+          "booking_url": "https://www.radissonhotels.com/en-us/hotels/country-inn-katra",
+          "coordinates": { "lat": 33.0270, "lng": 74.9330 },
+          "address": "Jammu-Katra Highway, Katra, Jammu and Kashmir 182301",
+          "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Pool"]
         }
       ]
     }

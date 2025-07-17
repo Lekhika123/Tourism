@@ -1,7 +1,6 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import templeData from '../../data/ReligiousPlaces.json';
-import { useState } from 'react';
+import templeData from '../../data/RD.json';
 import useHotels from '../../Hooks/useHotels';
 
 function Destination() {
@@ -26,36 +25,45 @@ function Destination() {
   };
 
   const [isMapOpen, setIsMapOpen] = useState(false);
+  const { hotels, loading, error } = useHotels(worshipPlace.lat, worshipPlace.lng);
 
-  // Function to initialize and display the map in the modal
-  const initMap = () => {
-    const mapElement = document.getElementById('map');
-    if (!mapElement || !window.google) return;
+  // Initialize TomTom map when modal opens
+  useEffect(() => {
+    if (isMapOpen && window.tt) {
+      const mapElement = document.getElementById('map');
+      if (!mapElement) return;
 
-    const map = new window.google.maps.Map(mapElement, {
-      zoom: 15,
-      center: { lat: worshipPlace.lat, lng: worshipPlace.lng },
-    });
+      const map = window.tt.map({
+        key: 'Lc59kXxPqsEUU1DX6p9a7EdCfBVaIyWW', // Replace with your TomTom API key
+        container: 'map',
+        center: [worshipPlace.lng, worshipPlace.lat], // TomTom uses [lng, lat]
+        zoom: 15,
+      });
 
-    new window.google.maps.Marker({
-      position: { lat: worshipPlace.lat, lng: worshipPlace.lng },
-      map: map,
-      title: worshipPlace.name,
-    });
-  };
+      map.on('load', () => {
+        new window.tt.Marker()
+          .setLngLat([worshipPlace.lng, worshipPlace.lat])
+          .setPopup(new window.tt.Popup().setHTML(`<b>${worshipPlace.name}</b>`))
+          .addTo(map)
+          .togglePopup();
+      });
+
+      // Cleanup map on modal close or component unmount
+      return () => {
+        if (map) map.remove();
+      };
+    }
+  }, [isMapOpen, worshipPlace.lat, worshipPlace.lng, worshipPlace.name]);
 
   // Open modal and load map
   const handleOpenMap = () => {
     setIsMapOpen(true);
-    // Delay map initialization to ensure modal DOM is rendered
-    setTimeout(initMap, 0);
   };
 
   // Close modal
   const handleCloseMap = () => {
     setIsMapOpen(false);
   };
-  const { hotels, loading, error } = useHotels(worshipPlace.lat, worshipPlace.lng);
 
   return (
     <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
@@ -65,36 +73,52 @@ function Destination() {
           <img
             src={worshipPlace.image}
             alt={worshipPlace.name}
-            className="w-220 h-auto object-cover mx-auto rounded-2xl"
+            className="w-full h-auto object-cover mx-auto rounded-2xl"
           />
           <div className="p-6">
             <div className="flex items-center justify-between">
               <h2 className="text-3xl font-bold text-gray-900 mb-4">{worshipPlace.name}</h2>
-              {/* <button
+              <svg
                 onClick={handleOpenMap}
-                className="text-blue-600 hover:text-blue-800 focus:outline-none bg-amber-300"
-                title="View Location on Map"
-              > */}
-                <svg onClick={handleOpenMap} 
-                className='h-7 w-7 ml=3'
-                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path fill="#c91d1d" d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"/></svg>
-              {/* </button> */}
+                className="h-7 w-7 ml-3 cursor-pointer"
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 384 512"
+              >
+                <path
+                  fill="#c91d1d"
+                  d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"
+                />
+              </svg>
             </div>
-            <p className="text-gray-600 mb-4">{worshipPlace.description}</p>
+            <p className="text-gray-700 mb-4">{worshipPlace.description}</p>
             <p className="text-gray-700 mb-4">{worshipPlace.details}</p>
             <div className="mt-4 space-y-2">
-              <p className="text-gray-500 text-sm"><strong>State:</strong> {worshipPlace.state}</p>
-              <p className="text-gray-500 text-sm"><strong>Location:</strong> {worshipPlace.location}, {worshipPlace.country}</p>
-              <p className="text-gray-500 text-sm"><strong>Distance from Airport:</strong> {worshipPlace.distance_from_airport}</p>
-              <p className="text-gray-500 text-sm"><strong>Rating:</strong> {worshipPlace.rating}/5</p>
+              <p className="text-black text-sm">
+                <strong>State:</strong> {worshipPlace.state}
+              </p>
+              <p className="text-gray-500 text-sm">
+                <strong>Location:</strong> {worshipPlace.location}, {worshipPlace.country}
+              </p>
+              <p className="text-gray-500 text-sm">
+                <strong>Distance from Airport:</strong> {worshipPlace.distance_from_airport}
+              </p>
+              <p className="text-gray-500 text-sm">
+                <strong>Rating:</strong> {worshipPlace.rating}/5
+              </p>
               {worshipPlace.history && (
-                <p className="text-gray-500 text-sm"><strong>History:</strong> {worshipPlace.history}</p>
+                <p className="text-gray-500 text-sm">
+                  <strong>History:</strong> {worshipPlace.history}
+                </p>
               )}
               {worshipPlace.best_time_to_visit && (
-                <p className="text-gray-500 text-sm"><strong>Best Time to Visit:</strong> {worshipPlace.best_time_to_visit}</p>
+                <p className="text-gray-500 text-sm">
+                  <strong>Best Time to Visit:</strong> {worshipPlace.best_time_to_visit}
+                </p>
               )}
               {worshipPlace.entry_fees && (
-                <p className="text-gray-500 text-sm"><strong>Entry Fees:</strong> {worshipPlace.entry_fees}</p>
+                <p className="text-gray-500 text-sm">
+                  <strong>Entry Fees:</strong> {worshipPlace.entry_fees}
+                </p>
               )}
             </div>
           </div>
@@ -134,8 +158,8 @@ function Destination() {
             {loading ? (
               <p className="text-gray-500 text-sm">Loading hotels...</p>
             ) : error ? (
-              <p className="text-red-500 text-sm">{error}</p>
-            ) : hotels.length > 0 ? (
+              <p className="text-red-500 text-sm">Error loading hotels: {error}</p>
+            ) : hotels && hotels.length > 0 ? (
               hotels.map((hotel, index) => (
                 <div key={index} className="flex items-center space-x-4">
                   <div>
@@ -160,6 +184,23 @@ function Destination() {
           </div>
         </div>
       </div>
+
+      {/* Modal for TomTom Map */}
+      {isMapOpen && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50">
+          <div className="bg-white rounded-lg p-6 w-full max-w-3xl relative">
+            {/* handleCloseMap is used here in the close button */}
+            <button
+              onClick={handleCloseMap}
+              className="absolute top-2 right-2 text-gray-600 hover:text-gray-800 text-2xl"
+            >
+              ×
+            </button>
+            <h3 className="text-xl font-semibold mb-4">{worshipPlace.name}</h3>
+            <div id="map" className="w-full h-96"></div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
