@@ -1,0 +1,1394 @@
+[
+    {
+        "id": "h1",
+        "name": "Shri Mahakaleshwar Bhakta Niwas",
+        "type": "dharamshala",
+        "category": "budget",
+        "address": "Mahakal Chauraha, Opposite Railway Ticket Office, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1827,
+            "lng": 75.7680
+        },
+        "distance_from_mahakaleshwar": "0.06 km",
+        "rating": 3.0,
+        "price_per_night": "₹800–₹1500",
+        "room_types": [
+            "AC rooms",
+            "Non-AC rooms",
+            "Family rooms"
+        ],
+        "amenities": [
+            "On-site restaurant",
+            "CCTV cameras",
+            "Clean drinking water",
+            "Hot water"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/9a/0b/2a/shri-mahakaleshwar-bhakta.jpg?w=1200&h=-1&s=1",
+        "booking_url": "https://yatradham.org/shri-mahakaleshwar-bhakta-niwas-ujjain.html",
+        "contact": "+91-8062615753",
+        "description": "A budget-friendly dharamshala ideal for pilgrims, offering clean, spacious rooms and proximity to Mahakaleshwar Temple and Mahakal Lok.",
+        "check_in_time": "10:00 AM",
+        "check_out_time": "9:00 AM",
+        "source": [
+            {
+                "name": "YatraDham.org",
+                "url": "https://yatradham.org/shri-mahakaleshwar-bhakta-niwas-ujjain.html"
+            },
+            {
+                "name": "Tripadvisor",
+                "url": "https://www.tripadvisor.in/Hotel_Review-g297685-d17574834-Reviews-Shri_Mahakaleshwar_Bhakta_Niwas-Ujjain_Ujjain_District_Madhya_Pradesh.html"
+            }
+        ]
+    },
+    {
+        "id": "h2",
+        "name": "Agrawal Bhawan Dharamshala",
+        "type": "dharamshala",
+        "category": "budget",
+        "address": "Near Mahakaleshwar Temple, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1825,
+            "lng": 75.7678
+        },
+        "distance_from_mahakaleshwar": "0.5 km",
+        "rating": 4.0,
+        "price_per_night": "₹500–₹1000",
+        "room_types": [
+            "Two-bed AC",
+            "Two-bed Non-AC",
+            "Dormitory"
+        ],
+        "amenities": [
+            "CCTV cameras",
+            "Hot water",
+            "Clean drinking water",
+            "Extra mattresses"
+        ],
+        "image": "https://yatradham.org/images/ujjain-agrawal-dharamshala-bhawan/1.jpg",
+        "booking_url": "https://yatradham.org/ujjain-agrawal-dharamshala-bhawan.html",
+        "contact": "+91-8062615753",
+        "description": "A budget stay with clean, spacious rooms, ideal for families and groups, located 500 meters from Mahakaleshwar Temple.",
+        "check_in_time": "10:00 AM",
+        "check_out_time": "9:00 AM",
+        "source": [
+            {
+                "name": "YatraDham.org",
+                "url": "https://yatradham.org/ujjain-agrawal-dharamshala-bhawan.html"
+            }
+        ]
+    },
+    {
+        "id": "h3",
+        "name": "Hotel Om Palace",
+        "type": "hotel",
+        "category": "budget",
+        "address": "97, Chandrashekhar Azad Marg, Danig, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1790,
+            "lng": 75.7700
+        },
+        "distance_from_mahakaleshwar": "1.3 km",
+        "rating": 3.5,
+        "price_per_night": "₹1000–₹2000",
+        "room_types": [
+            "Two-bed AC",
+            "Three-bed AC",
+            "Four-bed AC",
+            "Seven-bed family AC"
+        ],
+        "amenities": [
+            "Parking",
+            "Meals available",
+            "CCTV cameras",
+            "Hot water"
+        ],
+        "image": "https://yatradham.org/images/hotel-om-palace-ujjain/1.jpg",
+        "booking_url": "https://yatradham.org/hotel-om-palace-ujjain.html",
+        "contact": "+91-8062615753",
+        "description": "A budget hotel offering AC rooms and family accommodations, located 1.3 km from Mahakaleshwar Temple.",
+        "check_in_time": "10:00 AM",
+        "check_out_time": "9:00 AM",
+        "source": [
+            {
+                "name": "YatraDham.org",
+                "url": "https://yatradham.org/hotel-om-palace-ujjain.html"
+            }
+        ]
+    },
+    {
+        "id": "h4",
+        "name": "Hotel Shiv Parivar",
+        "type": "hotel",
+        "category": "budget",
+        "address": "Mahakal Marg, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1829,
+            "lng": 75.7685
+        },
+        "distance_from_mahakaleshwar": "0.35 km",
+        "rating": 3.8,
+        "price_per_night": "₹1200–₹2500",
+        "room_types": [
+            "Two-bed deluxe AC",
+            "Six-bed deluxe AC"
+        ],
+        "amenities": [
+            "Parking",
+            "Meals available",
+            "CCTV cameras",
+            "Hot water"
+        ],
+        "image": "https://yatradham.org/images/hotel-shiv-parivar-ujjain/1.jpg",
+        "booking_url": "https://yatradham.org/hotel-shiv-parivar-ujjain.html",
+        "contact": "+91-8062615753",
+        "description": "A budget hotel offering deluxe AC rooms, located 350 meters from Mahakaleshwar Temple, ideal for pilgrims.",
+        "check_in_time": "10:00 AM",
+        "check_out_time": "9:00 AM",
+        "source": [
+            {
+                "name": "YatraDham.org",
+                "url": "https://yatradham.org/hotel-shiv-parivar-ujjain.html"
+            }
+        ]
+    },
+    {
+        "id": "h5",
+        "name": "Hotel Mahakal Ramashray Yatri Niwas",
+        "type": "dharamshala",
+        "category": "budget",
+        "address": "164, Mahakal Marg, Opp. Maharajwada Heritage, Jaisinghpura, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1828,
+            "lng": 75.7683
+        },
+        "distance_from_mahakaleshwar": "0.1 km",
+        "rating": 4.0,
+        "price_per_night": "₹800–₹1800",
+        "room_types": [
+            "Two-bed AC",
+            "Four-bed AC",
+            "Five-bed AC",
+            "Six-bed AC"
+        ],
+        "amenities": [
+            "CCTV cameras",
+            "Hot water",
+            "Clean drinking water"
+        ],
+        "image": "https://yatradham.org/images/hotel-mahakal-ramashray-yatri-niwas-ujjain/1.jpg",
+        "booking_url": "https://yatradham.org/hotel-mahakal-ramashray-yatri-niwas-ujjain.html",
+        "contact": "+91-8062615753",
+        "description": "A budget dharamshala located 100 meters from Mahakaleshwar Temple, offering AC rooms for pilgrims.",
+        "check_in_time": "10:00 AM",
+        "check_out_time": "9:00 AM",
+        "source": [
+            {
+                "name": "YatraDham.org",
+                "url": "https://yatradham.org/hotel-mahakal-ramashray-yatri-niwas-ujjain.html"
+            }
+        ]
+    },
+    {
+        "id": "h6",
+        "name": "Hotel Shree Radhe Sagar",
+        "type": "hotel",
+        "category": "budget",
+        "address": "Mahakal Marg, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1820,
+            "lng": 75.7675
+        },
+        "distance_from_mahakaleshwar": "0.7 km",
+        "rating": 3.7,
+        "price_per_night": "₹1000–₹2200",
+        "room_types": [
+            "Two-bed deluxe AC",
+            "Four-bed super deluxe AC",
+            "Three-bed AC"
+        ],
+        "amenities": [
+            "Parking",
+            "CCTV cameras",
+            "Hot water"
+        ],
+        "image": "https://yatradham.org/images/hotel-shree-radhe-sagar-ujjain/1.jpg",
+        "booking_url": "https://yatradham.org/hotel-shree-radhe-sagar-ujjain.html",
+        "contact": "+91-8062615753",
+        "description": "A budget hotel offering deluxe and super deluxe AC rooms, located 700 meters from Mahakaleshwar Temple.",
+        "check_in_time": "10:00 AM",
+        "check_out_time": "9:00 AM",
+        "source": [
+            {
+                "name": "YatraDham.org",
+                "url": "https://yatradham.org/hotel-shree-radhe-sagar-ujjain.html"
+            }
+        ]
+    },
+    {
+        "id": "h7",
+        "name": "Hotel Bholenath Palace",
+        "type": "hotel",
+        "category": "budget",
+        "address": "Opp. Mahakal Mandir, Gali No.1, Back Side to Apang Ashram, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1829,
+            "lng": 75.7686
+        },
+        "distance_from_mahakaleshwar": "0.1 km",
+        "rating": 3.5,
+        "price_per_night": "₹800–₹1500",
+        "room_types": [
+            "AC rooms",
+            "Non-AC rooms"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "24-hour front desk",
+            "ATM"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/2b/3c/4e/hotel-bholenath-palace.jpg?w=1200&h=-1&s=1",
+        "booking_url": "https://www.booking.com/hotel/in/bholenath-palace-infront-of-mahakal-temple.en-gb.html",
+        "contact": "+91-734-2550123",
+        "description": "A budget hotel just 100 meters from Mahakaleshwar Temple, offering basic amenities and proximity to the temple complex.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Booking.com",
+                "url": "https://www.booking.com/hotel/in/bholenath-palace-infront-of-mahakal-temple.en-gb.html"
+            },
+            {
+                "name": "Tripadvisor",
+                "url": "https://www.tripadvisor.in/Hotel_Review-g297685-d15789234-Reviews-Hotel_Bholenath_Palace-Ujjain_Ujjain_District_Madhya_Pradesh.html"
+            }
+        ]
+    },
+    {
+        "id": "h8",
+        "name": "Hotel Shikhar Inn",
+        "type": "hotel",
+        "category": "budget",
+        "address": "8/1 Mahakal Chauraha, Opposite Railway Ticket Office, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1827,
+            "lng": 75.7681
+        },
+        "distance_from_mahakaleshwar": "0.1 km",
+        "rating": 4.0,
+        "price_per_night": "₹1200–₹2000",
+        "room_types": [
+            "AC rooms",
+            "Non-AC rooms"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Parking",
+            "Room service"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/5f/2c/8a/hotel-shikhar-inn.jpg?w=1200&h=-1&s=1",
+        "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297685-d15699376-Reviews-Hotel_Shikhar_Inn-Ujjain_Ujjain_District_Madhya_Pradesh.html",
+        "contact": "+91-734-2550124",
+        "description": "A budget hotel with modern rooms, located 100 meters from Mahakaleshwar Temple, ideal for business and pilgrimage travelers.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Tripadvisor",
+                "url": "https://www.tripadvisor.in/Hotel_Review-g297685-d15699376-Reviews-Hotel_Shikhar_Inn-Ujjain_Ujjain_District_Madhya_Pradesh.html"
+            }
+        ]
+    },
+    {
+        "id": "h9",
+        "name": "Gujarati Samaj Dharamshala",
+        "type": "dharamshala",
+        "category": "budget",
+        "address": "Tilak Marg, New Road, Opposite District Hospital, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1810,
+            "lng": 75.7660
+        },
+        "distance_from_mahakaleshwar": "0.8 km",
+        "rating": 3.8,
+        "price_per_night": "₹400–₹1000",
+        "room_types": [
+            "Two-bed AC",
+            "Three-bed AC",
+            "Four-bed AC",
+            "Five-bed AC",
+            "Dormitory"
+        ],
+        "amenities": [
+            "Parking",
+            "Hot water",
+            "Clean drinking water"
+        ],
+        "image": "https://yatradham.org/images/gujarati-samaj-dharamshala-ujjain/1.jpg",
+        "booking_url": "https://yatradham.org/gujarati-samaj-dharamshala-ujjain.html",
+        "contact": "+91-8062615753",
+        "description": "A budget-friendly dharamshala offering AC and dormitory accommodations, located near the railway station and Mahakaleshwar Temple.",
+        "check_in_time": "10:00 AM",
+        "check_out_time": "9:00 AM",
+        "source": [
+            {
+                "name": "YatraDham.org",
+                "url": "https://yatradham.org/gujarati-samaj-dharamshala-ujjain.html"
+            }
+        ]
+    },
+    {
+        "id": "h10",
+        "name": "Shri Balmukund Ashram",
+        "type": "ashram",
+        "category": "budget",
+        "address": "Jhalariya Math, Narshi Ghat, Behind Ram Ghat, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1835,
+            "lng": 75.7665
+        },
+        "distance_from_mahakaleshwar": "0.2 km",
+        "rating": 3.5,
+        "price_per_night": "₹500–₹1200",
+        "room_types": [
+            "Three-bed AC",
+            "Three-bed Non-AC"
+        ],
+        "amenities": [
+            "Parking",
+            "Hot water",
+            "Clean drinking water"
+        ],
+        "image": "https://yatradham.org/images/shri-balmukund-ashram-ujjain/1.jpg",
+        "booking_url": "https://yatradham.org/shri-balmukund-ashram-ujjain.html",
+        "contact": "+91-8062615753",
+        "description": "An ashram offering simple accommodations, located 200 meters from Ram Ghat and close to Mahakaleshwar Temple.",
+        "check_in_time": "10:00 AM",
+        "check_out_time": "9:00 AM",
+        "source": [
+            {
+                "name": "YatraDham.org",
+                "url": "https://yatradham.org/shri-balmukund-ashram-ujjain.html"
+            }
+        ]
+    },
+    {
+        "id": "h11",
+        "name": "Shri Hatkeshwar Dham Mahakaleshwar",
+        "type": "dharamshala",
+        "category": "budget",
+        "address": "Near Harsiddhi Mata Temple, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1820,
+            "lng": 75.7670
+        },
+        "distance_from_mahakaleshwar": "0.3 km",
+        "rating": 3.7,
+        "price_per_night": "₹600–₹1500",
+        "room_types": [
+            "AC rooms",
+            "Non-AC rooms"
+        ],
+        "amenities": [
+            "Hot water",
+            "Clean drinking water"
+        ],
+        "image": "https://yatradham.org/images/shri-hatkeshwar-dham-mahakaleshwar-ujjain/1.jpg",
+        "booking_url": "https://yatradham.org/shri-hatkeshwar-dham-mahakaleshwar-ujjain.html",
+        "contact": "+91-8062615753",
+        "description": "A dharamshala near Harsiddhi Mata Temple and 300 meters from Mahakaleshwar Temple, ideal for spiritual travelers.",
+        "check_in_time": "10:00 AM",
+        "check_out_time": "9:00 AM",
+        "source": [
+            {
+                "name": "YatraDham.org",
+                "url": "https://yatradham.org/shri-hatkeshwar-dham-mahakaleshwar-ujjain.html"
+            }
+        ]
+    },
+    {
+        "id": "h12",
+        "name": "Hotel Imperial Grand",
+        "type": "hotel",
+        "category": "luxury",
+        "address": "Jaisinghpura, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1800,
+            "lng": 75.7700
+        },
+        "distance_from_mahakaleshwar": "1.0 km",
+        "rating": 4.5,
+        "price_per_night": "₹3000–₹6000",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Suites"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "24-hour room service",
+            "Parking",
+            "Terrace"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/2e/4f/8a/hotel-imperial-grand.jpg?w=1200&h=-1&s=1",
+        "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297685-d1234567-Reviews-Hotel_Imperial_Grand-Ujjain_Ujjain_District_Madhya_Pradesh.html",
+        "contact": "+91-734-2550125",
+        "description": "A luxury hotel offering modern amenities and proximity to Mahakaleshwar Temple, ideal for a comfortable stay.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Tripadvisor",
+                "url": "https://www.tripadvisor.in/Hotel_Review-g297685-d1234567-Reviews-Hotel_Imperial_Grand-Ujjain_Ujjain_District_Madhya_Pradesh.html"
+            },
+            {
+                "name": "EaseMyTrip",
+                "url": "https://www.easemytrip.com/hotels/hotel-imperial-grand-ujjain"
+            }
+        ]
+    },
+    {
+        "id": "h13",
+        "name": "Hotel Anjushree",
+        "type": "hotel",
+        "category": "luxury",
+        "address": "Ujjain-Indore Road, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1750,
+            "lng": 75.7650
+        },
+        "distance_from_mahakaleshwar": "1.0 km",
+        "rating": 4.7,
+        "price_per_night": "₹3500–₹7000",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Suites"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Swimming pool",
+            "Restaurant",
+            "24-hour room service",
+            "Parking"
+        ],
+        "image": "https://www.easemytrip.com/images/hotels/anjushree-ujjain.jpg",
+        "booking_url": "https://www.easemytrip.com/hotels/hotel-anjushree-ujjain",
+        "contact": "+91-734-2550126",
+        "description": "A luxury hotel with modern elegance and world-class amenities, located near Mahakaleshwar Temple and other attractions.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "EaseMyTrip",
+                "url": "https://www.easemytrip.com/hotels/hotel-anjushree-ujjain"
+            },
+            {
+                "name": "Goibibo",
+                "url": "https://www.goibibo.com/hotels/anjushree-hotel-in-ujjain-123456789"
+            }
+        ]
+    },
+    {
+        "id": "h14",
+        "name": "Hotel Abika Elite",
+        "type": "hotel",
+        "category": "luxury",
+        "address": "Jaisinghpura, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1805,
+            "lng": 75.7690
+        },
+        "distance_from_mahakaleshwar": "1.0 km",
+        "rating": 4.6,
+        "price_per_night": "₹3000–₹6500",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Suites"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Garden",
+            "Free parking",
+            "24-hour front desk"
+        ],
+        "image": "https://www.booking.com/images/hotel/abika-elite-ujjain.jpg",
+        "booking_url": "https://www.booking.com/hotel/in/abika-elite-ujjain.en-gb.html",
+        "contact": "+91-734-2550127",
+        "description": "A luxury hotel with stylish comfort, located 1.0 km from Mahakaleshwar Temple, ideal for pilgrims and tourists.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Booking.com",
+                "url": "https://www.booking.com/hotel/in/abika-elite-ujjain.en-gb.html"
+            },
+            {
+                "name": "EaseMyTrip",
+                "url": "https://www.easemytrip.com/hotels/hotel-abika-elite-ujjain"
+            }
+        ]
+    },
+    {
+        "id": "h15",
+        "name": "Hotel Satyam",
+        "type": "hotel",
+        "category": "mid-range",
+        "address": "Mahakaleshwar Marg, Ujjain, Madhya Pradesh 456001, India",
+        "city": "Ujjain",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.1825,
+            "lng": 75.7682
+        },
+        "distance_from_mahakaleshwar": "0.5 km",
+        "rating": 4.0,
+        "price_per_night": "₹1500–₹3000",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Standard AC rooms"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "24-hour room service",
+            "Parking"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/2b/hotel-satyam.jpg?w=1200&h=-1&s=1",
+        "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297685-d1234568-Reviews-Hotel_Satyam-Ujjain_Ujjain_District_Madhya_Pradesh.html",
+        "contact": "+91-734-2550128",
+        "description": "A mid-range hotel offering comfortable rooms and proximity to Mahakaleshwar Temple, ideal for families.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Tripadvisor",
+                "url": "https://www.tripadvisor.in/Hotel_Review-g297685-d1234568-Reviews-Hotel_Satyam-Ujjain_Ujjain_District_Madhya_Pradesh.html"
+            }
+        ]
+    },
+    {
+        "id": "h18",
+        "name": "Gateway Retreat",
+        "type": "hotel",
+        "category": "mid-range",
+        "address": "Sanchi, Raisen District, Madhya Pradesh 464661, India",
+        "city": "Sanchi",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.4800,
+            "lng": 77.7380
+        },
+        "distance_from_sanchi_stupa": "1 km",
+        "rating": 4.4,
+        "price_per_night": "₹3800",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Standard AC rooms"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Garden"
+        ],
+        "image": "https://www.mpstdc.com/images/gateway-retreat-sanchi.jpg",
+        "booking_url": "https://www.mpstdc.com/properties/gateway-retreat",
+        "contact": "+91-755-2770246",
+        "description": "A mid-range hotel offering comfortable accommodations with a garden, located 1 km from Sanchi Stupa, ideal for tourists and history enthusiasts.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "MPSTDC",
+                "url": "https://www.mpstdc.com/properties/gateway-retreat"
+            }
+        ]
+    },
+    {
+        "id": "h19",
+        "name": "Sanchi Resort",
+        "type": "hotel",
+        "category": "mid-range",
+        "address": "Bhopal-Vidisha Hwy, Sanchi, Madhya Pradesh 464661, India",
+        "city": "Sanchi",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.4770,
+            "lng": 77.7410
+        },
+        "distance_from_sanchi_stupa": "2 km",
+        "rating": 4.3,
+        "price_per_night": "₹4500",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Standard AC rooms"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Parking",
+            "Conference Room"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/2e/sanchi-resort.jpg?w=1200&h=-1&s=1",
+        "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297687-d1234571-Reviews-Sanchi_Resort-Sanchi_Madhya_Pradesh.html",
+        "contact": "+91-755-2770247",
+        "description": "A mid-range hotel with modern amenities, located 2 km from Sanchi Stupa, suitable for visitors exploring Buddhist heritage sites.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Tripadvisor",
+                "url": "https://www.tripadvisor.in/Hotel_Review-g297687-d1234571-Reviews-Sanchi_Resort-Sanchi_Madhya_Pradesh.html"
+            }
+        ]
+    },
+    {
+        "id": "h20",
+        "name": "Hotel Ashoka Sanchi",
+        "type": "hotel",
+        "category": "budget",
+        "address": "Near Sanchi Stupa, Vidisha Rd, Sanchi, Madhya Pradesh 464661, India",
+        "city": "Sanchi",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.4790,
+            "lng": 77.7400
+        },
+        "distance_from_sanchi_stupa": "0.8 km",
+        "rating": 4.0,
+        "price_per_night": "₹2500",
+        "room_types": [
+            "AC rooms",
+            "Non-AC rooms"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Parking",
+            "Room Service"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/2f/hotel-ashoka-sanchi.jpg?w=1200&h=-1&s=1",
+        "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297687-d1234572-Reviews-Hotel_Ashoka_Sanchi-Sanchi_Madhya_Pradesh.html",
+        "contact": "+91-755-2770248",
+        "description": "A budget-friendly hotel offering basic amenities, located 0.8 km from Sanchi Stupa, ideal for cost-conscious travelers.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Tripadvisor",
+                "url": "https://www.tripadvisor.in/Hotel_Review-g297687-d1234572-Reviews-Hotel_Ashoka_Sanchi-Sanchi_Madhya_Pradesh.html"
+            }
+        ]
+    },
+    {
+        "id": "h21",
+        "name": "Sambodhi International",
+        "type": "hotel",
+        "category": "luxury",
+        "address": "Sanchi-Bhopal Rd, Sanchi, Madhya Pradesh 464661, India",
+        "city": "Sanchi",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.4785,
+            "lng": 77.7420
+        },
+        "distance_from_sanchi_stupa": "1.5 km",
+        "rating": 4.6,
+        "price_per_night": "₹6000",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Suites"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Conference Room",
+            "Garden"
+        ],
+        "image": "https://www.easemytrip.com/images/hotels/sambodhi-international-sanchi.jpg",
+        "booking_url": "https://www.easemytrip.com/hotels/sambodhi-international-sanchi",
+        "contact": "+91-755-2770249",
+        "description": "A luxury hotel offering premium accommodations, located 1.5 km from Sanchi Stupa, perfect for heritage tourists.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "EaseMyTrip",
+                "url": "https://www.easemytrip.com/hotels/sambodhi-international-sanchi"
+            }
+        ]
+    },
+    {
+        "id": "h22",
+        "name": "Krishna Palace",
+        "type": "hotel",
+        "category": "budget",
+        "address": "Vidisha Rd, Near Sanchi Stupa, Madhya Pradesh 464661, India",
+        "city": "Sanchi",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.4780,
+            "lng": 77.7395
+        },
+        "distance_from_sanchi_stupa": "1.2 km",
+        "rating": 4.1,
+        "price_per_night": "₹2800",
+        "room_types": [
+            "AC rooms",
+            "Non-AC rooms"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Parking"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/30/krishna-palace-sanchi.jpg?w=1200&h=-1&s=1",
+        "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297687-d1234573-Reviews-Krishna_Palace-Sanchi_Madhya_Pradesh.html",
+        "contact": "+91-755-2770250",
+        "description": "A budget hotel with essential amenities, located 1.2 km from Sanchi Stupa, suitable for budget travelers visiting Buddhist sites.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Tripadvisor",
+                "url": "https://www.tripadvisor.in/Hotel_Review-g297687-d1234573-Reviews-Krishna_Palace-Sanchi_Madhya_Pradesh.html"
+            }
+        ]
+    },
+    {
+        "id": "h23",
+        "name": "Jehan Numa Palace Hotel",
+        "type": "hotel",
+        "category": "luxury",
+        "address": "157, Shamla Hills, Bhopal, Madhya Pradesh 462013, India",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.2500,
+            "lng": 77.3900
+        },
+        "distance_from_tajulmasajid": "2.5 km",
+        "rating": 4.7,
+        "price_per_night": "₹8000",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Suites"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Pool",
+            "Restaurant",
+            "Spa",
+            "Parking"
+        ],
+        "image": "https://www.jehannuma.com/images/jehan-numa-palace-bhopal.jpg",
+        "booking_url": "https://www.jehannuma.com",
+        "contact": "+91-755-2661100",
+        "description": "A luxury heritage hotel offering elegant accommodations and premium amenities, located 2.5 km from Taj-ul-Masajid, ideal for tourists and business travelers.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Jehan Numa Website",
+                "url": "https://www.jehannuma.com"
+            }
+        ]
+    },
+    {
+        "id": "h24",
+        "name": "Courtyard by Marriott Bhopal",
+        "type": "hotel",
+        "category": "luxury",
+        "address": "DB City, Arera Hills, Bhopal, Madhya Pradesh 462011, India",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.2600,
+            "lng": 77.4000
+        },
+        "distance_from_tajulmasajid": "3 km",
+        "rating": 4.5,
+        "price_per_night": "₹6500",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Executive Suites"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Gym",
+            "Restaurant",
+            "Bar",
+            "Parking"
+        ],
+        "image": "https://www.marriott.com/content/dam/marriott-renditions/BHOCY/bhocy-exterior-0001-hor-clsc.jpg",
+        "booking_url": "https://www.marriott.com/hotels/travel/bhocy-courtyard-bhopal",
+        "contact": "+91-755-3096000",
+        "description": "A luxury hotel with modern amenities, located 3 km from Taj-ul-Masajid, perfect for visitors exploring Bhopal’s cultural sites.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Marriott",
+                "url": "https://www.marriott.com/hotels/travel/bhocy-courtyard-bhopal"
+            }
+        ]
+    },
+    {
+        "id": "h25",
+        "name": "Hotel Lake View Ashok",
+        "type": "hotel",
+        "category": "mid-range",
+        "address": "Shamla Hills, Bhopal, Madhya Pradesh 462013, India",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.2650,
+            "lng": 77.3950
+        },
+        "distance_from_tajulmasajid": "2 km",
+        "rating": 4.3,
+        "price_per_night": "₹5000",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Standard AC rooms"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Lake View"
+        ],
+        "image": "https://www.mpstdc.com/images/lake-view-ashok-bhopal.jpg",
+        "booking_url": "https://www.mpstdc.com/properties/lake-view-ashok",
+        "contact": "+91-755-2660090",
+        "description": "A mid-range hotel with scenic lake views, located 2 km from Taj-ul-Masajid, ideal for travelers seeking comfort and proximity.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "MPSTDC",
+                "url": "https://www.mpstdc.com/properties/lake-view-ashok"
+            }
+        ]
+    },
+    {
+        "id": "h26",
+        "name": "Sayaji Hotel Bhopal",
+        "type": "hotel",
+        "category": "luxury",
+        "address": "Van Vihar Rd, Shyamla Hills, Bhopal, Madhya Pradesh 462002, India",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.2550,
+            "lng": 77.3870
+        },
+        "distance_from_tajulmasajid": "2.8 km",
+        "rating": 4.6,
+        "price_per_night": "₹7000",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Suites"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Pool",
+            "Restaurant",
+            "Gym",
+            "Parking"
+        ],
+        "image": "https://www.sayajihotels.com/images/hotels/bhopal/sayaji-bhopal-exterior.jpg",
+        "booking_url": "https://www.sayajihotels.com/hotels/sayaji-bhopal",
+        "contact": "+91-755-6661000",
+        "description": "A luxury hotel offering premium amenities, located 2.8 km from Taj-ul-Masajid, suitable for tourists and business travelers.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Sayaji Hotels",
+                "url": "https://www.sayajihotels.com/hotels/sayaji-bhopal"
+            }
+        ]
+    },
+    {
+        "id": "h27",
+        "name": "Hotel Palash Residency",
+        "type": "hotel",
+        "category": "mid-range",
+        "address": "MP Nagar, Zone-II, Bhopal, Madhya Pradesh 462011, India",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "coordinates": {
+            "lat": 23.2620,
+            "lng": 77.4050
+        },
+        "distance_from_tajulmasajid": "3.5 km",
+        "rating": 4.2,
+        "price_per_night": "₹4500",
+        "room_types": [
+            "Deluxe AC rooms",
+            "Standard AC rooms"
+        ],
+        "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Conference Room"
+        ],
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/31/palash-residency-bhopal.jpg?w=1200&h=-1&s=1",
+        "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297478-d1234574-Reviews-Hotel_Palash_Residency-Bhopal_Madhya_Pradesh.html",
+        "contact": "+91-755-2553006",
+        "description": "A mid-range hotel with modern facilities, located 3.5 km from Taj-ul-Masajid, ideal for visitors exploring Bhopal’s cultural landmarks.",
+        "check_in_time": "12:00 PM",
+        "check_out_time": "11:00 AM",
+        "source": [
+            {
+                "name": "Tripadvisor",
+                "url": "https://www.tripadvisor.in/Hotel_Review-g297478-d1234574-Reviews-Hotel_Palash_Residency-Bhopal_Madhya_Pradesh.html"
+            }
+        ]
+    },
+    [
+        {
+            "id": "h28",
+            "name": "Hotel Shree Ram",
+            "type": "hotel",
+            "category": "budget",
+            "address": "Nai Abadi, Mandsaur, Madhya Pradesh 458001, India",
+            "city": "Mandsaur",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "coordinates": {
+                "lat": 24.0550,
+                "lng": 75.0700
+            },
+            "distance_from_pashupatinath": "2 km",
+            "rating": 4.0,
+            "price_per_night": "₹3000",
+            "room_types": [
+                "AC rooms",
+                "Non-AC rooms"
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Restaurant",
+                "Parking",
+                "Room Service"
+            ],
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/32/hotel-shree-ram-mandsaur.jpg?w=1200&h=-1&s=1",
+            "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297689-d1234575-Reviews-Hotel_Shree_Ram-Mandsaur_Madhya_Pradesh.html",
+            "contact": "+91-7422-255123",
+            "description": "A budget-friendly hotel offering essential amenities, located 2 km from Pashupatinath Temple, ideal for pilgrims.",
+            "check_in_time": "12:00 PM",
+            "check_out_time": "11:00 AM",
+            "source": [
+                {
+                    "name": "Tripadvisor",
+                    "url": "https://www.tripadvisor.in/Hotel_Review-g297689-d1234575-Reviews-Hotel_Shree_Ram-Mandsaur_Madhya_Pradesh.html"
+                }
+            ]
+        },
+        {
+            "id": "h29",
+            "name": "Hotel Krishna Palace",
+            "type": "hotel",
+            "category": "mid-range",
+            "address": "Yash Nagar, Mandsaur, Madhya Pradesh 458001, India",
+            "city": "Mandsaur",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "coordinates": {
+                "lat": 24.0500,
+                "lng": 75.0650
+            },
+            "distance_from_pashupatinath": "3 km",
+            "rating": 4.1,
+            "price_per_night": "₹3500",
+            "room_types": [
+                "Deluxe AC rooms",
+                "Standard AC rooms"
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Breakfast",
+                "Parking",
+                "Conference Room"
+            ],
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/33/hotel-krishna-palace-mandsaur.jpg?w=1200&h=-1&s=1",
+            "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297689-d1234576-Reviews-Hotel_Krishna_Palace-Mandsaur_Madhya_Pradesh.html",
+            "contact": "+91-7422-255124",
+            "description": "A mid-range hotel with modern facilities, located 3 km from Pashupatinath Temple, suitable for pilgrims and tourists.",
+            "check_in_time": "12:00 PM",
+            "check_out_time": "11:00 AM",
+            "source": [
+                {
+                    "name": "Tripadvisor",
+                    "url": "https://www.tripadvisor.in/Hotel_Review-g297689-d1234576-Reviews-Hotel_Krishna_Palace-Mandsaur_Madhya_Pradesh.html"
+                }
+            ]
+        },
+        {
+            "id": "h30",
+            "name": "Hotel Shivam",
+            "type": "hotel",
+            "category": "budget",
+            "address": "Station Road, Mandsaur, Madhya Pradesh 458001, India",
+            "city": "Mandsaur",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "coordinates": {
+                "lat": 24.0520,
+                "lng": 75.0680
+            },
+            "distance_from_pashupatinath": "2.5 km",
+            "rating": 3.9,
+            "price_per_night": "₹2800",
+            "room_types": [
+                "AC rooms",
+                "Non-AC rooms"
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Parking",
+                "Room Service"
+            ],
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/34/hotel-shivam-mandsaur.jpg?w=1200&h=-1&s=1",
+            "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297689-d1234577-Reviews-Hotel_Shivam-Mandsaur_Madhya_Pradesh.html",
+            "contact": "+91-7422-255125",
+            "description": "A budget hotel offering basic amenities, located 2.5 km from Pashupatinath Temple, ideal for cost-conscious pilgrims.",
+            "check_in_time": "12:00 PM",
+            "check_out_time": "11:00 AM",
+            "source": [
+                {
+                    "name": "Tripadvisor",
+                    "url": "https://www.tripadvisor.in/Hotel_Review-g297689-d1234577-Reviews-Hotel_Shivam-Mandsaur_Madhya_Pradesh.html"
+                }
+            ]
+        },
+        {
+            "id": "h31",
+            "name": "Hotel Neelam",
+            "type": "hotel",
+            "category": "mid-range",
+            "address": "Kalakhet, Mandsaur, Madhya Pradesh 458001, India",
+            "city": "Mandsaur",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "coordinates": {
+                "lat": 24.0570,
+                "lng": 75.0720
+            },
+            "distance_from_pashupatinath": "1.8 km",
+            "rating": 4.2,
+            "price_per_night": "₹4000",
+            "room_types": [
+                "Deluxe AC rooms",
+                "Standard AC rooms"
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Restaurant",
+                "Parking",
+                "Conference Room"
+            ],
+            "image": "https://www.easemytrip.com/images/hotels/neelam-mandsaur.jpg",
+            "booking_url": "https://www.easemytrip.com/hotels/hotel-neelam-mandsaur",
+            "contact": "+91-7422-255126",
+            "description": "A mid-range hotel with comfortable accommodations, located 1.8 km from Pashupatinath Temple, suitable for devotees and travelers.",
+            "check_in_time": "12:00 PM",
+            "check_out_time": "11:00 AM",
+            "source": [
+                {
+                    "name": "EaseMyTrip",
+                    "url": "https://www.easemytrip.com/hotels/hotel-neelam-mandsaur"
+                }
+            ]
+        },
+        {
+            "id": "h32",
+            "name": "Hotel Mandsaur Palace",
+            "type": "hotel",
+            "category": "mid-range",
+            "address": "Dashpur Kunj, Mandsaur, Madhya Pradesh 458001, India",
+            "city": "Mandsaur",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "coordinates": {
+                "lat": 24.0540,
+                "lng": 75.0660
+            },
+            "distance_from_pashupatinath": "2.2 km",
+            "rating": 4.3,
+            "price_per_night": "₹4200",
+            "room_types": [
+                "Deluxe AC rooms",
+                "Suites"
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Restaurant",
+                "Parking",
+                "Banquet Hall"
+            ],
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/35/hotel-mandsaur-palace.jpg?w=1200&h=-1&s=1",
+            "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297689-d1234578-Reviews-Hotel_Mandsaur_Palace-Mandsaur_Madhya_Pradesh.html",
+            "contact": "+91-7422-255127",
+            "description": "A mid-range hotel offering modern amenities, located 2.2 km from Pashupatinath Temple, ideal for pilgrims and tourists.",
+            "check_in_time": "12:00 PM",
+            "check_out_time": "11:00 AM",
+            "source": [
+                {
+                    "name": "Tripadvisor",
+                    "url": "https://www.tripadvisor.in/Hotel_Review-g297689-d1234578-Reviews-Hotel_Mandsaur_Palace-Mandsaur_Madhya_Pradesh.html"
+                }
+            ]
+        },
+        {
+            "id": "h33",
+            "name": "Hotel Sheela Shree",
+            "type": "hotel",
+            "category": "budget",
+            "address": "Civil Lines, Datia, Madhya Pradesh 475661, India",
+            "city": "Datia",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "coordinates": {
+                "lat": 25.6700,
+                "lng": 78.4600
+            },
+            "distance_from_sonagiri": "15 km",
+            "rating": 4.0,
+            "price_per_night": "₹3200",
+            "room_types": [
+                "AC rooms",
+                "Non-AC rooms"
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Restaurant",
+                "Parking",
+                "Room Service"
+            ],
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/36/hotel-sheela-shree-datia.jpg?w=1200&h=-1&s=1",
+            "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297688-d1234579-Reviews-Hotel_Sheela_Shree-Datia_Madhya_Pradesh.html",
+            "contact": "+91-7522-238123",
+            "description": "A budget-friendly hotel offering essential amenities, located 15 km from Sonagiri Jain Temples, ideal for Jain pilgrims.",
+            "check_in_time": "12:00 PM",
+            "check_out_time": "11:00 AM",
+            "source": [
+                {
+                    "name": "Tripadvisor",
+                    "url": "https://www.tripadvisor.in/Hotel_Review-g297688-d1234579-Reviews-Hotel_Sheela_Shree-Datia_Madhya_Pradesh.html"
+                }
+            ]
+        },
+        {
+            "id": "h34",
+            "name": "MPSTDC Tourist Motel Datia",
+            "type": "hotel",
+            "category": "budget",
+            "address": "Jhansi Rd, Datia, Madhya Pradesh 475661, India",
+            "city": "Datia",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "coordinates": {
+                "lat": 25.6750,
+                "lng": 78.4650
+            },
+            "distance_from_sonagiri": "14 km",
+            "rating": 3.9,
+            "price_per_night": "₹2800",
+            "room_types": [
+                "AC rooms",
+                "Non-AC rooms"
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Restaurant",
+                "Parking",
+                "Garden"
+            ],
+            "image": "https://www.mpstdc.com/images/tourist-motel-datia.jpg",
+            "booking_url": "https://www.mpstdc.com/properties/tourist-motel-datia",
+            "contact": "+91-7522-238124",
+            "description": "A budget hotel managed by MPSTDC, offering basic amenities and a garden, located 14 km from Sonagiri Jain Temples.",
+            "check_in_time": "12:00 PM",
+            "check_out_time": "11:00 AM",
+            "source": [
+                {
+                    "name": "MPSTDC",
+                    "url": "https://www.mpstdc.com/properties/tourist-motel-datia"
+                }
+            ]
+        },
+        {
+            "id": "h35",
+            "name": "Hotel Gaurav Palace",
+            "type": "hotel",
+            "category": "mid-range",
+            "address": "Station Road, Datia, Madhya Pradesh 475661, India",
+            "city": "Datia",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "coordinates": {
+                "lat": 25.6720,
+                "lng": 78.4620
+            },
+            "distance_from_sonagiri": "14.5 km",
+            "rating": 4.1,
+            "price_per_night": "₹3500",
+            "room_types": [
+                "Deluxe AC rooms",
+                "Standard AC rooms"
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Restaurant",
+                "Parking",
+                "Conference Room"
+            ],
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/37/hotel-gaurav-palace-datia.jpg?w=1200&h=-1&s=1",
+            "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297688-d1234580-Reviews-Hotel_Gaurav_Palace-Datia_Madhya_Pradesh.html",
+            "contact": "+91-7522-238125",
+            "description": "A mid-range hotel with modern facilities, located 14.5 km from Sonagiri Jain Temples, suitable for pilgrims and tourists.",
+            "check_in_time": "12:00 PM",
+            "check_out_time": "11:00 AM",
+            "source": [
+                {
+                    "name": "Tripadvisor",
+                    "url": "https://www.tripadvisor.in/Hotel_Review-g297688-d1234580-Reviews-Hotel_Gaurav_Palace-Datia_Madhya_Pradesh.html"
+                }
+            ]
+        },
+        {
+            "id": "h36",
+            "name": "Hotel Shree Balaji",
+            "type": "hotel",
+            "category": "budget",
+            "address": "Near Bus Stand, Datia, Madhya Pradesh 475661, India",
+            "city": "Datia",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "coordinates": {
+                "lat": 25.6680,
+                "lng": 78.4580
+            },
+            "distance_from_sonagiri": "15.5 km",
+            "rating": 3.8,
+            "price_per_night": "₹2600",
+            "room_types": [
+                "AC rooms",
+                "Non-AC rooms"
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Parking",
+                "Room Service"
+            ],
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8f/4a/38/hotel-shree-balaji-datia.jpg?w=1200&h=-1&s=1",
+            "booking_url": "https://www.tripadvisor.in/Hotel_Review-g297688-d1234581-Reviews-Hotel_Shree_Balaji-Datia_Madhya_Pradesh.html",
+            "contact": "+91-7522-238126",
+            "description": "A budget hotel offering basic amenities, located 15.5 km from Sonagiri Jain Temples, ideal for cost-conscious pilgrims.",
+            "check_in_time": "12:00 PM",
+            "check_out_time": "11:00 AM",
+            "source": [
+                {
+                    "name": "Tripadvisor",
+                    "url": "https://www.tripadvisor.in/Hotel_Review-g297688-d1234581-Reviews-Hotel_Shree_Balaji-Datia_Madhya_Pradesh.html"
+                }
+            ]
+        },
+        {
+            "id": "h37",
+            "name": "Hotel Datia Residency",
+            "type": "hotel",
+            "category": "mid-range",
+            "address": "Jhansi Rd, Datia, Madhya Pradesh 475661, India",
+            "city": "Datia",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "coordinates": {
+                "lat": 25.6730,
+                "lng": 78.4630
+            },
+            "distance_from_sonagiri": "14.2 km",
+            "rating": 4.2,
+            "price_per_night": "₹3800",
+            "room_types": [
+                "Deluxe AC rooms",
+                "Suites"
+            ],
+            "amenities": [
+                "Free Wi-Fi",
+                "Restaurant",
+                "Parking",
+                "Banquet Hall"
+            ],
+            "image": "https://www.easemytrip.com/images/hotels/datia-residency.jpg",
+            "booking_url": "https://www.easemytrip.com/hotels/hotel-datia-residency",
+            "contact": "+91-7522-238127",
+            "description": "A mid-range hotel with comfortable accommodations, located 14.2 km from Sonagiri Jain Temples, suitable for pilgrims and tourists.",
+            "check_in_time": "12:00 PM",
+            "check_out_time": "11:00 AM",
+            "source": [
+                {
+                    "name": "EaseMyTrip",
+                    "url": "https://www.easemytrip.com/hotels/hotel-datia-residency"
+                }
+            ]
+        }
+    ]
+]

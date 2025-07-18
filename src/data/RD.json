@@ -195,7 +195,8 @@
       "history": "Construction began in the 19th century under Nawab Shah Jahan Begum and was completed in the 20th century.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "coordinates": { "lat": 23.2630, "lng": 77.3931 },
+      "lat": 23.2630, 
+      "lng": 77.3931,
       "hotels": [
         {
           "id": "h1",
@@ -253,7 +254,8 @@
       "history": "The temple is believed to date back to ancient times, with its unique lingam attracting devotees from across India.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "coordinates": { "lat": 24.0538, "lng": 75.0691 },
+      "lat": 24.0538, 
+      "lng": 75.0691,
       "hotels": [
         {
           "id": "h4",
@@ -347,7 +349,8 @@
       "history": "Built between the 9th and 11th centuries by the Chandela dynasty, these temples are famous for their nagara-style architecture.",
       "best_time_to_visit": "October to February",
       "entry_fees": "₹40 for Indians, ₹600 for foreigners",
-      "coordinates": { "lat": 24.8520, "lng": 79.9218 },
+      "lat": 24.8520, 
+      "lng": 79.9218,
       "hotels": [
         {
           "id": "h1",
@@ -452,7 +455,8 @@
       "history": "Built to commemorate Guru Hargobind’s release from imprisonment in 1612, the gurdwara is a significant Sikh pilgrimage site.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "coordinates": { "lat": 26.2236, "lng": 78.1680 },
+      "lat": 26.2236, 
+      "lng": 78.1680 ,
       "hotels": [
         {
           "id": "h6",
@@ -519,7 +523,8 @@
           "price_per_night": "₹6500",
           "rating": 4.5,
           "booking_url": "https://www.marriott.com/hotels/travel/bhocy-courtyard-bhopal",
-          "coordinates": { "lat": 23.2600, "lng": 77.4000 },
+          "lat": 23.2600, 
+          "lng": 77.4000 ,
           "address": "DB City, Arera Hills, Bhopal, Madhya Pradesh 462011",
           "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Bar", "Parking"]
         }
@@ -555,7 +560,7 @@
           "price_per_night": "₹3000",
           "rating": 4.0,
           "booking_url": "https://www.example.com/hotel-ambar-burhanpur",
-          "coordinates": { "lat": 21.3050, "lng": 76.2300 },
+          "coordinates": {"lat": 21.3050, "lng": 76.2300 },
           "address": "Station Road, Burhanpur, Madhya Pradesh 450331",
           "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
         },
@@ -593,7 +598,8 @@
       "history": "Constructed in the 18th century by Ahilyabai Holkar, this temple is part of the Maheshwar complex, reflecting Maratha architecture.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "coordinates": { "lat": 22.1771, "lng": 75.5857 },
+      "lat": 22.1771, 
+      "lng": 75.5857,
       "hotels": [
         {
           "id": "h1",
@@ -640,7 +646,8 @@
       "history": "Built in the 11th century by Raja Bhoj of the Paramara dynasty, the temple is known for its unfinished state and massive lingam.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "coordinates": { "lat": 23.1167, "lng": 77.5833 },
+      "lat": 23.1167, 
+      "lng": 77.5833,
       "hotels": [
         {
           "id": "h3",
@@ -687,7 +694,8 @@
       "history": "Associated with Lord Rama’s exile as per the Ramayana, these temples have been a pilgrimage site for centuries.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "coordinates": { "lat": 25.1786, "lng": 80.8653 },
+      "lat": 25.1786,
+      "lng": 80.8653 ,
       "hotels": [
         {
           "id": "h5",
@@ -734,7 +742,8 @@
       "history": "Established in the 19th century, this church is a significant place of worship for Jabalpur’s Christian community.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "coordinates": { "lat": 23.1609, "lng": 79.9497 },
+      "lat": 23.1609,
+      "lng": 79.9497,
       "hotels": [
         {
           "id": "h7",
@@ -781,7 +790,8 @@
       "history": "The temple is believed to be ancient, with its significance growing over centuries as a key Shakti Peeth.",
       "best_time_to_visit": "March to June, September to November",
       "entry_fees": "Free; registration required for darshan",
-      "coordinates": { "lat": 33.0299, "lng": 74.9320 },
+      "lat": 33.0299, 
+      "lng": 74.9320,
       "hotels": [
         {
           "id": "h9",
