@@ -1,13 +1,16 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import worshipPlacesData from '../../data/WorshipPlaces.json';
-import hotelsData from '../../data/Hotelsdata.json';
+import worshipPlacesData from '../../data/ModifiedData.json';
+// import hotelsData from '../../data/Hotelsdata.json';
+import useHotels from '../../Hooks/useHotels';
+import useNearbyPlaces from '../../Hooks/useNearbyPlaces';
+import { Link } from 'react-router-dom';
 
 function Destination() {
   const { id } = useParams();
-  
+
   // Find the worship place by ID
-  const worshipPlace = worshipPlacesData.find((place) => place.id === id) || {
+  const worshipPlace = worshipPlacesData.religious_places.find((place) => place.id === id) || {
     id: 'not-found',
     name: 'Worship Place Not Found',
     image: 'https://via.placeholder.com/800x400',
@@ -28,29 +31,21 @@ function Destination() {
   };
 
   // Fetch nearby places details from WorshipPlaces.json
-  const nearbyPlaces = worshipPlace.nearby_places.map((place) => {
-    const fullPlace = worshipPlacesData.find((p) => p.id === place.id) || {
-      id: place.id,
-      name: 'Unknown Place',
-      image: 'https://via.placeholder.com/150',
-      description: 'No details available.',
-      distance: place.distance,
-    };
-    return { ...fullPlace, distance: place.distance };
-  });
+  const nearbyPlaces = useNearbyPlaces(worshipPlace.nearby_places);
 
   // Fetch hotels from Hotelsdata.json based on worship place's hotels array
-  const hotels = worshipPlace.hotels.map((hotel) => {
-    const fullHotel = hotelsData.find((h) => h.id === hotel.id) || {
-      id: hotel.id,
-      name: 'Unknown Hotel',
-      distance: hotel.distance,
-      price_per_night: 'N/A',
-      rating: 0,
-      booking_url: '#',
-    };
-    return { ...fullHotel, distance: hotel.distance };
-  });
+  // const hotels = worshipPlace.hotels.map((hotel) => {
+  //   const fullHotel = hotelsData.find((h) => h.id === hotel.id) || {
+  //     id: hotel.id,
+  //     name: 'Unknown Hotel',
+  //     distance: hotel.distance,
+  //     price_per_night: 'N/A',
+  //     rating: 0,
+  //     booking_url: '#',
+  //   };
+  //   return { ...fullHotel, distance: hotel.distance };
+  // });
+  const hotels = useHotels(worshipPlace.hotels);
 
   const [isMapOpen, setIsMapOpen] = useState(false);
 
@@ -159,18 +154,20 @@ function Destination() {
           <div className="space-y-4">
             {nearbyPlaces && nearbyPlaces.length > 0 ? (
               nearbyPlaces.map((place) => (
-                <div key={place.id} className="flex items-center space-x-4">
-                  <img
-                    src={place.image || 'https://via.placeholder.com/150'}
-                    alt={place.name}
-                    className="w-16 h-16 rounded-md object-cover"
-                  />
-                  <div>
-                    <p className="text-gray-900 font-medium">{place.name}</p>
-                    <p className="text-gray-500 text-sm">{place.distance}</p>
-                    <p className="text-gray-500 text-sm">{place.description}</p>
+                <Link key={place.id} to={`/worship-place/${place.id}`} className="block">
+                  <div key={place.id} className="flex items-center space-x-4">
+                    <img
+                      src={place.image || 'https://via.placeholder.com/150'}
+                      alt={place.name}
+                      className="w-16 h-16 rounded-md object-cover"
+                    />
+                    <div>
+                      <p className="text-gray-900 font-medium">{place.name}</p>
+                      <p className="text-gray-500 text-sm">{place.distance}</p>
+                      <p className="text-gray-500 text-sm">{place.description}</p>
+                    </div>
                   </div>
-                </div>
+                </Link>
               ))
             ) : (
               <p className="text-gray-500 text-sm">No nearby places available.</p>

@@ -7,7 +7,7 @@ import './index.css'
 import App from './App.jsx'
 import Home from './Components/Home.jsx';
 import StatePage from './Components/Pages/StatePage.jsx';
-import Destination from './Components/Pages/Destination.jsx';
+import Destination from './Components/Pages/Destination2.jsx';
 
 const router = createBrowserRouter([
   {

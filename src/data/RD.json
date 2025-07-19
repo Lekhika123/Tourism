@@ -50,9 +50,17 @@
           "price_per_night": "₹4500",
           "rating": 4.5,
           "booking_url": "https://www.anjushreehotel.com",
-          "coordinates": { "lat": 23.1850, "lng": 75.7900 },
+          "coordinates": {
+            "lat": 23.1850,
+            "lng": 75.7900
+          },
           "address": "72, Goyala Khurd, Nanakheda, Ujjain, Madhya Pradesh 456010",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Room Service"
+          ]
         },
         {
           "id": "h2",
@@ -61,9 +69,17 @@
           "price_per_night": "₹3500",
           "rating": 4.2,
           "booking_url": "https://www.mittalavenue.com",
-          "coordinates": { "lat": 23.1800, "lng": 75.7800 },
+          "coordinates": {
+            "lat": 23.1800,
+            "lng": 75.7800
+          },
           "address": "Nanakheda, Ring Rd, Ujjain, Madhya Pradesh 456010",
-          "amenities": ["Free Wi-Fi", "Breakfast", "Parking", "Concierge"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Parking",
+            "Concierge"
+          ]
         },
         {
           "id": "h3",
@@ -72,9 +88,17 @@
           "price_per_night": "₹6000",
           "rating": 4.7,
           "booking_url": "https://www.rudrakshclubresorts.com",
-          "coordinates": { "lat": 23.1900, "lng": 75.7650 },
+          "coordinates": {
+            "lat": 23.1900,
+            "lng": 75.7650
+          },
           "address": "Indore Rd, Near Mahakaleshwar Temple, Ujjain, Madhya Pradesh 456006",
-          "amenities": ["Free Wi-Fi", "Pool", "Spa", "Restaurant"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Pool",
+            "Spa",
+            "Restaurant"
+          ]
         }
       ]
     },
@@ -109,9 +133,17 @@
           "price_per_night": "₹4000",
           "rating": 4.3,
           "booking_url": "https://www.mpstdc.com/properties/narmada-resort",
-          "coordinates": { "lat": 22.2470, "lng": 76.1490 },
+          "coordinates": {
+            "lat": 22.2470,
+            "lng": 76.1490
+          },
           "address": "Mortakka, Omkareshwar, Madhya Pradesh 450554",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "River View"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "River View"
+          ]
         },
         {
           "id": "h5",
@@ -120,9 +152,17 @@
           "price_per_night": "₹3200",
           "rating": 4.1,
           "booking_url": "https://www.example.com/omkareshwar-palace",
-          "coordinates": { "lat": 22.2430, "lng": 76.1530 },
+          "coordinates": {
+            "lat": 22.2430,
+            "lng": 76.1530
+          },
           "address": "Khandwa Rd, Omkareshwar, Madhya Pradesh 450554",
-          "amenities": ["Free Wi-Fi", "Breakfast", "Parking", "24/7 Front Desk"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Parking",
+            "24/7 Front Desk"
+          ]
         }
       ]
     },
@@ -157,9 +197,17 @@
           "price_per_night": "₹3800",
           "rating": 4.4,
           "booking_url": "https://www.mpstdc.com/properties/gateway-retreat",
-          "coordinates": { "lat": 23.4800, "lng": 77.7380 },
+          "coordinates": {
+            "lat": 23.4800,
+            "lng": 77.7380
+          },
           "address": "Sanchi, Raisen District, Madhya Pradesh 464661",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Garden"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Garden"
+          ]
         },
         {
           "id": "h7",
@@ -168,13 +216,21 @@
           "price_per_night": "₹4500",
           "rating": 4.3,
           "booking_url": "https://www.example.com/sanchi-resort",
-          "coordinates": { "lat": 23.4770, "lng": 77.7410 },
+          "coordinates": {
+            "lat": 23.4770,
+            "lng": 77.7410
+          },
           "address": "Bhopal-Vidisha Hwy, Sanchi, Madhya Pradesh 464661",
-          "amenities": ["Free Wi-Fi", "Breakfast", "Parking", "Conference Room"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Parking",
+            "Conference Room"
+          ]
         }
       ]
     },
-     {
+    {
       "name": "Taj-ul-Masajid",
       "id": "7b9c2a3f-4e5d-4281-9b3a-5f6e8c7d1004",
       "image": "https://cdn.theculturetrip.com/wp-content/uploads/2016/04/tajul-masajid.jpeg",
@@ -195,7 +251,7 @@
       "history": "Construction began in the 19th century under Nawab Shah Jahan Begum and was completed in the 20th century.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "lat": 23.2630, 
+      "lat": 23.2630,
       "lng": 77.3931,
       "hotels": [
         {
@@ -205,9 +261,18 @@
           "price_per_night": "₹8000",
           "rating": 4.7,
           "booking_url": "https://www.jehannuma.com",
-          "coordinates": { "lat": 23.2500, "lng": 77.3900 },
+          "coordinates": {
+            "lat": 23.2500,
+            "lng": 77.3900
+          },
           "address": "157, Shamla Hills, Bhopal, Madhya Pradesh 462013",
-          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Spa", "Parking"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Pool",
+            "Restaurant",
+            "Spa",
+            "Parking"
+          ]
         },
         {
           "id": "h2",
@@ -216,9 +281,18 @@
           "price_per_night": "₹6500",
           "rating": 4.5,
           "booking_url": "https://www.marriott.com/hotels/travel/bhocy-courtyard-bhopal",
-          "coordinates": { "lat": 23.2600, "lng": 77.4000 },
+          "coordinates": {
+            "lat": 23.2600,
+            "lng": 77.4000
+          },
           "address": "DB City, Arera Hills, Bhopal, Madhya Pradesh 462011",
-          "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Bar", "Parking"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Gym",
+            "Restaurant",
+            "Bar",
+            "Parking"
+          ]
         },
         {
           "id": "h3",
@@ -227,9 +301,17 @@
           "price_per_night": "₹5000",
           "rating": 4.3,
           "booking_url": "https://www.mpstdc.com/properties/lake-view-ashok",
-          "coordinates": { "lat": 23.2650, "lng": 77.3950 },
+          "coordinates": {
+            "lat": 23.2650,
+            "lng": 77.3950
+          },
           "address": "Shamla Hills, Bhopal, Madhya Pradesh 462013",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Lake View"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Lake View"
+          ]
         }
       ]
     },
@@ -254,7 +336,7 @@
       "history": "The temple is believed to date back to ancient times, with its unique lingam attracting devotees from across India.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "lat": 24.0538, 
+      "lat": 24.0538,
       "lng": 75.0691,
       "hotels": [
         {
@@ -264,9 +346,17 @@
           "price_per_night": "₹3000",
           "rating": 4.0,
           "booking_url": "https://www.example.com/shree-ram-mandsaur",
-          "coordinates": { "lat": 24.0550, "lng": 75.0700 },
+          "coordinates": {
+            "lat": 24.0550,
+            "lng": 75.0700
+          },
           "address": "Nai Abadi, Mandsaur, Madhya Pradesh 458001",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Room Service"
+          ]
         },
         {
           "id": "h5",
@@ -275,9 +365,17 @@
           "price_per_night": "₹3500",
           "rating": 4.1,
           "booking_url": "https://www.example.com/krishna-palace-mandsaur",
-          "coordinates": { "lat": 24.0500, "lng": 75.0650 },
+          "coordinates": {
+            "lat": 24.0500,
+            "lng": 75.0650
+          },
           "address": "Yash Nagar, Mandsaur, Madhya Pradesh 458001",
-          "amenities": ["Free Wi-Fi", "Breakfast", "Parking", "Conference Room"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Parking",
+            "Conference Room"
+          ]
         }
       ]
     },
@@ -302,7 +400,10 @@
       "history": "The temples were established over centuries, with the main temple dedicated to Lord Chandraprabhu, dating back to the 9th century.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "coordinates": { "lat": 25.7140, "lng": 78.3743 },
+      "coordinates": {
+        "lat": 25.7140,
+        "lng": 78.3743
+      },
       "hotels": [
         {
           "id": "h6",
@@ -311,9 +412,17 @@
           "price_per_night": "₹3200",
           "rating": 4.0,
           "booking_url": "https://www.example.com/sheela-shree-datia",
-          "coordinates": { "lat": 25.6700, "lng": 78.4600 },
+          "coordinates": {
+            "lat": 25.6700,
+            "lng": 78.4600
+          },
           "address": "Civil Lines, Datia, Madhya Pradesh 475661",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Room Service"
+          ]
         },
         {
           "id": "h7",
@@ -322,9 +431,17 @@
           "price_per_night": "₹2800",
           "rating": 3.9,
           "booking_url": "https://www.mpstdc.com/properties/tourist-motel-datia",
-          "coordinates": { "lat": 25.6750, "lng": 78.4650 },
+          "coordinates": {
+            "lat": 25.6750,
+            "lng": 78.4650
+          },
           "address": "Jhansi Rd, Datia, Madhya Pradesh 475661",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Garden"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Garden"
+          ]
         }
       ]
     },
@@ -349,7 +466,7 @@
       "history": "Built between the 9th and 11th centuries by the Chandela dynasty, these temples are famous for their nagara-style architecture.",
       "best_time_to_visit": "October to February",
       "entry_fees": "₹40 for Indians, ₹600 for foreigners",
-      "lat": 24.8520, 
+      "lat": 24.8520,
       "lng": 79.9218,
       "hotels": [
         {
@@ -359,9 +476,18 @@
           "price_per_night": "₹6000",
           "rating": 4.6,
           "booking_url": "https://www.radissonhotels.com/en-us/hotels/radisson-khajuraho",
-          "coordinates": { "lat": 24.8500, "lng": 79.9230 },
+          "coordinates": {
+            "lat": 24.8500,
+            "lng": 79.9230
+          },
           "address": "By Pass Road, Khajuraho, Madhya Pradesh 471606",
-          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Spa", "Parking"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Pool",
+            "Restaurant",
+            "Spa",
+            "Parking"
+          ]
         },
         {
           "id": "h2",
@@ -370,9 +496,17 @@
           "price_per_night": "₹5500",
           "rating": 4.4,
           "booking_url": "https://www.wyndhamhotels.com/ramada/khajuraho-india/ramada-khajuraho",
-          "coordinates": { "lat": 24.8530, "lng": 79.9200 },
+          "coordinates": {
+            "lat": 24.8530,
+            "lng": 79.9200
+          },
           "address": "Airport Road, Khajuraho, Madhya Pradesh 471606",
-          "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Parking"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Gym",
+            "Restaurant",
+            "Parking"
+          ]
         },
         {
           "id": "h3",
@@ -381,9 +515,17 @@
           "price_per_night": "₹5000",
           "rating": 4.3,
           "booking_url": "https://www.tajhotels.com/en-in/hotels/hotel-chandela-khajuraho",
-          "coordinates": { "lat": 24.8510, "lng": 79.9225 },
+          "coordinates": {
+            "lat": 24.8510,
+            "lng": 79.9225
+          },
           "address": "Airport Road, Khajuraho, Madhya Pradesh 471606",
-          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Bar"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Pool",
+            "Restaurant",
+            "Bar"
+          ]
         }
       ]
     },
@@ -408,7 +550,10 @@
       "history": "Built in the 11th century by the Kalachuri dynasty, this temple is one of the few surviving Yogini temples in India.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "coordinates": { "lat": 23.1355, "lng": 79.8024 },
+      "coordinates": {
+        "lat": 23.1355,
+        "lng": 79.8024
+      },
       "hotels": [
         {
           "id": "h4",
@@ -417,9 +562,17 @@
           "price_per_night": "₹4500",
           "rating": 4.3,
           "booking_url": "https://www.example.com/vijan-mahal-jabalpur",
-          "coordinates": { "lat": 23.1500, "lng": 79.8200 },
+          "coordinates": {
+            "lat": 23.1500,
+            "lng": 79.8200
+          },
           "address": "NH 7, Jabalpur, Madhya Pradesh 482002",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Room Service"
+          ]
         },
         {
           "id": "h5",
@@ -428,9 +581,17 @@
           "price_per_night": "₹5000",
           "rating": 4.4,
           "booking_url": "https://www.example.com/narmada-jacksons-jabalpur",
-          "coordinates": { "lat": 23.1450, "lng": 79.8100 },
+          "coordinates": {
+            "lat": 23.1450,
+            "lng": 79.8100
+          },
           "address": "Civic Centre, Marhatal, Jabalpur, Madhya Pradesh 482002",
-          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Bar"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Pool",
+            "Restaurant",
+            "Bar"
+          ]
         }
       ]
     },
@@ -455,8 +616,8 @@
       "history": "Built to commemorate Guru Hargobind’s release from imprisonment in 1612, the gurdwara is a significant Sikh pilgrimage site.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "lat": 26.2236, 
-      "lng": 78.1680 ,
+      "lat": 26.2236,
+      "lng": 78.1680,
       "hotels": [
         {
           "id": "h6",
@@ -465,9 +626,18 @@
           "price_per_night": "₹9000",
           "rating": 4.8,
           "booking_url": "https://www.tajhotels.com/en-in/hotels/usha-kiran-palace",
-          "coordinates": { "lat": 26.2250, "lng": 78.1700 },
+          "coordinates": {
+            "lat": 26.2250,
+            "lng": 78.1700
+          },
           "address": "Jayendraganj, Lashkar, Gwalior, Madhya Pradesh 474009",
-          "amenities": ["Free Wi-Fi", "Pool", "Spa", "Restaurant", "Parking"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Pool",
+            "Spa",
+            "Restaurant",
+            "Parking"
+          ]
         },
         {
           "id": "h7",
@@ -476,9 +646,17 @@
           "price_per_night": "₹6500",
           "rating": 4.5,
           "booking_url": "https://www.radissonhotels.com/en-us/hotels/radisson-gwalior",
-          "coordinates": { "lat": 26.2200, "lng": 78.1650 },
+          "coordinates": {
+            "lat": 26.2200,
+            "lng": 78.1650
+          },
           "address": "City Centre, Gwalior, Madhya Pradesh 474011",
-          "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Parking"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Gym",
+            "Restaurant",
+            "Parking"
+          ]
         }
       ]
     },
@@ -503,7 +681,10 @@
       "history": "Constructed in the 20th century by the Birla family, known for building temples across India.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "coordinates": { "lat": 23.2389, "lng": 77.3928 },
+      "coordinates": {
+        "lat": 23.2389,
+        "lng": 77.3928
+      },
       "hotels": [
         {
           "id": "h8",
@@ -512,9 +693,18 @@
           "price_per_night": "₹8000",
           "rating": 4.7,
           "booking_url": "https://www.jehannuma.com",
-          "coordinates": { "lat": 23.2500, "lng": 77.3900 },
+          "coordinates": {
+            "lat": 23.2500,
+            "lng": 77.3900
+          },
           "address": "157, Shamla Hills, Bhopal, Madhya Pradesh 462013",
-          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Spa", "Parking"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Pool",
+            "Restaurant",
+            "Spa",
+            "Parking"
+          ]
         },
         {
           "id": "h9",
@@ -523,10 +713,16 @@
           "price_per_night": "₹6500",
           "rating": 4.5,
           "booking_url": "https://www.marriott.com/hotels/travel/bhocy-courtyard-bhopal",
-          "lat": 23.2600, 
-          "lng": 77.4000 ,
+          "lat": 23.2600,
+          "lng": 77.4000,
           "address": "DB City, Arera Hills, Bhopal, Madhya Pradesh 462011",
-          "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Bar", "Parking"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Gym",
+            "Restaurant",
+            "Bar",
+            "Parking"
+          ]
         }
       ]
     },
@@ -551,7 +747,10 @@
       "history": "Built in the 16th century by the Farukhi dynasty, this mosque is a fine example of Mughal architecture.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "coordinates": { "lat": 21.3074, "lng": 76.2287 },
+      "coordinates": {
+        "lat": 21.3074,
+        "lng": 76.2287
+      },
       "hotels": [
         {
           "id": "h10",
@@ -560,9 +759,17 @@
           "price_per_night": "₹3000",
           "rating": 4.0,
           "booking_url": "https://www.example.com/hotel-ambar-burhanpur",
-          "coordinates": {"lat": 21.3050, "lng": 76.2300 },
+          "coordinates": {
+            "lat": 21.3050,
+            "lng": 76.2300
+          },
           "address": "Station Road, Burhanpur, Madhya Pradesh 450331",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Room Service"
+          ]
         },
         {
           "id": "h11",
@@ -571,9 +778,17 @@
           "price_per_night": "₹3500",
           "rating": 4.1,
           "booking_url": "https://www.example.com/hotel-grand-burhanpur",
-          "coordinates": { "lat": 21.3100, "lng": 76.2250 },
+          "coordinates": {
+            "lat": 21.3100,
+            "lng": 76.2250
+          },
           "address": "Shanwara, Burhanpur, Madhya Pradesh 450331",
-          "amenities": ["Free Wi-Fi", "Breakfast", "Parking", "Conference Room"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Parking",
+            "Conference Room"
+          ]
         }
       ]
     },
@@ -598,7 +813,7 @@
       "history": "Constructed in the 18th century by Ahilyabai Holkar, this temple is part of the Maheshwar complex, reflecting Maratha architecture.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "lat": 22.1771, 
+      "lat": 22.1771,
       "lng": 75.5857,
       "hotels": [
         {
@@ -608,9 +823,18 @@
           "price_per_night": "₹12000",
           "rating": 4.8,
           "booking_url": "https://www.ahilyafort.com",
-          "coordinates": { "lat": 22.1780, "lng": 75.5860 },
+          "coordinates": {
+            "lat": 22.1780,
+            "lng": 75.5860
+          },
           "address": "Maheshwar, Madhya Pradesh 451224",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Spa", "River View", "Parking"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Spa",
+            "River View",
+            "Parking"
+          ]
         },
         {
           "id": "h2",
@@ -619,9 +843,17 @@
           "price_per_night": "₹4000",
           "rating": 4.3,
           "booking_url": "https://www.mpstdc.com/properties/narmada-retreat",
-          "coordinates": { "lat": 22.1750, "lng": 75.5870 },
+          "coordinates": {
+            "lat": 22.1750,
+            "lng": 75.5870
+          },
           "address": "Narmada Road, Maheshwar, Madhya Pradesh 451224",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Garden"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Garden"
+          ]
         }
       ]
     },
@@ -646,7 +878,7 @@
       "history": "Built in the 11th century by Raja Bhoj of the Paramara dynasty, the temple is known for its unfinished state and massive lingam.",
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
-      "lat": 23.1167, 
+      "lat": 23.1167,
       "lng": 77.5833,
       "hotels": [
         {
@@ -656,9 +888,18 @@
           "price_per_night": "₹8500",
           "rating": 4.7,
           "booking_url": "https://www.jehannuma.com/retreat",
-          "coordinates": { "lat": 23.2000, "lng": 77.4500 },
+          "coordinates": {
+            "lat": 23.2000,
+            "lng": 77.4500
+          },
           "address": "Van Vihar Road, Bhopal, Madhya Pradesh 462002",
-          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Spa", "Parking"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Pool",
+            "Restaurant",
+            "Spa",
+            "Parking"
+          ]
         },
         {
           "id": "h4",
@@ -667,9 +908,17 @@
           "price_per_night": "₹4500",
           "rating": 4.2,
           "booking_url": "https://www.mpstdc.com/properties/palash-residency",
-          "coordinates": { "lat": 23.2100, "lng": 77.4700 },
+          "coordinates": {
+            "lat": 23.2100,
+            "lng": 77.4700
+          },
           "address": "TT Nagar, Bhopal, Madhya Pradesh 462003",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Conference Room"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Conference Room"
+          ]
         }
       ]
     },
@@ -695,7 +944,7 @@
       "best_time_to_visit": "October to March",
       "entry_fees": "Free",
       "lat": 25.1786,
-      "lng": 80.8653 ,
+      "lng": 80.8653,
       "hotels": [
         {
           "id": "h5",
@@ -704,9 +953,17 @@
           "price_per_night": "₹3500",
           "rating": 4.2,
           "booking_url": "https://www.mpstdc.com/properties/kamadgiri-chitrakoot",
-          "coordinates": { "lat": 25.1800, "lng": 80.8670 },
+          "coordinates": {
+            "lat": 25.1800,
+            "lng": 80.8670
+          },
           "address": "Chitrakoot, Madhya Pradesh 485334",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Garden"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Garden"
+          ]
         },
         {
           "id": "h6",
@@ -715,9 +972,17 @@
           "price_per_night": "₹3000",
           "rating": 4.0,
           "booking_url": "https://www.example.com/hotel-ramdev-chitrakoot",
-          "coordinates": { "lat": 25.1750, "lng": 80.8630 },
+          "coordinates": {
+            "lat": 25.1750,
+            "lng": 80.8630
+          },
           "address": "Sitapur Road, Chitrakoot, Madhya Pradesh 485334",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Room Service"
+          ]
         }
       ]
     },
@@ -752,9 +1017,17 @@
           "price_per_night": "₹4500",
           "rating": 4.3,
           "booking_url": "https://www.example.com/vijan-mahal-jabalpur",
-          "coordinates": { "lat": 23.1650, "lng": 79.9450 },
+          "coordinates": {
+            "lat": 23.1650,
+            "lng": 79.9450
+          },
           "address": "NH 7, Jabalpur, Madhya Pradesh 482002",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Room Service"
+          ]
         },
         {
           "id": "h8",
@@ -763,9 +1036,17 @@
           "price_per_night": "₹5000",
           "rating": 4.4,
           "booking_url": "https://www.example.com/narmada-jacksons-jabalpur",
-          "coordinates": { "lat": 23.1550, "lng": 79.9500 },
+          "coordinates": {
+            "lat": 23.1550,
+            "lng": 79.9500
+          },
           "address": "Civic Centre, Marhatal, Jabalpur, Madhya Pradesh 482002",
-          "amenities": ["Free Wi-Fi", "Pool", "Restaurant", "Bar"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Pool",
+            "Restaurant",
+            "Bar"
+          ]
         }
       ]
     },
@@ -790,7 +1071,7 @@
       "history": "The temple is believed to be ancient, with its significance growing over centuries as a key Shakti Peeth.",
       "best_time_to_visit": "March to June, September to November",
       "entry_fees": "Free; registration required for darshan",
-      "lat": 33.0299, 
+      "lat": 33.0299,
       "lng": 74.9320,
       "hotels": [
         {
@@ -800,9 +1081,17 @@
           "price_per_night": "₹4000",
           "rating": 4.3,
           "booking_url": "https://www.example.com/hotel-asia-vaishno-devi",
-          "coordinates": { "lat": 33.0300, "lng": 74.9300 },
+          "coordinates": {
+            "lat": 33.0300,
+            "lng": 74.9300
+          },
           "address": "Jammu Road, Katra, Jammu and Kashmir 182301",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Parking", "Room Service"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Room Service"
+          ]
         },
         {
           "id": "h10",
@@ -811,9 +1100,17 @@
           "price_per_night": "₹5500",
           "rating": 4.5,
           "booking_url": "https://www.example.com/white-hotels-katra",
-          "coordinates": { "lat": 33.0280, "lng": 74.9350 },
+          "coordinates": {
+            "lat": 33.0280,
+            "lng": 74.9350
+          },
           "address": "Katra, Jammu and Kashmir 182301",
-          "amenities": ["Free Wi-Fi", "Restaurant", "Spa", "Parking"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Spa",
+            "Parking"
+          ]
         },
         {
           "id": "h11",
@@ -822,9 +1119,593 @@
           "price_per_night": "₹6000",
           "rating": 4.6,
           "booking_url": "https://www.radissonhotels.com/en-us/hotels/country-inn-katra",
-          "coordinates": { "lat": 33.0270, "lng": 74.9330 },
+          "coordinates": {
+            "lat": 33.0270,
+            "lng": 74.9330
+          },
           "address": "Jammu-Katra Highway, Katra, Jammu and Kashmir 182301",
-          "amenities": ["Free Wi-Fi", "Gym", "Restaurant", "Pool"]
+          "amenities": [
+            "Free Wi-Fi",
+            "Gym",
+            "Restaurant",
+            "Pool"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amarnath Cave Temple",
+      "id": "8a9d3b4c-f7e6-4290-bcd1-234567890002",
+      "image": "https://files.prokerala.com/news/photos/imgs/1024/amarnath-cave-temple-1224546.jpg",
+      "state": "Jammu and Kashmir",
+      "country": "India",
+      "location": "Anantnag",
+      "description": "A sacred Hindu site at 3,888 meters, known for the naturally formed ice Shiva Lingam. The annual Amarnath Yatra draws thousands of devotees during summer.",
+      "details": "The Amarnath Cave Temple, located at an altitude of 3,888 meters in the Himalayas, is one of the holiest shrines in Hinduism, dedicated to Lord Shiva. The cave is renowned for its naturally formed ice Shiva Lingam, which waxes and wanes with the lunar cycle, attracting thousands of pilgrims during the annual Amarnath Yatra in July and August. The trek to the cave is challenging, passing through rugged terrains and high altitudes, making it a test of devotion and endurance. The cave, surrounded by snow-clad mountains, is accessible only during summer due to extreme weather conditions. The Yatra is organized with strict security and facilities to ensure pilgrim safety. The site is also significant for its serene and spiritual ambiance, offering a profound experience for devotees.",
+      "rating": 4.8,
+      "distance_from_airport": "141 km",
+      "nearby_places": [
+        {
+          "name": "Pahalgam",
+          "distance": "90 km",
+          "image": "https://images.unsplash.com/photo-1614851099175-0e336d5a92ee?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A picturesque town serving as a base camp for the Amarnath Yatra, known for its lush valleys and Lidder River."
+        },
+        {
+          "name": "Baltal",
+          "distance": "14 km",
+          "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A key camping site for Amarnath pilgrims, offering a shorter but steeper route to the cave."
+        },
+        {
+          "name": "Chandanwari",
+          "distance": "16 km",
+          "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "The starting point for the traditional Amarnath Yatra route, surrounded by scenic meadows."
+        }
+      ],
+      "history": "The Amarnath Cave Temple is believed to be over 5,000 years old, with its discovery attributed to a shepherd named Buta Malik. It is said that Lord Shiva revealed the secret of immortality to Goddess Parvati in this cave, as mentioned in ancient texts. The site has been a pilgrimage destination for centuries, with its significance growing over time.",
+      "best_time_to_visit": "July to August during the Amarnath Yatra, when the cave is accessible.",
+      "entry_fees": "Free entry; registration for Yatra is mandatory (approx. ₹100-₹200 for permits).",
+      "lat": 34.2167,
+      "lng": 75.5008,
+      "hotels": [
+        {
+          "id": "h1",
+          "name": "Hotel Heevan Pahalgam",
+          "distance": "90 km",
+          "price_per_night": "₹7000",
+          "rating": 4.6,
+          "booking_url": "https://www.heevan.com/pahalgam",
+          "coordinates": {
+            "lat": 34.0300,
+            "lng": 75.3200
+          },
+          "address": "Aru Road, Pahalgam, Jammu and Kashmir 192126",
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Room Service"
+          ]
+        },
+        {
+          "id": "h2",
+          "name": "Hotel Pine Spring",
+          "distance": "92 km",
+          "price_per_night": "₹5500",
+          "rating": 4.4,
+          "booking_url": "https://www.pinespringhotels.com",
+          "coordinates": {
+            "lat": 34.0350,
+            "lng": 75.3250
+          },
+          "address": "Main Market, Pahalgam, Jammu and Kashmir 192126",
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Parking",
+            "Concierge"
+          ]
+        },
+        {
+          "id": "h3",
+          "name": "Hotel Mountview",
+          "distance": "91 km",
+          "price_per_night": "₹6500",
+          "rating": 4.5,
+          "booking_url": "https://www.mountviewpahalgam.com",
+          "coordinates": {
+            "lat": 34.0320,
+            "lng": 75.3220
+          },
+          "address": "Chandanwari Road, Pahalgam, Jammu and Kashmir 192126",
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Spa",
+            "Parking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hazratbal Masjid",
+      "id": "8a9d3b4c-f7e6-4290-bcd1-234567890003",
+      "image": "https://www.tourmyindia.com/socialimg/hazaratbal-shrine-kashmir.jpg",
+      "state": "Jammu and Kashmir",
+      "country": "India",
+      "location": "Srinagar",
+      "description": "A significant Muslim shrine housing the Moi-e-Muqqadas, believed to be a hair of Prophet Muhammad. Its white marble structure overlooks Dal Lake.",
+      "details": "Hazratbal Masjid, situated on the northern shores of Dal Lake in Srinagar, is one of the most revered Islamic shrines in India. It houses the Moi-e-Muqqadas, a sacred relic believed to be a hair of Prophet Muhammad, displayed to devotees on special occasions. The mosque's stunning white marble architecture, with its large dome and serene lakeside setting, makes it a visual and spiritual landmark. The shrine attracts thousands of worshippers, especially during festivals like Eid and Milad-un-Nabi. Its tranquil ambiance and reflection in the Dal Lake add to its allure, making it a must-visit for both pilgrims and tourists exploring Srinagar's cultural heritage.",
+      "rating": 4.7,
+      "distance_from_airport": "15 km",
+      "nearby_places": [
+        {
+          "name": "Dal Lake",
+          "distance": "0.5 km",
+          "image": "https://images.unsplash.com/photo-1614851099175-0e336d5a92ee?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A famous lake known for shikara rides and houseboats, offering stunning views of the surrounding mountains."
+        },
+        {
+          "name": "Nishat Bagh",
+          "distance": "4 km",
+          "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A historic Mughal garden with terraced lawns and vibrant flowerbeds, ideal for a peaceful stroll."
+        },
+        {
+          "name": "Shalimar Bagh",
+          "distance": "6 km",
+          "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "Another Mughal garden known for its fountains, pavilions, and scenic beauty along Dal Lake."
+        }
+      ],
+      "history": "Hazratbal Masjid was constructed in the 17th century under the patronage of Mughal Emperor Shah Jahan. The current structure was rebuilt in the 20th century with marble, replacing the older wooden mosque. The relic, Moi-e-Muqqadas, was brought to Kashmir by a descendant of Prophet Muhammad, making the mosque a significant center of Islamic faith.",
+      "best_time_to_visit": "April to October for pleasant weather; festivals like Eid enhance the spiritual experience.",
+      "entry_fees": "Free entry; donations appreciated.",
+      "lat": 34.1291,
+      "lng": 74.8423,
+      "hotels": [
+        {
+          "id": "h1",
+          "name": "The Lalit Grand Palace",
+          "distance": "5 km",
+          "price_per_night": "₹12000",
+          "rating": 4.8,
+          "booking_url": "https://www.thelalit.com/the-lalit-srinagar",
+          "coordinates": {
+            "lat": 34.1100,
+            "lng": 74.8500
+          },
+          "address": "Gupkar Rd, Srinagar, Jammu and Kashmir 190001",
+          "amenities": [
+            "Free Wi-Fi",
+            "Spa",
+            "Restaurant",
+            "Pool"
+          ]
+        },
+        {
+          "id": "h2",
+          "name": "Vivanta Dal View",
+          "distance": "6 km",
+          "price_per_night": "₹10000",
+          "rating": 4.7,
+          "booking_url": "https://www.vivantahotels.com/en-in/vivanta-dal-view-srinagar",
+          "coordinates": {
+            "lat": 34.1200,
+            "lng": 74.8600
+          },
+          "address": "Kralsangri, Brein, Srinagar, Jammu and Kashmir 191121",
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Fitness Center"
+          ]
+        },
+        {
+          "id": "h3",
+          "name": "Houseboat New Jacquline",
+          "distance": "1 km",
+          "price_per_night": "₹5000",
+          "rating": 4.5,
+          "booking_url": "https://www.houseboatjacquline.com",
+          "coordinates": {
+            "lat": 34.1300,
+            "lng": 74.8400
+          },
+          "address": "Dal Lake, Srinagar, Jammu and Kashmir 190001",
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Shikara Rides",
+            "Room Service"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raghunath Mandir",
+      "id": "8a9d3b4c-f7e6-4290-bcd1-234567890004",
+      "image": "https://www.astroved.com/astropedia/assets/images/temples/ragunath.jpg",
+      "state": "Jammu and Kashmir",
+      "country": "India",
+      "location": "Jammu",
+      "description": "The largest temple complex in Northern India, dedicated to Lord Rama, built by Maharaja Ranbir Singh in 1857, featuring seven shrines and gold-plated interiors.",
+      "details": "Raghunath Mandir, located in the heart of Jammu, is the largest temple complex in Northern India, dedicated to Lord Rama. Built in 1857 by Maharaja Ranbir Singh, the temple complex houses seven shrines, with the main deity being Lord Rama, an incarnation of Lord Vishnu. The temple is renowned for its gold-plated interiors, intricate frescoes, and a vast collection of ancient manuscripts in its library. The architecture reflects a blend of Mughal and Sikh styles, with towering spires and ornate designs. The temple attracts devotees and tourists year-round, offering a serene environment for worship and exploration of its cultural heritage. Its central location in Jammu makes it easily accessible.",
+      "rating": 4.8,
+      "distance_from_airport": "7 km",
+      "nearby_places": [
+        {
+          "name": "Bahu Fort",
+          "distance": "2 km",
+          "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A historic fort with a temple dedicated to Goddess Kali, offering panoramic views of Jammu."
+        },
+        {
+          "name": "Bagh-e-Bahu",
+          "distance": "2.5 km",
+          "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A beautifully maintained garden near Bahu Fort, ideal for relaxation and scenic walks."
+        },
+        {
+          "name": "Mubarak Mandi Palace",
+          "distance": "3 km",
+          "image": "https://images.unsplash.com/photo-1614851099175-0e336d5a92ee?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A historic palace complex showcasing Dogra architecture and housing a museum."
+        }
+      ],
+      "history": "The Raghunath Mandir was commissioned by Maharaja Gulab Singh in 1835 and completed by his son, Maharaja Ranbir Singh, in 1857. It was built to honor Lord Rama and promote spiritual learning, with its library containing rare Sanskrit manuscripts. The temple has been a center of Dogra culture and devotion since its inception.",
+      "best_time_to_visit": "October to April; festivals like Ram Navami are particularly vibrant.",
+      "entry_fees": "Free entry; donations appreciated.",
+      "lat": 32.7326,
+      "lng": 74.8570,
+      "hotels": [
+        {
+          "id": "h1",
+          "name": "Fortune Inn Riviera",
+          "distance": "1.5 km",
+          "price_per_night": "₹5000",
+          "rating": 4.5,
+          "booking_url": "https://www.fortunehotels.in/en/hotels/fortune-inn-riviera",
+          "coordinates": {
+            "lat": 32.7350,
+            "lng": 74.8600
+          },
+          "address": "9, Gulab Singh Marg, Jammu, Jammu and Kashmir 180001",
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Room Service"
+          ]
+        },
+        {
+          "id": "h2",
+          "name": "Hotel Asia Jammu Tawi",
+          "distance": "2 km",
+          "price_per_night": "₹4500",
+          "rating": 4.3,
+          "booking_url": "https://www.asiahotelsjammu.com",
+          "coordinates": {
+            "lat": 32.7300,
+            "lng": 74.8550
+          },
+          "address": "Nehru Market, Jammu, Jammu and Kashmir 180001",
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Parking",
+            "Concierge"
+          ]
+        },
+        {
+          "id": "h3",
+          "name": "KC Residency",
+          "distance": "2.5 km",
+          "price_per_night": "₹5500",
+          "rating": 4.6,
+          "booking_url": "https://www.kcresidency.com",
+          "coordinates": {
+            "lat": 32.7280,
+            "lng": 74.8580
+          },
+          "address": "Residency Road, Jammu, Jammu and Kashmir 180001",
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Spa",
+            "Parking"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shankaracharya Temple",
+      "id": "8a9d3b4c-f7e6-4290-bcd1-234567890005",
+      "image": "https://media.tripinvites.com/places/srinagar/shankaracharya-temple/beautiful-view-of-shankaracharya-temple-featured.jpg",
+      "state": "Jammu and Kashmir",
+      "country": "India",
+      "location": "Srinagar",
+      "description": "A 4th-century Hindu temple dedicated to Lord Shiva, located on Shankaracharya Hill, offering spiritual significance and panoramic views of Srinagar.",
+      "details": "The Shankaracharya Temple, perched atop Shankaracharya Hill at 1,000 feet above Srinagar, is a 4th-century Hindu temple dedicated to Lord Shiva. Believed to be one of the oldest temples in the Kashmir Valley, it is associated with the philosopher Adi Shankaracharya, who is said to have visited the site. The temple offers breathtaking panoramic views of Srinagar and Dal Lake, making it a blend of spiritual and scenic attraction. The climb to the temple involves a series of steps, adding to the pilgrimage experience. Its serene environment and historical significance make it a key destination for devotees and tourists alike.",
+      "rating": 4.6,
+      "distance_from_airport": "11 km",
+      "nearby_places": [
+        {
+          "name": "Dal Lake",
+          "distance": "3 km",
+          "image": "https://images.unsplash.com/photo-1614851099175-0e336d5a92ee?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A scenic lake famous for shikara rides and houseboats, surrounded by mountains."
+        },
+        {
+          "name": "Mughal Gardens",
+          "distance": "5 km",
+          "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A collection of historic gardens like Nishat and Shalimar, known for their Mughal architecture."
+        },
+        {
+          "name": "Pari Mahal",
+          "distance": "4 km",
+          "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A historic monument with terraced gardens, offering stunning views of Dal Lake."
+        }
+      ],
+      "history": "The Shankaracharya Temple, also known as Jyesteshwara Temple, dates back to the 4th century. It is believed to have been visited by Adi Shankaracharya in the 9th century, who propagated Advaita Vedanta. The temple was renovated by various rulers, including the Dogras, and remains a symbol of Kashmir’s ancient spiritual heritage.",
+      "best_time_to_visit": "April to October for favorable weather and clear views.",
+      "entry_fees": "Free entry; vehicle access may require a nominal fee.",
+      "lat": 34.0786,
+      "lng": 74.8437,
+      "hotels": [
+        {
+          "id": "h1",
+          "name": "The Lalit Grand Palace",
+          "distance": "4 km",
+          "price_per_night": "₹12000",
+          "rating": 4.8,
+          "booking_url": "https://www.thelalit.com/the-lalit-srinagar",
+          "coordinates": {
+            "lat": 34.1100,
+            "lng": 74.8500
+          },
+          "address": "Gupkar Rd, Srinagar, Jammu and Kashmir 190001",
+          "amenities": [
+            "Free Wi-Fi",
+            "Spa",
+            "Restaurant",
+            "Pool"
+          ]
+        },
+        {
+          "id": "h2",
+          "name": "Vivanta Dal View",
+          "distance": "5 km",
+          "price_per_night": "₹10000",
+          "rating": 4.7,
+          "booking_url": "https://www.vivantahotels.com/en-in/vivanta-dal-view-srinagar",
+          "coordinates": {
+            "lat": 34.1200,
+            "lng": 74.8600
+          },
+          "address": "Kralsangri, Brein, Srinagar, Jammu and Kashmir 191121",
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Fitness Center"
+          ]
+        },
+        {
+          "id": "h3",
+          "name": "Houseboat New Jacquline",
+          "distance": "3 km",
+          "price_per_night": "₹5000",
+          "rating": 4.5,
+          "booking_url": "https://www.houseboatjacquline.com",
+          "coordinates": {
+            "lat": 34.0800,
+            "lng": 74.8400
+          },
+          "address": "Dal Lake, Srinagar, Jammu and Kashmir 190001",
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Shikara Rides",
+            "Room Service"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kheer Bhawani Temple",
+      "id": "8a9d3b4c-f7e6-4290-bcd1-234567890006",
+      "image": "https://i0.wp.com/www.manjulikapramod.com/wp-content/uploads/2023/03/The-spring-that-changes-colours.jpg?ssl=1",
+      "state": "Jammu and Kashmir",
+      "country": "India",
+      "location": "Tulmulla, Ganderbal",
+      "description": "A revered Hindu temple dedicated to Goddess Bhawani, known for its holy spring and offerings of kheer by Kashmiri Pandits, especially during festivals.",
+      "details": "The Kheer Bhawani Temple, located in Tulmulla village in Ganderbal, is a significant Hindu shrine dedicated to Goddess Bhawani, also known as Ragnya Devi. The temple is famous for its sacred spring, believed to change colors as an omen, with clear water indicating peace and prosperity. Kashmiri Pandits offer kheer (rice pudding) as a traditional offering, particularly during the annual festival of Zyeth Atham in May-June. The temple’s serene setting amidst a grove of chinar trees adds to its spiritual charm. It is a key pilgrimage site for the Kashmiri Pandit community and attracts devotees seeking blessings for peace and prosperity.",
+      "rating": 4.7,
+      "distance_from_airport": "25 km",
+      "nearby_places": [
+        {
+          "name": "Manasbal Lake",
+          "distance": "12 km",
+          "image": "https://images.unsplash.com/photo-1614851099175-0e336d5a92ee?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A serene lake surrounded by hills, ideal for boating and birdwatching."
+        },
+        {
+          "name": "Wular Lake",
+          "distance": "30 km",
+          "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "One of Asia’s largest freshwater lakes, known for its scenic beauty and fishing."
+        },
+        {
+          "name": "Naranag",
+          "distance": "20 km",
+          "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A historic site with ancient temple ruins, popular for trekking and scenic views."
+        }
+      ],
+      "history": "The Kheer Bhawani Temple is believed to have been built in ancient times, with references in Kashmiri chronicles like the Rajatarangini. It gained prominence among Kashmiri Pandits as a center of devotion to Goddess Bhawani. The temple’s spring is said to have divine properties, with its color changes documented in local folklore.",
+      "best_time_to_visit": "May to June during Zyeth Atham festival; April to October for pleasant weather.",
+      "entry_fees": "Free entry; offerings like kheer are customary.",
+      "lat": 34.2239,
+      "lng": 74.7311,
+      "hotels": [
+        {
+          "id": "h1",
+          "name": "Vivanta Dal View",
+          "distance": "20 km",
+          "price_per_night": "₹10000",
+          "rating": 4.7,
+          "booking_url": "https://www.vivantahotels.com/en-in/vivanta-dal-view-srinagar",
+          "coordinates": {
+            "lat": 34.1200,
+            "lng": 74.8600
+          },
+          "address": "Kralsangri, Brein, Srinagar, Jammu and Kashmir 191121",
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Fitness Center"
+          ]
+        },
+        {
+          "id": "h2",
+          "name": "Hotel Dar-es-Salam",
+          "distance": "18 km",
+          "price_per_night": "₹6000",
+          "rating": 4.4,
+          "booking_url": "https://www.dar-es-salam.com",
+          "coordinates": {
+            "lat": 34.1500,
+            "lng": 74.8200
+          },
+          "address": "Manasbal Lake Road, Ganderbal, Jammu and Kashmir 191201",
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Parking",
+            "Room Service"
+          ]
+        },
+        {
+          "id": "h3",
+          "name": "Houseboat New Jacquline",
+          "distance": "22 km",
+          "price_per_night": "₹5000",
+          "rating": 4.5,
+          "booking_url": "https://www.houseboatjacquline.com",
+          "coordinates": {
+            "lat": 34.0800,
+            "lng": 74.8400
+          },
+          "address": "Dal Lake, Srinagar, Jammu and Kashmir 190001",
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Shikara Rides",
+            "Room Service"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jamia Masjid",
+      "id": "8a9d3b4c-f7e6-4290-bcd1-234567890007",
+      "image": "https://www.trawell.in/admin/images/upload/309708718jama-masjid-kashmir.jpg",
+      "state": "Jammu and Kashmir",
+      "country": "India",
+      "location": "Srinagar",
+      "description": "Built in 1400 AD, this mosque in Nowhatta features Indo-Saracen architecture with 370 wooden pillars and a large courtyard, attracting thousands for Friday prayers.",
+      "details": "Jamia Masjid, located in the bustling Nowhatta area of Srinagar, is a 14th-century mosque renowned for its Indo-Saracen architecture. Built in 1400 AD by Sultan Sikandar, it features 370 intricately carved wooden pillars and a sprawling courtyard that can accommodate thousands of worshippers. The mosque’s unique blend of Persian and Kashmiri architectural elements, along with its serene ambiance, makes it a significant cultural and religious landmark. It is particularly vibrant during Friday prayers and Islamic festivals like Eid. The mosque has undergone several renovations to preserve its historical grandeur, making it a must-visit for those exploring Srinagar’s heritage.",
+      "rating": 4.6,
+      "distance_from_airport": "12 km",
+      "nearby_places": [
+        {
+          "name": "Dal Lake",
+          "distance": "4 km",
+          "image": "https://images.unsplash.com/photo-1614851099175-0e336d5a92ee?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A famous lake known for shikara rides and houseboats, offering stunning views."
+        },
+        {
+          "name": "Hari Parbat Fort",
+          "distance": "3 km",
+          "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A historic fort offering panoramic views of Srinagar and housing a temple, mosque, and gurudwara."
+        },
+        {
+          "name": "Pathar Masjid",
+          "distance": "2 km",
+          "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=150&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+          "description": "A 17th-century stone mosque built by Mughal Empress Noor Jahan, known for its unique architecture."
+        }
+      ],
+      "history": "Jamia Masjid was commissioned by Sultan Sikandar in 1400 AD and later expanded by his son, Zain-ul-Abidin. It has survived fires and invasions, with renovations preserving its original structure. The mosque remains a central place of worship and a symbol of Srinagar’s Islamic heritage.",
+      "best_time_to_visit": "April to October; Fridays and Eid are ideal for experiencing its vibrant atmosphere.",
+      "entry_fees": "Free entry; donations appreciated.",
+      "lat": 34.0997,
+      "lng": 74.8119,
+      "hotels": [
+        {
+          "id": "h1",
+          "name": "The Lalit Grand Palace",
+          "distance": "5 km",
+          "price_per_night": "₹12000",
+          "rating": 4.8,
+          "booking_url": "https://www.thelalit.com/the-lalit-srinagar",
+          "coordinates": {
+            "lat": 34.1100,
+            "lng": 74.8500
+          },
+          "address": "Gupkar Rd, Srinagar, Jammu and Kashmir 190001",
+          "amenities": [
+            "Free Wi-Fi",
+            "Spa",
+            "Restaurant",
+            "Pool"
+          ]
+        },
+        {
+          "id": "h2",
+          "name": "Vivanta Dal View",
+          "distance": "6 km",
+          "price_per_night": "₹10000",
+          "rating": 4.7,
+          "booking_url": "https://www.vivantahotels.com/en-in/vivanta-dal-view-srinagar",
+          "coordinates": {
+            "lat": 34.1200,
+            "lng": 74.8600
+          },
+          "address": "Kralsangri, Brein, Srinagar, Jammu and Kashmir 191121",
+          "amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Parking",
+            "Fitness Center"
+          ]
+        },
+        {
+          "id": "h3",
+          "name": "Houseboat New Jacquline",
+          "distance": "4 km",
+          "price_per_night": "₹5000",
+          "rating": 4.5,
+          "booking_url": "https://www.houseboatjacquline.com",
+          "coordinates": {
+            "lat": 34.0800,
+            "lng": 74.8400
+          },
+          "address": "Dal Lake, Srinagar, Jammu and Kashmir 190001",
+          "amenities": [
+            "Free Wi-Fi",
+            "Breakfast",
+            "Shikara Rides",
+            "Room Service"
+          ]
         }
       ]
     }
