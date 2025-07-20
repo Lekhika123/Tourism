@@ -8,6 +8,7 @@ import App from './App.jsx'
 import Home from './Components/Home.jsx';
 import StatePage from './Components/Pages/StatePage.jsx';
 import Destination from './Components/Pages/Destination2.jsx';
+import HotelDetail from './Components/Pages/Hotel.jsx';
 
 const router = createBrowserRouter([
   {
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
         {
             path: "/worship-place/:id",
             element: <Destination/>,
+        },
+        {
+            path: "/hotel/:id",
+            element: <HotelDetail/>,
         }  
       
     ],

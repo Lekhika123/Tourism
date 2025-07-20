@@ -648,30 +648,32 @@ function Destination() {
               <div className="space-y-4">
                 {hotels && hotels.length > 0 ? (
                   hotels.map((hotel) => (
-                    <div
-                      key={hotel.id}
-                      className="flex items-start space-x-4 p-4 rounded-lg bg-gray-50 hover:bg-gray-100 transition-colors duration-300"
-                    >
-                      <div className="flex-1">
-                        <p className="text-gray-900 font-semibold text-base">{hotel.name}</p>
-                        <p className="text-gray-600 text-sm">Distance: {hotel.distance}</p>
-                        <p className="text-gray-600 text-sm">Price: {hotel.price_per_night}</p>
-                        <p className="text-gray-600 text-sm">Rating: {hotel.rating}/5</p>
-                        <a
-                          href={hotel.booking_url}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="text-[#f70000] hover:text-[#ffc400] text-sm font-medium transition-colors duration-300"
-                        >
-                          Book Now
-                        </a>
+                    <Link to={`/hotel/${hotel.id}`} className='block'>
+                      <div
+                        key={hotel.id}
+                        className="flex items-start space-x-4 p-4 rounded-lg bg-gray-50 hover:bg-gray-100 transition-colors duration-300"
+                      >
+                        <div className="flex-1">
+                          <p className="text-gray-900 font-semibold text-base">{hotel.name}</p>
+                          <p className="text-gray-600 text-sm">Distance: {hotel.distance}</p>
+                          <p className="text-gray-600 text-sm">Price: {hotel.price_per_night}</p>
+                          <p className="text-gray-600 text-sm">Rating: {hotel.rating}/5</p>
+                          <a
+                            href={hotel.booking_url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-[#f70000] hover:text-[#ffc400] text-sm font-medium transition-colors duration-300"
+                          >
+                            Book Now
+                          </a>
+                        </div>
+                        <img
+                          src={hotel.image || 'https://via.placeholder.com/100'}
+                          alt={hotel.name}
+                          className="w-24 h-24 object-cover rounded-lg shadow-sm"
+                        />
                       </div>
-                      <img
-                        src={hotel.image || 'https://via.placeholder.com/100'}
-                        alt={hotel.name}
-                        className="w-24 h-24 object-cover rounded-lg shadow-sm"
-                      />
-                    </div>
+                    </Link>
                   ))
                 ) : (
                   <p className="text-gray-600 text-base">No hotels available.</p>
