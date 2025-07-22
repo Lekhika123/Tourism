@@ -9,35 +9,45 @@ import Home from './Components/Home.jsx';
 import StatePage from './Components/Pages/StatePage.jsx';
 import Destination from './Components/Pages/Destination2.jsx';
 import HotelDetail from './Components/Pages/Hotel.jsx';
+import Pilgrimage from './Components/Pages/Pilgrimage.jsx';
+import About from './Components/Pages/About.jsx';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
     children: [
-        {
-            path: "/",
-            element: <Home />,
-        },
-        {
-            path: "/states",
-            element: <StatePage/>,
-        },
-        {
-            path: "/worship-place/:id",
-            element: <Destination/>,
-        },
-        {
-            path: "/hotel/:id",
-            element: <HotelDetail/>,
-        }  
-      
+      {
+        path: "/",
+        element: <Home />,
+      },
+      {
+        path: "/states",
+        element: <StatePage />,
+      },
+      {
+        path: "/pilgrimages",
+        element: <Pilgrimage/>,
+      },
+      {
+        path: "/about",
+        element: <About/>,
+      },
+      {
+        path: "/worship-place/:id",
+        element: <Destination />,
+      },
+      {
+        path: "/hotel/:id",
+        element: <HotelDetail />,
+      }
+
     ],
-},
+  },
 ])
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={router}/>
+    <RouterProvider router={router} />
   </React.StrictMode>,
 )
