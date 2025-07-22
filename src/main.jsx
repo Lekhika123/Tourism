@@ -12,6 +12,8 @@ import HotelDetail from './Components/Pages/Hotel.jsx';
 import Pilgrimage from './Components/Pages/Pilgrimage.jsx';
 import About from './Components/Pages/About.jsx';
 import Contact from './Components/Pages/Contact.jsx';
+import TravelTips from './Components/Pages/TravelTips.jsx';
+import Stories from './Components/Pages/ShareStory.jsx';
 
 const router = createBrowserRouter([
   {
@@ -28,15 +30,23 @@ const router = createBrowserRouter([
       },
       {
         path: "/pilgrimages",
-        element: <Pilgrimage/>,
+        element: <Pilgrimage />,
       },
       {
         path: "/about",
-        element: <About/>,
+        element: <About />,
       },
       {
         path: "/contact",
-        element: <Contact/>,
+        element: <Contact />,
+      },
+      {
+        path: "/travel-tips",
+        element: <TravelTips />,
+      },
+      {
+        path: "/share-story",
+        element: <Stories/>,
       },
       {
         path: "/worship-place/:id",

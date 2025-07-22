@@ -17,7 +17,7 @@ function Navbar() {
                             <a href="/" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Home</a>
                             <a href="/states" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Worship Places</a>
                             <a href="/pilgrimages" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Pilgrimages</a>
-                            <a href="" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Prayer Guides</a>
+                            <a href="/travel-tips" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Travel Tips</a>
                             <a href="/about" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>About</a>
                             <a href="/contact" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Contact Us</a>
                         </div>
@@ -40,11 +40,11 @@ function Navbar() {
                             <div className='md:hidden absolute top-16 w-full left-0  bg-white border-t'>
                                <div className='px-2 pt-2 pb-3 space-y-1 sm:px-3'>
                                     <a href="" className="block px-3 py-2 rounded-md text-base w-ful text-left text-ocean font-semibold hover:text-red-500 hover:underline transition-colors duration-200"> Home</a>
-                                    <a href="" className="block px-3 py-2 rounded-md text-base w-ful text-left text-ocean font-semibold hover:text-red-500 hover:underline transition-colors duration-200">Worship</a>
-                                    <a href="" className="block px-3 py-2 rounded-md text-base w-ful text-left text-ocean font-semibold hover:text-red-500 hover:underline transition-colors duration-200">Pilgrimages</a>
-                                    <a href="" className="block px-3 py-2 rounded-md text-base w-ful text-left text-ocean font-semibold hover:text-red-500 hover:underline transition-colors duration-200">Prayer Guides</a>
-                                    <a href="" className="block px-3 py-2 rounded-md text-base w-ful text-left text-ocean font-semibold hover:text-red-500 hover:underline transition-colors duration-200">About</a>
-                                    <a href="" className="block px-3 py-2 rounded-md text-base w-ful text-left text-ocean font-semibold hover:text-red-500 hover:underline transition-colors duration-200">Contact US</a>
+                                    <a href="/states" className="block px-3 py-2 rounded-md text-base w-ful text-left text-ocean font-semibold hover:text-red-500 hover:underline transition-colors duration-200">Worship</a>
+                                    <a href="/pilgrimages" className="block px-3 py-2 rounded-md text-base w-ful text-left text-ocean font-semibold hover:text-red-500 hover:underline transition-colors duration-200">Pilgrimages</a>
+                                    <a href="/travel-tips" className="block px-3 py-2 rounded-md text-base w-ful text-left text-ocean font-semibold hover:text-red-500 hover:underline transition-colors duration-200">Travel Tips</a>
+                                    <a href="/about" className="block px-3 py-2 rounded-md text-base w-ful text-left text-ocean font-semibold hover:text-red-500 hover:underline transition-colors duration-200">About</a>
+                                    <a href="/contact" className="block px-3 py-2 rounded-md text-base w-ful text-left text-ocean font-semibold hover:text-red-500 hover:underline transition-colors duration-200">Contact US</a>
 
                                </div>
                             </div>
