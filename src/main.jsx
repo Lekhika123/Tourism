@@ -11,6 +11,7 @@ import Destination from './Components/Pages/Destination2.jsx';
 import HotelDetail from './Components/Pages/Hotel.jsx';
 import Pilgrimage from './Components/Pages/Pilgrimage.jsx';
 import About from './Components/Pages/About.jsx';
+import Contact from './Components/Pages/Contact.jsx';
 
 const router = createBrowserRouter([
   {
@@ -32,6 +33,10 @@ const router = createBrowserRouter([
       {
         path: "/about",
         element: <About/>,
+      },
+      {
+        path: "/contact",
+        element: <Contact/>,
       },
       {
         path: "/worship-place/:id",

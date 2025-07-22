@@ -19,7 +19,7 @@ function Navbar() {
                             <a href="/pilgrimages" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Pilgrimages</a>
                             <a href="" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Prayer Guides</a>
                             <a href="/about" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>About</a>
-                            <a href="" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Contact Us</a>
+                            <a href="/contact" className='hover:text-red-500 hover:underline transition-colors duration-200 rounded-md px-3 py-3 text-sm font-semibold text-ocean '>Contact Us</a>
                         </div>
                     </div>
                     <div className='md:hidden'>
